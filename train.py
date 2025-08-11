@@ -90,28 +90,28 @@ def parse_args():
     )
     parser.add_argument(
         "--val-file",
-        default="lrs3_test_transcript_lengths_seg16s.csv",
+        default="lrs2_val_transcript_lengths_seg16s.csv",
         type=str,
-        help="Filename of validation label list. (Default: lrs3_test_transcript_lengths_seg16s.csv)",
+        help="Filename of validation label list. (Default: lrs2_val_transcript_lengths_seg16s.csv)",
     )
     parser.add_argument(
         "--test-file",
-        default="lrs3_test_transcript_lengths_seg16s.csv",
+        default="lrs2_test_transcript_lengths_seg16s.csv",
         type=str,
-        help="Filename of testing label list. (Default: lrs3_test_transcript_lengths_seg16s.csv)",
+        help="Filename of testing label list. (Default: lrs2_test_transcript_lengths_seg16s.csv)",
     )
     parser.add_argument(
         "--num-nodes",
-        default=4,
+        default=1,
         type=int,
-        help="Number of machines used. (Default: 4)",
+        help="Number of machines used. (Default: 1)",
         required=True,
     )
     parser.add_argument(
         "--gpus",
-        default=8,
+        default=1,
         type=int,
-        help="Number of gpus in each machine. (Default: 8)",
+        help="Number of gpus in each machine. (Default: 1)",
     )
     parser.add_argument(
         "--pretrained-model-path",
@@ -136,7 +136,7 @@ def parse_args():
     )
     parser.add_argument(
         "--max-epochs",
-        default=75,
+        default=10,
         type=int,
         help="Number of epochs. (Default: 75)",
     )
@@ -199,7 +199,7 @@ def init_logger(debug):
 def cli_main():
     args = parse_args()
     #init_logger(args.debug)
-    args.slurm_job_id = os.environ["SLURM_JOB_ID"]
+    #args.slurm_job_id = os.environ["SLURM_JOB_ID"]
     modelmodule = get_lightning_module(args)
     datamodule = DataModule(args, train_num_buckets=args.train_num_buckets)
     trainer = get_trainer(args)
