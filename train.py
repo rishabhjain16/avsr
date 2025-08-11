@@ -12,7 +12,7 @@ from pytorch_lightning.loggers import WandbLogger
 
 # Set environment variables and logger level
 # logging.basicConfig(level=logging.WARNING)
-
+# 
 
 def get_trainer(args):
     seed_everything(42, workers=True)

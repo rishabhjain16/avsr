@@ -1,5 +1,7 @@
 import torch
 import torchaudio
+import json
+import os
 from cosine import WarmupCosineScheduler
 from datamodule.transforms import TextTransform
 
@@ -34,16 +36,22 @@ class ModelModule(LightningModule):
                 self.model.frontend.load_state_dict(tmp_ckpt)
                 print("Pretrained weights of the frontend component are loaded successfully.")
             elif getattr(args, "transfer_encoder", False):
-                tmp_ckpt = {k.replace("frontend.",""):v for k,v in ckpt.items() if k.startswith("frontend.")}
+                # For transfer learning, use state_dict from checkpoint
+                state_dict = ckpt.get("state_dict", ckpt)
+                tmp_ckpt = {k.replace("frontend.",""):v for k,v in state_dict.items() if k.startswith("frontend.")}
                 self.model.frontend.load_state_dict(tmp_ckpt)
-                tmp_ckpt = {k.replace("proj_encoder.",""):v for k,v in ckpt.items() if k.startswith("proj_encoder.")}
+                tmp_ckpt = {k.replace("proj_encoder.",""):v for k,v in state_dict.items() if k.startswith("proj_encoder.")}
                 self.model.proj_encoder.load_state_dict(tmp_ckpt)
-                tmp_ckpt = {k.replace("encoder.",""):v for k,v in ckpt.items() if k.startswith("encoder.")}
+                tmp_ckpt = {k.replace("encoder.",""):v for k,v in state_dict.items() if k.startswith("encoder.")}
                 self.model.encoder.load_state_dict(tmp_ckpt)
                 print("Pretrained weights of the frontend, proj_encoder and encoder component are loaded successfully.")
             else:
-                self.model.load_state_dict(ckpt)
-                print("Pretrained weights of the full model are loaded successfully.")
+                # Handle PyTorch Lightning checkpoint - extract state_dict
+                model_state = ckpt["state_dict"] if "state_dict" in ckpt else ckpt
+                # Remove 'model.' prefix if present
+                clean_state = {k.replace("model.", ""): v for k, v in model_state.items()}
+                self.model.load_state_dict(clean_state)
+                print("Pretrained weights of the full model are loaded successfully. (Using checkpoints instead of pth files)")
 
     def configure_optimizers(self):
         optimizer = torch.optim.AdamW(self.model.parameters(), lr=self.args.lr, weight_decay=self.args.weight_decay, betas=(0.9, 0.98))
@@ -66,6 +74,7 @@ class ModelModule(LightningModule):
     def validation_step(self, batch, batch_idx):
         return self._step(batch, batch_idx, step_type="val")
 
+    #ADDED For saving results in a .json fole
     def test_step(self, sample, sample_idx):
         x = self.model.frontend(sample["input"].unsqueeze(0))
         x = self.model.proj_encoder(x)
@@ -78,6 +87,14 @@ class ModelModule(LightningModule):
 
         actual_token_id = sample["target"]
         actual = self.text_transform.post_process(actual_token_id)
+
+        # Collect results for JSON output
+        self.test_results.append({
+            "sample_idx": sample_idx,
+            "predicted": predicted,
+            "actual": actual,
+            "file_path": sample.get("file_path", f"sample_{sample_idx}")  # if available
+        })
 
         self.total_edit_distance += compute_word_level_distance(actual, predicted)
         self.total_length += len(actual.split())
@@ -116,11 +133,38 @@ class ModelModule(LightningModule):
     def on_test_epoch_start(self):
         self.total_length = 0
         self.total_edit_distance = 0
+        self.test_results = []  # Initialize list to collect results
         self.text_transform = TextTransform()
         self.beam_search = get_beam_search_decoder(self.model, self.token_list)
 
     def on_test_epoch_end(self):
-        self.log("wer", self.total_edit_distance / self.total_length)
+        wer = self.total_edit_distance / self.total_length
+        self.log("wer", wer)
+        
+        # Save results to JSON
+        output_file = getattr(self.args, 'output_json', 'test_results.json')
+        
+        # Create output directory if it doesn't exist
+        os.makedirs(os.path.dirname(output_file) if os.path.dirname(output_file) else '.', exist_ok=True)
+        
+        # Prepare results dictionary
+        results = {
+            "wer": float(wer),
+            "total_samples": len(self.test_results),
+            "total_edit_distance": float(self.total_edit_distance),
+            "total_length": float(self.total_length),
+            "model_path": getattr(self.args, 'pretrained_model_path', 'unknown'),
+            "test_file": getattr(self.args, 'test_file', 'unknown'),
+            "modality": getattr(self.args, 'modality', 'unknown'),
+            "predictions": self.test_results
+        }
+        
+        # Save to JSON file
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(results, f, indent=2, ensure_ascii=False)
+        
+        print(f"Results saved to: {output_file}")
+        print(f"WER: {wer:.4f} ({self.total_edit_distance}/{self.total_length})")
 
 
 def get_beam_search_decoder(

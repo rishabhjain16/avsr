@@ -61,6 +61,12 @@ def parse_args():
         action="store_true",
         help="Flag to use debug level for logging",
     )
+    parser.add_argument(
+        "--output-json",
+        type=str,
+        default="test_results.json",
+        help="Path to save the decoded results in JSON format. (Default: test_results.json)",
+    )
     return parser.parse_args()
 
 
@@ -81,3 +87,6 @@ def cli_main():
 
 if __name__ == "__main__":
     cli_main()
+
+
+## Usage : python eval.py --modality=video --root-dir=/data/ssd2/data_rishabh/lrs2_rf/ --test-file=/data/ssd2/data_rishabh/lrs2_rf/labels/lrs2_test_transcript_lengths_seg16s.csv --pretrained-model-path=/home/rijain@ad.mee.tcd.ie/Experiments/avsr/exp/morell_test1/epoch\=1.ckpt --output-json=./infer/test1.json
