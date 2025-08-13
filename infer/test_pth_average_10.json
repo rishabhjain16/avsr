@@ -1,0 +1,7469 @@
+{
+  "wer": 1.0324324324324323,
+  "total_samples": 1243,
+  "total_edit_distance": 6876.0,
+  "total_length": 6660.0,
+  "model_path": "/data/ssd2/data_rishabh/auto-avsr/exp/test1_10ep_normal/model_avg_10.pth",
+  "test_file": "/data/ssd2/data_rishabh/lrs2_rf/labels/lrs2_test_transcript_lengths_seg16s.csv",
+  "modality": "video",
+  "predictions": [
+    {
+      "sample_idx": 0,
+      "predicted": "",
+      "actual": "AND FOR ME THE SURPRISE WAS",
+      "file_path": "sample_0"
+    },
+    {
+      "sample_idx": 1,
+      "predicted": "",
+      "actual": "THEY'RE MOVING AROUND",
+      "file_path": "sample_1"
+    },
+    {
+      "sample_idx": 2,
+      "predicted": "",
+      "actual": "AND WE WERE RIGHT",
+      "file_path": "sample_2"
+    },
+    {
+      "sample_idx": 3,
+      "predicted": "",
+      "actual": "AND THE NEXT DAY",
+      "file_path": "sample_3"
+    },
+    {
+      "sample_idx": 4,
+      "predicted": "",
+      "actual": "WHEN THERE ISN'T MUCH ELSE IN THE GARDEN",
+      "file_path": "sample_4"
+    },
+    {
+      "sample_idx": 5,
+      "predicted": "",
+      "actual": "SORT OF SECOND HALF OF OCTOBER",
+      "file_path": "sample_5"
+    },
+    {
+      "sample_idx": 6,
+      "predicted": "",
+      "actual": "WELL INTO NOVEMBER",
+      "file_path": "sample_6"
+    },
+    {
+      "sample_idx": 7,
+      "predicted": "",
+      "actual": "WE CAN JUST ABOUT GET AWAY WITH IT NOW",
+      "file_path": "sample_7"
+    },
+    {
+      "sample_idx": 8,
+      "predicted": "",
+      "actual": "SOMETHING LIKE A GARDEN COMPOST",
+      "file_path": "sample_8"
+    },
+    {
+      "sample_idx": 9,
+      "predicted": "",
+      "actual": "IT'S NOT ALL ABOUT SIZE",
+      "file_path": "sample_9"
+    },
+    {
+      "sample_idx": 10,
+      "predicted": "",
+      "actual": "AND IF YOU WANT WONDERFUL",
+      "file_path": "sample_10"
+    },
+    {
+      "sample_idx": 11,
+      "predicted": "",
+      "actual": "STARTING WITH THE COMPOST",
+      "file_path": "sample_11"
+    },
+    {
+      "sample_idx": 12,
+      "predicted": "",
+      "actual": "FOR A BRIEF TIME",
+      "file_path": "sample_12"
+    },
+    {
+      "sample_idx": 13,
+      "predicted": "",
+      "actual": "IT WILL CHANGE LIVES",
+      "file_path": "sample_13"
+    },
+    {
+      "sample_idx": 14,
+      "predicted": "",
+      "actual": "WHEN MY HUSBAND AND I ARE NOT AROUND",
+      "file_path": "sample_14"
+    },
+    {
+      "sample_idx": 15,
+      "predicted": "",
+      "actual": "PLEASE DONATE NOW",
+      "file_path": "sample_15"
+    },
+    {
+      "sample_idx": 16,
+      "predicted": "",
+      "actual": "DON'T FORGET ME",
+      "file_path": "sample_16"
+    },
+    {
+      "sample_idx": 17,
+      "predicted": "",
+      "actual": "THESE ARE MY WORDS",
+      "file_path": "sample_17"
+    },
+    {
+      "sample_idx": 18,
+      "predicted": "",
+      "actual": "IT WOULD HAVE BEEN COMPLETELY ALIEN TO THE REST OF LONDON",
+      "file_path": "sample_18"
+    },
+    {
+      "sample_idx": 19,
+      "predicted": "",
+      "actual": "BUT I THINK WHAT WE'RE SEEING HERE IS KIND OF THE BLUEPRINT",
+      "file_path": "sample_19"
+    },
+    {
+      "sample_idx": 20,
+      "predicted": "",
+      "actual": "HE WAS SO POPULAR",
+      "file_path": "sample_20"
+    },
+    {
+      "sample_idx": 21,
+      "predicted": "",
+      "actual": "INSTEAD OF BEING SOMEONE'S ARM CANDY",
+      "file_path": "sample_21"
+    },
+    {
+      "sample_idx": 22,
+      "predicted": "",
+      "actual": "I EXPECTED YOU TO HAVE A PAST",
+      "file_path": "sample_22"
+    },
+    {
+      "sample_idx": 23,
+      "predicted": "",
+      "actual": "SEE HOW MUCH IT COMES TO",
+      "file_path": "sample_23"
+    },
+    {
+      "sample_idx": 24,
+      "predicted": "",
+      "actual": "I PAY THE MONEY",
+      "file_path": "sample_24"
+    },
+    {
+      "sample_idx": 25,
+      "predicted": "",
+      "actual": "OVER THE COURSE OF HIS LIFE",
+      "file_path": "sample_25"
+    },
+    {
+      "sample_idx": 26,
+      "predicted": "",
+      "actual": "WHEN IT'S FINISHED",
+      "file_path": "sample_26"
+    },
+    {
+      "sample_idx": 27,
+      "predicted": "",
+      "actual": "BUT BEFORE I DO",
+      "file_path": "sample_27"
+    },
+    {
+      "sample_idx": 28,
+      "predicted": "",
+      "actual": "THIS HOUSE WILL JUST COME TOGETHER AND FLOURISH",
+      "file_path": "sample_28"
+    },
+    {
+      "sample_idx": 29,
+      "predicted": "",
+      "actual": "ANY MAN WOULD BE PROUD TO HAVE YOU AS A SON",
+      "file_path": "sample_29"
+    },
+    {
+      "sample_idx": 30,
+      "predicted": "",
+      "actual": "AT THE END OF THE DAY",
+      "file_path": "sample_30"
+    },
+    {
+      "sample_idx": 31,
+      "predicted": "",
+      "actual": "GET THEM INTO THE GARDEN",
+      "file_path": "sample_31"
+    },
+    {
+      "sample_idx": 32,
+      "predicted": "",
+      "actual": "THIS ONE IS TOTALLY OUT OF CONTROL",
+      "file_path": "sample_32"
+    },
+    {
+      "sample_idx": 33,
+      "predicted": "",
+      "actual": "BUT IT COMES AND GOES",
+      "file_path": "sample_33"
+    },
+    {
+      "sample_idx": 34,
+      "predicted": "",
+      "actual": "IT'S PART OF THE NATIONAL GARDENS SCHEME",
+      "file_path": "sample_34"
+    },
+    {
+      "sample_idx": 35,
+      "predicted": "",
+      "actual": "I THINK IT'S BRILLIANT",
+      "file_path": "sample_35"
+    },
+    {
+      "sample_idx": 36,
+      "predicted": "",
+      "actual": "A ONE BEDROOM FIRST FLOOR FLAT",
+      "file_path": "sample_36"
+    },
+    {
+      "sample_idx": 37,
+      "predicted": "",
+      "actual": "IF IT WAS GOING TO BE INCREASED",
+      "file_path": "sample_37"
+    },
+    {
+      "sample_idx": 38,
+      "predicted": "",
+      "actual": "BUT IT'S A DECENT SIZE",
+      "file_path": "sample_38"
+    },
+    {
+      "sample_idx": 39,
+      "predicted": "",
+      "actual": "I'M NOT MASSIVELY HAPPY",
+      "file_path": "sample_39"
+    },
+    {
+      "sample_idx": 40,
+      "predicted": "",
+      "actual": "IF YOU ARE LOOKING ROUND AUCTION PROPERTIES BEFORE THE AUCTION",
+      "file_path": "sample_40"
+    },
+    {
+      "sample_idx": 41,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T KNOW WHAT I'M GOING TO SAY I'M GOING TO SAY I'M GOING TO TELL YOU",
+      "actual": "IT'S A VERY ATTRACTIVE GUIDE PRICE FOR A SUBSTANTIAL HOUSE SO WELL",
+      "file_path": "sample_41"
+    },
+    {
+      "sample_idx": 42,
+      "predicted": "",
+      "actual": "DID THEY GET IT DONE ON TIME AND FOR THE RIGHT MONEY",
+      "file_path": "sample_42"
+    },
+    {
+      "sample_idx": 43,
+      "predicted": "",
+      "actual": "BUT WHAT A SURPRISE WHEN YOU COME IN",
+      "file_path": "sample_43"
+    },
+    {
+      "sample_idx": 44,
+      "predicted": "",
+      "actual": "BECAUSE IT'S FANTASTIC",
+      "file_path": "sample_44"
+    },
+    {
+      "sample_idx": 45,
+      "predicted": "",
+      "actual": "WHAT DO YOU THINK ABOUT THAT",
+      "file_path": "sample_45"
+    },
+    {
+      "sample_idx": 46,
+      "predicted": "",
+      "actual": "HE'S LOOKING TO SELL IT",
+      "file_path": "sample_46"
+    },
+    {
+      "sample_idx": 47,
+      "predicted": "",
+      "actual": "IT'S NOT AS EASY AS IT LOOKS",
+      "file_path": "sample_47"
+    },
+    {
+      "sample_idx": 48,
+      "predicted": "",
+      "actual": "STICK TO WHAT YOU'RE GOOD AT",
+      "file_path": "sample_48"
+    },
+    {
+      "sample_idx": 49,
+      "predicted": "",
+      "actual": "THAT IS IMPORTANT",
+      "file_path": "sample_49"
+    },
+    {
+      "sample_idx": 50,
+      "predicted": "",
+      "actual": "BUT HE DID REALLY WELL",
+      "file_path": "sample_50"
+    },
+    {
+      "sample_idx": 51,
+      "predicted": "",
+      "actual": "AND DO WHAT I USED TO DO WHEN I WAS A LITTLE BOY",
+      "file_path": "sample_51"
+    },
+    {
+      "sample_idx": 52,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU",
+      "actual": "I'M STARTING UP A VENUE FOR YANK HOLIDAY MAKERS ON AN ISLAND AT BAHAMAS",
+      "file_path": "sample_52"
+    },
+    {
+      "sample_idx": 53,
+      "predicted": "",
+      "actual": "I COULDN'T READ IT",
+      "file_path": "sample_53"
+    },
+    {
+      "sample_idx": 54,
+      "predicted": "",
+      "actual": "EXCEPT AS A LAST RESORT",
+      "file_path": "sample_54"
+    },
+    {
+      "sample_idx": 55,
+      "predicted": "",
+      "actual": "YOU NEVER KNOW BY THE END OF THE BUILD",
+      "file_path": "sample_55"
+    },
+    {
+      "sample_idx": 56,
+      "predicted": "",
+      "actual": "I KNOW IT COMES WITH PLANNING PERMISSION",
+      "file_path": "sample_56"
+    },
+    {
+      "sample_idx": 57,
+      "predicted": "",
+      "actual": "BUT WE'RE GOING TO IMPROVE ON THINGS LIKE THE GREEN ROOF",
+      "file_path": "sample_57"
+    },
+    {
+      "sample_idx": 58,
+      "predicted": "",
+      "actual": "WE'VE GOT A GREAT RELATIONSHIP",
+      "file_path": "sample_58"
+    },
+    {
+      "sample_idx": 59,
+      "predicted": "",
+      "actual": "WHERE IS THE GAS",
+      "file_path": "sample_59"
+    },
+    {
+      "sample_idx": 60,
+      "predicted": "",
+      "actual": "SOME MEMBERS OF THE PUBLIC DON'T QUITE UNDERSTAND LEASEHOLD",
+      "file_path": "sample_60"
+    },
+    {
+      "sample_idx": 61,
+      "predicted": "",
+      "actual": "IF YOU LIVED IN THE BUILDING",
+      "file_path": "sample_61"
+    },
+    {
+      "sample_idx": 62,
+      "predicted": "",
+      "actual": "WOULD YOU WANT NEW NEIGHBOURS EVERY WEEK OR EVERY FORTNIGHT",
+      "file_path": "sample_62"
+    },
+    {
+      "sample_idx": 63,
+      "predicted": "",
+      "actual": "BUT I THINK HE'S ALREADY LEARNED SOME REALLY IMPORTANT PROPERTY LESSONS",
+      "file_path": "sample_63"
+    },
+    {
+      "sample_idx": 64,
+      "predicted": "",
+      "actual": "CHOOSING A GOOD LOCATION",
+      "file_path": "sample_64"
+    },
+    {
+      "sample_idx": 65,
+      "predicted": "",
+      "actual": "YOU HAVE TO HOLD YOUR NERVE",
+      "file_path": "sample_65"
+    },
+    {
+      "sample_idx": 66,
+      "predicted": "",
+      "actual": "WHO'S VERY MUCH INTO FAMILY HISTORY",
+      "file_path": "sample_66"
+    },
+    {
+      "sample_idx": 67,
+      "predicted": "",
+      "actual": "WE DON'T WANT TO SPEND MORE THAN",
+      "file_path": "sample_67"
+    },
+    {
+      "sample_idx": 68,
+      "predicted": "",
+      "actual": "IT CERTAINLY WON'T BE",
+      "file_path": "sample_68"
+    },
+    {
+      "sample_idx": 69,
+      "predicted": "",
+      "actual": "I THINK SOMETHING DRASTIC NEEDS TO BE DONE",
+      "file_path": "sample_69"
+    },
+    {
+      "sample_idx": 70,
+      "predicted": "",
+      "actual": "WHAT DO YOU KNOW ABOUT IT",
+      "file_path": "sample_70"
+    },
+    {
+      "sample_idx": 71,
+      "predicted": "",
+      "actual": "I'M RIGHT IN SAYING THAT",
+      "file_path": "sample_71"
+    },
+    {
+      "sample_idx": 72,
+      "predicted": "",
+      "actual": "TIME HAS PASSED",
+      "file_path": "sample_72"
+    },
+    {
+      "sample_idx": 73,
+      "predicted": "",
+      "actual": "SO LET'S GO BACK AND FIND OUT",
+      "file_path": "sample_73"
+    },
+    {
+      "sample_idx": 74,
+      "predicted": "",
+      "actual": "I'M VERY IMPRESSED",
+      "file_path": "sample_74"
+    },
+    {
+      "sample_idx": 75,
+      "predicted": "",
+      "actual": "THE BEST BARGAINS",
+      "file_path": "sample_75"
+    },
+    {
+      "sample_idx": 76,
+      "predicted": "",
+      "actual": "NOT QUITE AS HIGH",
+      "file_path": "sample_76"
+    },
+    {
+      "sample_idx": 77,
+      "predicted": "",
+      "actual": "IT'S A PLUS POINT",
+      "file_path": "sample_77"
+    },
+    {
+      "sample_idx": 78,
+      "predicted": "",
+      "actual": "ON THE FACE OF IT",
+      "file_path": "sample_78"
+    },
+    {
+      "sample_idx": 79,
+      "predicted": "",
+      "actual": "THE FIRST AND SECOND FLOOR FLATS",
+      "file_path": "sample_79"
+    },
+    {
+      "sample_idx": 80,
+      "predicted": "",
+      "actual": "AS A RESULT OF SMOKING",
+      "file_path": "sample_80"
+    },
+    {
+      "sample_idx": 81,
+      "predicted": "",
+      "actual": "WE'LL GIVE IT A TRY",
+      "file_path": "sample_81"
+    },
+    {
+      "sample_idx": 82,
+      "predicted": "",
+      "actual": "GO TO THE PRESS",
+      "file_path": "sample_82"
+    },
+    {
+      "sample_idx": 83,
+      "predicted": "",
+      "actual": "LEARNING THE ROPES",
+      "file_path": "sample_83"
+    },
+    {
+      "sample_idx": 84,
+      "predicted": "",
+      "actual": "EIGHT FEET TALL",
+      "file_path": "sample_84"
+    },
+    {
+      "sample_idx": 85,
+      "predicted": "",
+      "actual": "AND THE REASON FOR THAT",
+      "file_path": "sample_85"
+    },
+    {
+      "sample_idx": 86,
+      "predicted": "",
+      "actual": "A LITTLE SAXIFRAGE",
+      "file_path": "sample_86"
+    },
+    {
+      "sample_idx": 87,
+      "predicted": "",
+      "actual": "WHEREVER YOU ARE",
+      "file_path": "sample_87"
+    },
+    {
+      "sample_idx": 88,
+      "predicted": "",
+      "actual": "IT MAY BE A MINIATURE COMPARED TO THAT",
+      "file_path": "sample_88"
+    },
+    {
+      "sample_idx": 89,
+      "predicted": "",
+      "actual": "I CAN PLANT THEM IN THAT SPOT",
+      "file_path": "sample_89"
+    },
+    {
+      "sample_idx": 90,
+      "predicted": "",
+      "actual": "SOMETIMES IT DOESN'T",
+      "file_path": "sample_90"
+    },
+    {
+      "sample_idx": 91,
+      "predicted": "",
+      "actual": "I THINK IT LOOKS GREAT",
+      "file_path": "sample_91"
+    },
+    {
+      "sample_idx": 92,
+      "predicted": "",
+      "actual": "THAT'S QUITE A LARGE LEAF",
+      "file_path": "sample_92"
+    },
+    {
+      "sample_idx": 93,
+      "predicted": "",
+      "actual": "AND IT'S A GREAT WAY TO EAT IT",
+      "file_path": "sample_93"
+    },
+    {
+      "sample_idx": 94,
+      "predicted": "",
+      "actual": "THAT FIRST MEETING",
+      "file_path": "sample_94"
+    },
+    {
+      "sample_idx": 95,
+      "predicted": "",
+      "actual": "BUT NOW WE HAVE THESE VIRUSES",
+      "file_path": "sample_95"
+    },
+    {
+      "sample_idx": 96,
+      "predicted": "",
+      "actual": "SQUIRREL POX VIRUS",
+      "file_path": "sample_96"
+    },
+    {
+      "sample_idx": 97,
+      "predicted": "",
+      "actual": "CAUSES IT NO HARM",
+      "file_path": "sample_97"
+    },
+    {
+      "sample_idx": 98,
+      "predicted": "",
+      "actual": "BUT NOT FOR ME AS A FARMER",
+      "file_path": "sample_98"
+    },
+    {
+      "sample_idx": 99,
+      "predicted": "",
+      "actual": "IT'S THAT SIMPLE",
+      "file_path": "sample_99"
+    },
+    {
+      "sample_idx": 100,
+      "predicted": "",
+      "actual": "THIS REALLY IS A TALE OF TWO CITIES",
+      "file_path": "sample_100"
+    },
+    {
+      "sample_idx": 101,
+      "predicted": "",
+      "actual": "IT'S A LONG WAY FROM HOME",
+      "file_path": "sample_101"
+    },
+    {
+      "sample_idx": 102,
+      "predicted": "",
+      "actual": "AS YOU ENTER THE REAR PART OF THE SHOP",
+      "file_path": "sample_102"
+    },
+    {
+      "sample_idx": 103,
+      "predicted": "",
+      "actual": "LOTS OF THINGS TO THINK ABOUT",
+      "file_path": "sample_103"
+    },
+    {
+      "sample_idx": 104,
+      "predicted": "",
+      "actual": "I'M STILL HAPPY",
+      "file_path": "sample_104"
+    },
+    {
+      "sample_idx": 105,
+      "predicted": "",
+      "actual": "YOU MUST HAVE A PERSONAL KEY",
+      "file_path": "sample_105"
+    },
+    {
+      "sample_idx": 106,
+      "predicted": "",
+      "actual": "WE WILL OWN IT TOGETHER",
+      "file_path": "sample_106"
+    },
+    {
+      "sample_idx": 107,
+      "predicted": "",
+      "actual": "IT WILL BE A GREAT INVESTMENT",
+      "file_path": "sample_107"
+    },
+    {
+      "sample_idx": 108,
+      "predicted": "",
+      "actual": "OR PROPERTIES SHOULD I SAY",
+      "file_path": "sample_108"
+    },
+    {
+      "sample_idx": 109,
+      "predicted": "",
+      "actual": "PRETTY ON THE OUTSIDE",
+      "file_path": "sample_109"
+    },
+    {
+      "sample_idx": 110,
+      "predicted": "",
+      "actual": "BECAUSE IT WAS OFFICES",
+      "file_path": "sample_110"
+    },
+    {
+      "sample_idx": 111,
+      "predicted": "",
+      "actual": "VERY CLOSE BY THE UNIVERSITY",
+      "file_path": "sample_111"
+    },
+    {
+      "sample_idx": 112,
+      "predicted": "",
+      "actual": "GROUND FLOOR FLAT",
+      "file_path": "sample_112"
+    },
+    {
+      "sample_idx": 113,
+      "predicted": "",
+      "actual": "I WOULD MARKET THAT",
+      "file_path": "sample_113"
+    },
+    {
+      "sample_idx": 114,
+      "predicted": "",
+      "actual": "ADD ANOTHER TEN ON",
+      "file_path": "sample_114"
+    },
+    {
+      "sample_idx": 115,
+      "predicted": "",
+      "actual": "FOR THIS PROPERTY",
+      "file_path": "sample_115"
+    },
+    {
+      "sample_idx": 116,
+      "predicted": "",
+      "actual": "BUT IN THIS CASE",
+      "file_path": "sample_116"
+    },
+    {
+      "sample_idx": 117,
+      "predicted": "",
+      "actual": "ONE BEDROOM APARTMENTS AROUND HERE AT THE MOMENT",
+      "file_path": "sample_117"
+    },
+    {
+      "sample_idx": 118,
+      "predicted": "",
+      "actual": "PROBABLY AROUND 85",
+      "file_path": "sample_118"
+    },
+    {
+      "sample_idx": 119,
+      "predicted": "",
+      "actual": "AND SINCE THE CONVERSION",
+      "file_path": "sample_119"
+    },
+    {
+      "sample_idx": 120,
+      "predicted": "",
+      "actual": "REALISTIC VALUE WISE",
+      "file_path": "sample_120"
+    },
+    {
+      "sample_idx": 121,
+      "predicted": "",
+      "actual": "SHE WAS A FLAWED SHIP",
+      "file_path": "sample_121"
+    },
+    {
+      "sample_idx": 122,
+      "predicted": "",
+      "actual": "EVEN BEFORE SHE ENTERED THE WATER",
+      "file_path": "sample_122"
+    },
+    {
+      "sample_idx": 123,
+      "predicted": "",
+      "actual": "VISITING ALMOST ALL PARTS OF THE EMPIRE",
+      "file_path": "sample_123"
+    },
+    {
+      "sample_idx": 124,
+      "predicted": "",
+      "actual": "FROM SMALL SHIPS",
+      "file_path": "sample_124"
+    },
+    {
+      "sample_idx": 125,
+      "predicted": "",
+      "actual": "IS IT TRUE SHE WAS",
+      "file_path": "sample_125"
+    },
+    {
+      "sample_idx": 126,
+      "predicted": "",
+      "actual": "SOMETIMES IT'S DIFFICULT TO KNOW WHERE",
+      "file_path": "sample_126"
+    },
+    {
+      "sample_idx": 127,
+      "predicted": "",
+      "actual": "IF YOU INTEND TO BID ON A PLACE",
+      "file_path": "sample_127"
+    },
+    {
+      "sample_idx": 128,
+      "predicted": "",
+      "actual": "IT'S HARD TO COME AWAY FROM IT",
+      "file_path": "sample_128"
+    },
+    {
+      "sample_idx": 129,
+      "predicted": "",
+      "actual": "IT SEEMS A VERY GOOD LOCATION",
+      "file_path": "sample_129"
+    },
+    {
+      "sample_idx": 130,
+      "predicted": "",
+      "actual": "BECAUSE OF THE DEMAND OF THE MARKET",
+      "file_path": "sample_130"
+    },
+    {
+      "sample_idx": 131,
+      "predicted": "",
+      "actual": "IT MIGHT BE VIABLE",
+      "file_path": "sample_131"
+    },
+    {
+      "sample_idx": 132,
+      "predicted": "",
+      "actual": "THAT'S MY KIND OF LOCATION",
+      "file_path": "sample_132"
+    },
+    {
+      "sample_idx": 133,
+      "predicted": "",
+      "actual": "WHAT WAS IT THAT MADE YOU THINK",
+      "file_path": "sample_133"
+    },
+    {
+      "sample_idx": 134,
+      "predicted": "",
+      "actual": "HOW CAN I DO THAT",
+      "file_path": "sample_134"
+    },
+    {
+      "sample_idx": 135,
+      "predicted": "",
+      "actual": "DESTROYING THE PROPERTY",
+      "file_path": "sample_135"
+    },
+    {
+      "sample_idx": 136,
+      "predicted": "",
+      "actual": "PURELY BY CHANCE",
+      "file_path": "sample_136"
+    },
+    {
+      "sample_idx": 137,
+      "predicted": "",
+      "actual": "ARE THEY STRUGGLING OR ARE THEY FLUSHED WITH SUCCESS",
+      "file_path": "sample_137"
+    },
+    {
+      "sample_idx": 138,
+      "predicted": "",
+      "actual": "HE'S MY BUILDER",
+      "file_path": "sample_138"
+    },
+    {
+      "sample_idx": 139,
+      "predicted": "",
+      "actual": "WE PLAYED IN A BAND TOGETHER",
+      "file_path": "sample_139"
+    },
+    {
+      "sample_idx": 140,
+      "predicted": "",
+      "actual": "AFTER JUST A COUPLE OF DAYS",
+      "file_path": "sample_140"
+    },
+    {
+      "sample_idx": 141,
+      "predicted": "",
+      "actual": "JUST LIKE ANY GOOD COMIC BOOK VILLAIN",
+      "file_path": "sample_141"
+    },
+    {
+      "sample_idx": 142,
+      "predicted": "",
+      "actual": "AND THEN OF COURSE",
+      "file_path": "sample_142"
+    },
+    {
+      "sample_idx": 143,
+      "predicted": "",
+      "actual": "DESPERATE TO PROVE YOUR BIZARRE THEORY",
+      "file_path": "sample_143"
+    },
+    {
+      "sample_idx": 144,
+      "predicted": "",
+      "actual": "BUT SINCE JACK'S FIRST DISCOVERY",
+      "file_path": "sample_144"
+    },
+    {
+      "sample_idx": 145,
+      "predicted": "",
+      "actual": "PROTECTED FROM THE PREVAILING WINDS",
+      "file_path": "sample_145"
+    },
+    {
+      "sample_idx": 146,
+      "predicted": "",
+      "actual": "SEARCHING FOR ANSWERS",
+      "file_path": "sample_146"
+    },
+    {
+      "sample_idx": 147,
+      "predicted": "",
+      "actual": "WE KNOW WHAT THEY ARE",
+      "file_path": "sample_147"
+    },
+    {
+      "sample_idx": 148,
+      "predicted": "",
+      "actual": "THERE'S NO OBVIOUS REASON",
+      "file_path": "sample_148"
+    },
+    {
+      "sample_idx": 149,
+      "predicted": "",
+      "actual": "TAKING HORTICULTURE TO THE EXTREME",
+      "file_path": "sample_149"
+    },
+    {
+      "sample_idx": 150,
+      "predicted": "",
+      "actual": "THE WHOLE GARDENS ARE EXTRAORDINARY AND",
+      "file_path": "sample_150"
+    },
+    {
+      "sample_idx": 151,
+      "predicted": "",
+      "actual": "LIKE HUNDREDS OF THOUSANDS OF PEOPLE DO EVERY YEAR",
+      "file_path": "sample_151"
+    },
+    {
+      "sample_idx": 152,
+      "predicted": "",
+      "actual": "BUT NOW THERE'S MORE PROTECTION",
+      "file_path": "sample_152"
+    },
+    {
+      "sample_idx": 153,
+      "predicted": "",
+      "actual": "ABOUT 20 YEARS AGO",
+      "file_path": "sample_153"
+    },
+    {
+      "sample_idx": 154,
+      "predicted": "",
+      "actual": "AND A COUPLE OF WEEKS AGO",
+      "file_path": "sample_154"
+    },
+    {
+      "sample_idx": 155,
+      "predicted": "",
+      "actual": "ENJOY THE SUMMER",
+      "file_path": "sample_155"
+    },
+    {
+      "sample_idx": 156,
+      "predicted": "",
+      "actual": "ARE THEY RELATIVES OF YOURS",
+      "file_path": "sample_156"
+    },
+    {
+      "sample_idx": 157,
+      "predicted": "",
+      "actual": "NOT JUST A HOTEL",
+      "file_path": "sample_157"
+    },
+    {
+      "sample_idx": 158,
+      "predicted": "",
+      "actual": "BUT THE WALDORF ASTORIA",
+      "file_path": "sample_158"
+    },
+    {
+      "sample_idx": 159,
+      "predicted": "",
+      "actual": "THEY WOULD BE ABLE TO GO BACK",
+      "file_path": "sample_159"
+    },
+    {
+      "sample_idx": 160,
+      "predicted": "",
+      "actual": "NOT JUST A HOTEL",
+      "file_path": "sample_160"
+    },
+    {
+      "sample_idx": 161,
+      "predicted": "",
+      "actual": "NOT JUST IN THIS TOWN",
+      "file_path": "sample_161"
+    },
+    {
+      "sample_idx": 162,
+      "predicted": "",
+      "actual": "EVERY SEPTEMBER THIS PLACE WOULD BE TRANSFORMED INTO WHAT WAS",
+      "file_path": "sample_162"
+    },
+    {
+      "sample_idx": 163,
+      "predicted": "",
+      "actual": "FOR OVER 700 YEARS",
+      "file_path": "sample_163"
+    },
+    {
+      "sample_idx": 164,
+      "predicted": "",
+      "actual": "SO FROM HIS VANTAGE POINT",
+      "file_path": "sample_164"
+    },
+    {
+      "sample_idx": 165,
+      "predicted": "",
+      "actual": "THERE IS NO AIR SO THERE IS NO SOUND",
+      "file_path": "sample_165"
+    },
+    {
+      "sample_idx": 166,
+      "predicted": "",
+      "actual": "WITH ONE OF THE ROOMS UPSTAIRS",
+      "file_path": "sample_166"
+    },
+    {
+      "sample_idx": 167,
+      "predicted": "",
+      "actual": "WHICH IS ONLY 10 MINUTES AWAY",
+      "file_path": "sample_167"
+    },
+    {
+      "sample_idx": 168,
+      "predicted": "",
+      "actual": "THIS IS A SWEET",
+      "file_path": "sample_168"
+    },
+    {
+      "sample_idx": 169,
+      "predicted": "",
+      "actual": "BEFORE WE ALL GET TOO EXCITED ABOUT THAT PROSPECT",
+      "file_path": "sample_169"
+    },
+    {
+      "sample_idx": 170,
+      "predicted": "",
+      "actual": "IT CAN BE QUITE EXPENSIVE",
+      "file_path": "sample_170"
+    },
+    {
+      "sample_idx": 171,
+      "predicted": "",
+      "actual": "IT'S A MULTICULTURAL",
+      "file_path": "sample_171"
+    },
+    {
+      "sample_idx": 172,
+      "predicted": "",
+      "actual": "ON THE FACE OF IT",
+      "file_path": "sample_172"
+    },
+    {
+      "sample_idx": 173,
+      "predicted": "",
+      "actual": "BUYING A NEW BUILD PROPERTY SHOULD MEAN YOU DON'T HAVE ANY WORK TO DO",
+      "file_path": "sample_173"
+    },
+    {
+      "sample_idx": 174,
+      "predicted": "",
+      "actual": "SOME ISSUES WITH POTENTIAL DAMP",
+      "file_path": "sample_174"
+    },
+    {
+      "sample_idx": 175,
+      "predicted": "",
+      "actual": "A GREAT PLACE FOR HIM TO BE",
+      "file_path": "sample_175"
+    },
+    {
+      "sample_idx": 176,
+      "predicted": "",
+      "actual": "WE HAVE TO PAY FOR THAT",
+      "file_path": "sample_176"
+    },
+    {
+      "sample_idx": 177,
+      "predicted": "",
+      "actual": "SO RATHER THAN JUST RELYING ON THIS INFORMATION",
+      "file_path": "sample_177"
+    },
+    {
+      "sample_idx": 178,
+      "predicted": "",
+      "actual": "ALL OF THE BRAIN IS COMBINING ALL THE DIFFERENT SENSES",
+      "file_path": "sample_178"
+    },
+    {
+      "sample_idx": 179,
+      "predicted": "",
+      "actual": "WHO DOESN'T HAVE VISION",
+      "file_path": "sample_179"
+    },
+    {
+      "sample_idx": 180,
+      "predicted": "",
+      "actual": "SO YOU HAVE YOUR BATHROOM IN THIS AREA AND THEN",
+      "file_path": "sample_180"
+    },
+    {
+      "sample_idx": 181,
+      "predicted": "",
+      "actual": "WHEN I SEE THAT",
+      "file_path": "sample_181"
+    },
+    {
+      "sample_idx": 182,
+      "predicted": "",
+      "actual": "AND I WOULDN'T BE SURPRISED",
+      "file_path": "sample_182"
+    },
+    {
+      "sample_idx": 183,
+      "predicted": "",
+      "actual": "THIS IS VERY SIMILAR",
+      "file_path": "sample_183"
+    },
+    {
+      "sample_idx": 184,
+      "predicted": "",
+      "actual": "OR HAVE THEY ENCOUNTERED PROBLEMS",
+      "file_path": "sample_184"
+    },
+    {
+      "sample_idx": 185,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M GOING",
+      "actual": "AND TURNING UPSTAIRS INTO AN OPEN PLAN AREA IS DEFINITELY THE WAY TO GO",
+      "file_path": "sample_185"
+    },
+    {
+      "sample_idx": 186,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M",
+      "actual": "TRAVEL THREE MILES FURTHER WEST AND YOU DO GET MORE FOR YOUR MONEY",
+      "file_path": "sample_186"
+    },
+    {
+      "sample_idx": 187,
+      "predicted": "",
+      "actual": "IF THAT WAS FITTED OUT",
+      "file_path": "sample_187"
+    },
+    {
+      "sample_idx": 188,
+      "predicted": "",
+      "actual": "WILL IT BE A FUN",
+      "file_path": "sample_188"
+    },
+    {
+      "sample_idx": 189,
+      "predicted": "",
+      "actual": "FABULOUS PROJECT FOR THEM",
+      "file_path": "sample_189"
+    },
+    {
+      "sample_idx": 190,
+      "predicted": "",
+      "actual": "WILL IT BE ABOVE PAR",
+      "file_path": "sample_190"
+    },
+    {
+      "sample_idx": 191,
+      "predicted": "",
+      "actual": "THAT'S AN OPTION",
+      "file_path": "sample_191"
+    },
+    {
+      "sample_idx": 192,
+      "predicted": "",
+      "actual": "THAT'S VERY BAD NEWS",
+      "file_path": "sample_192"
+    },
+    {
+      "sample_idx": 193,
+      "predicted": "",
+      "actual": "AND THAT'S REALLY WELL DONE",
+      "file_path": "sample_193"
+    },
+    {
+      "sample_idx": 194,
+      "predicted": "",
+      "actual": "IT TAKES HARD WORK",
+      "file_path": "sample_194"
+    },
+    {
+      "sample_idx": 195,
+      "predicted": "",
+      "actual": "AND THINGS LIKE THAT WE'LL DO OURSELVES",
+      "file_path": "sample_195"
+    },
+    {
+      "sample_idx": 196,
+      "predicted": "",
+      "actual": "THIS AUCTION LOT HAS IT IN SPADES",
+      "file_path": "sample_196"
+    },
+    {
+      "sample_idx": 197,
+      "predicted": "",
+      "actual": "IF YOU CAN'T GO UP",
+      "file_path": "sample_197"
+    },
+    {
+      "sample_idx": 198,
+      "predicted": "",
+      "actual": "IT'S COSMETICALLY IMPROVED QUITE DRASTICALLY HERE",
+      "file_path": "sample_198"
+    },
+    {
+      "sample_idx": 199,
+      "predicted": "",
+      "actual": "ON THE SECOND FLOOR",
+      "file_path": "sample_199"
+    },
+    {
+      "sample_idx": 200,
+      "predicted": "",
+      "actual": "IT'S VERY CLEAN",
+      "file_path": "sample_200"
+    },
+    {
+      "sample_idx": 201,
+      "predicted": "",
+      "actual": "THE APPLIANCES HAVE BEEN DONE NICELY",
+      "file_path": "sample_201"
+    },
+    {
+      "sample_idx": 202,
+      "predicted": "",
+      "actual": "IT COULD BE YOUR PASSPORT TO A SMALL FORTUNE",
+      "file_path": "sample_202"
+    },
+    {
+      "sample_idx": 203,
+      "predicted": "",
+      "actual": "IN OTHER WORDS MADE THE BASE",
+      "file_path": "sample_203"
+    },
+    {
+      "sample_idx": 204,
+      "predicted": "",
+      "actual": "GARAGE AND TECHNO FUNK",
+      "file_path": "sample_204"
+    },
+    {
+      "sample_idx": 205,
+      "predicted": "",
+      "actual": "END OF NOVEMBER",
+      "file_path": "sample_205"
+    },
+    {
+      "sample_idx": 206,
+      "predicted": "",
+      "actual": "LOOK AT ME AT ALL",
+      "file_path": "sample_206"
+    },
+    {
+      "sample_idx": 207,
+      "predicted": "",
+      "actual": "BECAUSE I MUST SAY",
+      "file_path": "sample_207"
+    },
+    {
+      "sample_idx": 208,
+      "predicted": "",
+      "actual": "THE FOLLOWING SPRING",
+      "file_path": "sample_208"
+    },
+    {
+      "sample_idx": 209,
+      "predicted": "",
+      "actual": "OVER THE LAST FEW WEEKS",
+      "file_path": "sample_209"
+    },
+    {
+      "sample_idx": 210,
+      "predicted": "",
+      "actual": "AND THAT'S ALL ABOUT",
+      "file_path": "sample_210"
+    },
+    {
+      "sample_idx": 211,
+      "predicted": "",
+      "actual": "I TEND TO USE NATURAL BRITISH STONE",
+      "file_path": "sample_211"
+    },
+    {
+      "sample_idx": 212,
+      "predicted": "",
+      "actual": "IF YOU TRAVEL THE WORLD",
+      "file_path": "sample_212"
+    },
+    {
+      "sample_idx": 213,
+      "predicted": "",
+      "actual": "HERE IN THIS GREENHOUSE AND THE OTHER ONE",
+      "file_path": "sample_213"
+    },
+    {
+      "sample_idx": 214,
+      "predicted": "",
+      "actual": "AS LONG AS YOU'RE CALM",
+      "file_path": "sample_214"
+    },
+    {
+      "sample_idx": 215,
+      "predicted": "",
+      "actual": "IS IT ALL GOOD NEWS",
+      "file_path": "sample_215"
+    },
+    {
+      "sample_idx": 216,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO SAY",
+      "actual": "WHY ARE MANY SUPERMARKETS STOPPING SELLING CAGED EGGS",
+      "file_path": "sample_216"
+    },
+    {
+      "sample_idx": 217,
+      "predicted": "",
+      "actual": "FREE RANGE GOOD",
+      "file_path": "sample_217"
+    },
+    {
+      "sample_idx": 218,
+      "predicted": "",
+      "actual": "TO MAKE IT WORK",
+      "file_path": "sample_218"
+    },
+    {
+      "sample_idx": 219,
+      "predicted": "",
+      "actual": "VERY FEW REMAIN",
+      "file_path": "sample_219"
+    },
+    {
+      "sample_idx": 220,
+      "predicted": "",
+      "actual": "TAKING IT ALL IN",
+      "file_path": "sample_220"
+    },
+    {
+      "sample_idx": 221,
+      "predicted": "",
+      "actual": "ONE NORTHERN WELSH RULER",
+      "file_path": "sample_221"
+    },
+    {
+      "sample_idx": 222,
+      "predicted": "",
+      "actual": "FOR THE FIRST TIME",
+      "file_path": "sample_222"
+    },
+    {
+      "sample_idx": 223,
+      "predicted": "",
+      "actual": "FORMALLY ACKNOWLEDGED HIS TITLE AS THE PRINCE OF WALES",
+      "file_path": "sample_223"
+    },
+    {
+      "sample_idx": 224,
+      "predicted": "",
+      "actual": "AND HERE ON TOP OF THE EAGLE TOWER",
+      "file_path": "sample_224"
+    },
+    {
+      "sample_idx": 225,
+      "predicted": "",
+      "actual": "WHICH IS NOW IN SYRIA",
+      "file_path": "sample_225"
+    },
+    {
+      "sample_idx": 226,
+      "predicted": "",
+      "actual": "ACCORDING TO LEGEND",
+      "file_path": "sample_226"
+    },
+    {
+      "sample_idx": 227,
+      "predicted": "",
+      "actual": "IT WAS A BLANK CANVAS",
+      "file_path": "sample_227"
+    },
+    {
+      "sample_idx": 228,
+      "predicted": "",
+      "actual": "IN THE FIRST YEAR ALONE",
+      "file_path": "sample_228"
+    },
+    {
+      "sample_idx": 229,
+      "predicted": "",
+      "actual": "AS SHE LAY DYING",
+      "file_path": "sample_229"
+    },
+    {
+      "sample_idx": 230,
+      "predicted": "",
+      "actual": "THE GARRISON RESPONDED WITH A HAIL OF ARROWS",
+      "file_path": "sample_230"
+    },
+    {
+      "sample_idx": 231,
+      "predicted": "",
+      "actual": "AND WHEN YOU'RE MOVING THROUGH ENEMY TERRITORY",
+      "file_path": "sample_231"
+    },
+    {
+      "sample_idx": 232,
+      "predicted": "",
+      "actual": "THE GARRISON TRIED TO SURRENDER BEFORE HE COULD TRY OUT HIS NEW TOY",
+      "file_path": "sample_232"
+    },
+    {
+      "sample_idx": 233,
+      "predicted": "",
+      "actual": "HE ORDERED THEM BACK INSIDE",
+      "file_path": "sample_233"
+    },
+    {
+      "sample_idx": 234,
+      "predicted": "",
+      "actual": "YOU DON'T DESERVE MY GRACE",
+      "file_path": "sample_234"
+    },
+    {
+      "sample_idx": 235,
+      "predicted": "",
+      "actual": "TAKING NO CHANCES",
+      "file_path": "sample_235"
+    },
+    {
+      "sample_idx": 236,
+      "predicted": "",
+      "actual": "TEARING IT TO THE GROUND",
+      "file_path": "sample_236"
+    },
+    {
+      "sample_idx": 237,
+      "predicted": "",
+      "actual": "ACCORDING TO LEGEND",
+      "file_path": "sample_237"
+    },
+    {
+      "sample_idx": 238,
+      "predicted": "",
+      "actual": "THERE WAS A PORTCULLIS",
+      "file_path": "sample_238"
+    },
+    {
+      "sample_idx": 239,
+      "predicted": "",
+      "actual": "PEOPLE SAT ON THE STAIRS",
+      "file_path": "sample_239"
+    },
+    {
+      "sample_idx": 240,
+      "predicted": "",
+      "actual": "WHICH IS IDEAL FOR IT",
+      "file_path": "sample_240"
+    },
+    {
+      "sample_idx": 241,
+      "predicted": "",
+      "actual": "CRACKS WILL APPEAR",
+      "file_path": "sample_241"
+    },
+    {
+      "sample_idx": 242,
+      "predicted": "",
+      "actual": "SOMEONE CAME OUT OF A NEIGHBOURING PROPERTY AND SAID",
+      "file_path": "sample_242"
+    },
+    {
+      "sample_idx": 243,
+      "predicted": "",
+      "actual": "VERY EXPENSIVE SHED",
+      "file_path": "sample_243"
+    },
+    {
+      "sample_idx": 244,
+      "predicted": "",
+      "actual": "WITHOUT MY SUNGLASSES",
+      "file_path": "sample_244"
+    },
+    {
+      "sample_idx": 245,
+      "predicted": "",
+      "actual": "EVEN THE FOREPLAY",
+      "file_path": "sample_245"
+    },
+    {
+      "sample_idx": 246,
+      "predicted": "",
+      "actual": "AND THEN WHEN IT CAME TO HIS SIGNATURE",
+      "file_path": "sample_246"
+    },
+    {
+      "sample_idx": 247,
+      "predicted": "",
+      "actual": "IT'S A BAKING SHOW",
+      "file_path": "sample_247"
+    },
+    {
+      "sample_idx": 248,
+      "predicted": "",
+      "actual": "SHE'S PUSHED HERSELF",
+      "file_path": "sample_248"
+    },
+    {
+      "sample_idx": 249,
+      "predicted": "",
+      "actual": "IT SOUNDS WRONG",
+      "file_path": "sample_249"
+    },
+    {
+      "sample_idx": 250,
+      "predicted": "",
+      "actual": "WHAT HAVE YOU LEARNED",
+      "file_path": "sample_250"
+    },
+    {
+      "sample_idx": 251,
+      "predicted": "",
+      "actual": "CHILDREN AND ADULTS ALIKE",
+      "file_path": "sample_251"
+    },
+    {
+      "sample_idx": 252,
+      "predicted": "",
+      "actual": "THAT'S A SHOCKING PERCENTAGE",
+      "file_path": "sample_252"
+    },
+    {
+      "sample_idx": 253,
+      "predicted": "",
+      "actual": "I'M JUST HOPEFUL",
+      "file_path": "sample_253"
+    },
+    {
+      "sample_idx": 254,
+      "predicted": "",
+      "actual": "WE HAVE A LOT LESS ATMOSPHERE ABOVE US",
+      "file_path": "sample_254"
+    },
+    {
+      "sample_idx": 255,
+      "predicted": "",
+      "actual": "NO LONGER WOULD MEASUREMENT BE BASED ON THE HUMAN BODY",
+      "file_path": "sample_255"
+    },
+    {
+      "sample_idx": 256,
+      "predicted": "",
+      "actual": "NO LONGER DEPENDENT ON THE SUN",
+      "file_path": "sample_256"
+    },
+    {
+      "sample_idx": 257,
+      "predicted": "",
+      "actual": "WHILE I'M SURROUNDED BY WATER RIGHT NOW",
+      "file_path": "sample_257"
+    },
+    {
+      "sample_idx": 258,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_258"
+    },
+    {
+      "sample_idx": 259,
+      "predicted": "",
+      "actual": "OUR CONTINUED PRESSURE",
+      "file_path": "sample_259"
+    },
+    {
+      "sample_idx": 260,
+      "predicted": "",
+      "actual": "AND INFLAMMATORY PHOTOGRAPH",
+      "file_path": "sample_260"
+    },
+    {
+      "sample_idx": 261,
+      "predicted": "",
+      "actual": "INFLAMMATORY OR TERRIBLE IMAGES",
+      "file_path": "sample_261"
+    },
+    {
+      "sample_idx": 262,
+      "predicted": "",
+      "actual": "WE HAVE TO LOOK AT HOW SAUDI ARABIA",
+      "file_path": "sample_262"
+    },
+    {
+      "sample_idx": 263,
+      "predicted": "",
+      "actual": "IN TERMS OF BRITAIN",
+      "file_path": "sample_263"
+    },
+    {
+      "sample_idx": 264,
+      "predicted": "",
+      "actual": "TO THE AVERAGE PERSON",
+      "file_path": "sample_264"
+    },
+    {
+      "sample_idx": 265,
+      "predicted": "",
+      "actual": "THERE'S A FAIR CHANCE YOU WILL BE",
+      "file_path": "sample_265"
+    },
+    {
+      "sample_idx": 266,
+      "predicted": "",
+      "actual": "ABOUT 2 MILLION",
+      "file_path": "sample_266"
+    },
+    {
+      "sample_idx": 267,
+      "predicted": "",
+      "actual": "WHEN IT COMES TO THE ISSUE OF EQUAL MARRIAGE",
+      "file_path": "sample_267"
+    },
+    {
+      "sample_idx": 268,
+      "predicted": "",
+      "actual": "TO ALLOW BAD SURVEILLANCE TO WITHER ON THE VINE",
+      "file_path": "sample_268"
+    },
+    {
+      "sample_idx": 269,
+      "predicted": "",
+      "actual": "IF YOU DON'T LIKE THE SLOGAN",
+      "file_path": "sample_269"
+    },
+    {
+      "sample_idx": 270,
+      "predicted": "",
+      "actual": "YOU HAVE A PROBLEM WITH IT",
+      "file_path": "sample_270"
+    },
+    {
+      "sample_idx": 271,
+      "predicted": "",
+      "actual": "IN ALL SERIOUSNESS",
+      "file_path": "sample_271"
+    },
+    {
+      "sample_idx": 272,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M GOING TO SAY I'M GOING",
+      "actual": "BUT IT HAS ESTABLISHED THE INFRASTRUCTURE OF A POLICE STATE AND IT COULD BE OPEN TO ABUSE IN THE",
+      "file_path": "sample_272"
+    },
+    {
+      "sample_idx": 273,
+      "predicted": "",
+      "actual": "I HAVE NOTHING TO HIDE",
+      "file_path": "sample_273"
+    },
+    {
+      "sample_idx": 274,
+      "predicted": "",
+      "actual": "BETTER STREET LIGHTING CAN HELP",
+      "file_path": "sample_274"
+    },
+    {
+      "sample_idx": 275,
+      "predicted": "",
+      "actual": "THE NEXT GENERATION",
+      "file_path": "sample_275"
+    },
+    {
+      "sample_idx": 276,
+      "predicted": "",
+      "actual": "I'M NOT JEREMY VINE",
+      "file_path": "sample_276"
+    },
+    {
+      "sample_idx": 277,
+      "predicted": "",
+      "actual": "STANDING IN FOR YOUR REGULAR HOST FOR ONE WEEK ONLY",
+      "file_path": "sample_277"
+    },
+    {
+      "sample_idx": 278,
+      "predicted": "",
+      "actual": "AND WHAT A PRIVILEGE THAT IS",
+      "file_path": "sample_278"
+    },
+    {
+      "sample_idx": 279,
+      "predicted": "",
+      "actual": "IF YOU'RE WATCHING",
+      "file_path": "sample_279"
+    },
+    {
+      "sample_idx": 280,
+      "predicted": "",
+      "actual": "THAT'S ALL FOR THIS WEEK",
+      "file_path": "sample_280"
+    },
+    {
+      "sample_idx": 281,
+      "predicted": "",
+      "actual": "DON'T YOU AGREE",
+      "file_path": "sample_281"
+    },
+    {
+      "sample_idx": 282,
+      "predicted": "",
+      "actual": "ACROSS 95 MILES",
+      "file_path": "sample_282"
+    },
+    {
+      "sample_idx": 283,
+      "predicted": "",
+      "actual": "A FLOATING HOTEL",
+      "file_path": "sample_283"
+    },
+    {
+      "sample_idx": 284,
+      "predicted": "",
+      "actual": "BUT BEFORE THAT",
+      "file_path": "sample_284"
+    },
+    {
+      "sample_idx": 285,
+      "predicted": "",
+      "actual": "I CAN'T BELIEVE IT",
+      "file_path": "sample_285"
+    },
+    {
+      "sample_idx": 286,
+      "predicted": "",
+      "actual": "IN THE FORM OF A DESSERT PLATE",
+      "file_path": "sample_286"
+    },
+    {
+      "sample_idx": 287,
+      "predicted": "",
+      "actual": "REGARDING ONE OF BRITAIN'S MOST NOTED",
+      "file_path": "sample_287"
+    },
+    {
+      "sample_idx": 288,
+      "predicted": "",
+      "actual": "THAT MAKES A GRAND TOTAL OF SIX",
+      "file_path": "sample_288"
+    },
+    {
+      "sample_idx": 289,
+      "predicted": "",
+      "actual": "IN A MODERN HOUSE",
+      "file_path": "sample_289"
+    },
+    {
+      "sample_idx": 290,
+      "predicted": "",
+      "actual": "WITHOUT FURTHER ADO",
+      "file_path": "sample_290"
+    },
+    {
+      "sample_idx": 291,
+      "predicted": "",
+      "actual": "THE PERFECT PINT",
+      "file_path": "sample_291"
+    },
+    {
+      "sample_idx": 292,
+      "predicted": "",
+      "actual": "ANYTHING COULD HAPPEN",
+      "file_path": "sample_292"
+    },
+    {
+      "sample_idx": 293,
+      "predicted": "",
+      "actual": "THEY'RE ALL ABOUT THE SAME",
+      "file_path": "sample_293"
+    },
+    {
+      "sample_idx": 294,
+      "predicted": "",
+      "actual": "WE HAVE RUN OUT OF TIME",
+      "file_path": "sample_294"
+    },
+    {
+      "sample_idx": 295,
+      "predicted": "",
+      "actual": "LOUISE AND KEVIN",
+      "file_path": "sample_295"
+    },
+    {
+      "sample_idx": 296,
+      "predicted": "",
+      "actual": "NOW THEY ARE GATHERING",
+      "file_path": "sample_296"
+    },
+    {
+      "sample_idx": 297,
+      "predicted": "",
+      "actual": "ALL LIFE IN THE ARCTIC",
+      "file_path": "sample_297"
+    },
+    {
+      "sample_idx": 298,
+      "predicted": "",
+      "actual": "COULD WE ARRANGE THAT",
+      "file_path": "sample_298"
+    },
+    {
+      "sample_idx": 299,
+      "predicted": "",
+      "actual": "I WAS FINE YESTERDAY",
+      "file_path": "sample_299"
+    },
+    {
+      "sample_idx": 300,
+      "predicted": "",
+      "actual": "LET'S NOT MESS ABOUT",
+      "file_path": "sample_300"
+    },
+    {
+      "sample_idx": 301,
+      "predicted": "",
+      "actual": "WHAT I CAN TELL YOU",
+      "file_path": "sample_301"
+    },
+    {
+      "sample_idx": 302,
+      "predicted": "",
+      "actual": "THIS IS SOUTH WELL",
+      "file_path": "sample_302"
+    },
+    {
+      "sample_idx": 303,
+      "predicted": "",
+      "actual": "THE ROMANS FELT THEIR PRESENCE WAS STRONG ENOUGH HERE",
+      "file_path": "sample_303"
+    },
+    {
+      "sample_idx": 304,
+      "predicted": "",
+      "actual": "TO SAY TO THE KING",
+      "file_path": "sample_304"
+    },
+    {
+      "sample_idx": 305,
+      "predicted": "",
+      "actual": "WHEN HE WAS STAYING AT THE PALACE",
+      "file_path": "sample_305"
+    },
+    {
+      "sample_idx": 306,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M GOING TO SAY I'M",
+      "actual": "HOME TO AN ANIMAL THAT IS RIGHT AT THE TOP OF THE FOOD CHAIN",
+      "file_path": "sample_306"
+    },
+    {
+      "sample_idx": 307,
+      "predicted": "",
+      "actual": "LITERALLY TWO MINUTES FROM THE AIRPORT",
+      "file_path": "sample_307"
+    },
+    {
+      "sample_idx": 308,
+      "predicted": "",
+      "actual": "MAYBE MORE OF STEEL AND IRON",
+      "file_path": "sample_308"
+    },
+    {
+      "sample_idx": 309,
+      "predicted": "",
+      "actual": "WHICH MELTS MORE ICE",
+      "file_path": "sample_309"
+    },
+    {
+      "sample_idx": 310,
+      "predicted": "",
+      "actual": "THINK ABOUT THE MELTING SEA ICE",
+      "file_path": "sample_310"
+    },
+    {
+      "sample_idx": 311,
+      "predicted": "",
+      "actual": "AGAIN OPEN TO THE ELEMENTS",
+      "file_path": "sample_311"
+    },
+    {
+      "sample_idx": 312,
+      "predicted": "",
+      "actual": "VERY ATTRACTIVE YOUNG WOMAN",
+      "file_path": "sample_312"
+    },
+    {
+      "sample_idx": 313,
+      "predicted": "",
+      "actual": "AND THAT HAD AN IMPORTANT EFFECT",
+      "file_path": "sample_313"
+    },
+    {
+      "sample_idx": 314,
+      "predicted": "",
+      "actual": "PROVIDED BY THE RAILWAYS",
+      "file_path": "sample_314"
+    },
+    {
+      "sample_idx": 315,
+      "predicted": "",
+      "actual": "THE GREAT THING ABOUT THE RAILWAYS IS",
+      "file_path": "sample_315"
+    },
+    {
+      "sample_idx": 316,
+      "predicted": "",
+      "actual": "EVERYONE ARRIVES AT THE SAME PLACE AT THE SAME TIME",
+      "file_path": "sample_316"
+    },
+    {
+      "sample_idx": 317,
+      "predicted": "",
+      "actual": "THERE IS ONE THING",
+      "file_path": "sample_317"
+    },
+    {
+      "sample_idx": 318,
+      "predicted": "",
+      "actual": "IT MIGHT BE BONFIRE NIGHT",
+      "file_path": "sample_318"
+    },
+    {
+      "sample_idx": 319,
+      "predicted": "",
+      "actual": "OF COURSE IT WILL",
+      "file_path": "sample_319"
+    },
+    {
+      "sample_idx": 320,
+      "predicted": "",
+      "actual": "TODAY'S CONTESTANTS ARE",
+      "file_path": "sample_320"
+    },
+    {
+      "sample_idx": 321,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_321"
+    },
+    {
+      "sample_idx": 322,
+      "predicted": "",
+      "actual": "I FEEL GUILTY WHEN I'M AT HOME",
+      "file_path": "sample_322"
+    },
+    {
+      "sample_idx": 323,
+      "predicted": "",
+      "actual": "I WILL ALWAYS NEED YOU",
+      "file_path": "sample_323"
+    },
+    {
+      "sample_idx": 324,
+      "predicted": "",
+      "actual": "THANK YOU VERY MUCH",
+      "file_path": "sample_324"
+    },
+    {
+      "sample_idx": 325,
+      "predicted": "",
+      "actual": "AS YOU MIGHT SAY",
+      "file_path": "sample_325"
+    },
+    {
+      "sample_idx": 326,
+      "predicted": "",
+      "actual": "BUT MY GOODNESS",
+      "file_path": "sample_326"
+    },
+    {
+      "sample_idx": 327,
+      "predicted": "",
+      "actual": "ALSO KNOWN AS A TANDEM",
+      "file_path": "sample_327"
+    },
+    {
+      "sample_idx": 328,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M GOING",
+      "actual": "SO I THINK IT IS A PIECE OF VERY ONE DIMENSIONAL LEFT WING PROPAGANDA",
+      "file_path": "sample_328"
+    },
+    {
+      "sample_idx": 329,
+      "predicted": "",
+      "actual": "THERE IS A HUGE CROSSOVER BETWEEN THE TWO",
+      "file_path": "sample_329"
+    },
+    {
+      "sample_idx": 330,
+      "predicted": "",
+      "actual": "TAX CREDITS ARE BASICALLY BENEFITS",
+      "file_path": "sample_330"
+    },
+    {
+      "sample_idx": 331,
+      "predicted": "",
+      "actual": "FORMERLY KNOWN AS SIMON",
+      "file_path": "sample_331"
+    },
+    {
+      "sample_idx": 332,
+      "predicted": "",
+      "actual": "I FEEL LIKE THIS",
+      "file_path": "sample_332"
+    },
+    {
+      "sample_idx": 333,
+      "predicted": "",
+      "actual": "BECAUSE THAT'S HOW YOU ARE A PART OF SOCIETY",
+      "file_path": "sample_333"
+    },
+    {
+      "sample_idx": 334,
+      "predicted": "",
+      "actual": "BEFORE I CAME OUT",
+      "file_path": "sample_334"
+    },
+    {
+      "sample_idx": 335,
+      "predicted": "",
+      "actual": "OR MORE CORRECTLY COUNCILS",
+      "file_path": "sample_335"
+    },
+    {
+      "sample_idx": 336,
+      "predicted": "",
+      "actual": "ESPECIALLY AS IT RELATES TO CHILDREN",
+      "file_path": "sample_336"
+    },
+    {
+      "sample_idx": 337,
+      "predicted": "",
+      "actual": "THEY ARE CHILDREN",
+      "file_path": "sample_337"
+    },
+    {
+      "sample_idx": 338,
+      "predicted": "",
+      "actual": "I DO HOPE YOU'LL JOIN US THEN",
+      "file_path": "sample_338"
+    },
+    {
+      "sample_idx": 339,
+      "predicted": "",
+      "actual": "ISLAM ALLOWS POLYGAMY",
+      "file_path": "sample_339"
+    },
+    {
+      "sample_idx": 340,
+      "predicted": "",
+      "actual": "IF YOU HAVEN'T CAUGHT IT YET",
+      "file_path": "sample_340"
+    },
+    {
+      "sample_idx": 341,
+      "predicted": "",
+      "actual": "HERSELF CURRENTLY LEARNING TO SIGN",
+      "file_path": "sample_341"
+    },
+    {
+      "sample_idx": 342,
+      "predicted": "",
+      "actual": "SOME PEOPLE HERE TONIGHT PREFER SUBTITLES",
+      "file_path": "sample_342"
+    },
+    {
+      "sample_idx": 343,
+      "predicted": "",
+      "actual": "SURELY AS A MATTER OF PRINCIPLE",
+      "file_path": "sample_343"
+    },
+    {
+      "sample_idx": 344,
+      "predicted": "",
+      "actual": "IF YOU'RE WATCHING",
+      "file_path": "sample_344"
+    },
+    {
+      "sample_idx": 345,
+      "predicted": "",
+      "actual": "STANDARD RATES APPLY",
+      "file_path": "sample_345"
+    },
+    {
+      "sample_idx": 346,
+      "predicted": "",
+      "actual": "HASN'T TIME FLOWN",
+      "file_path": "sample_346"
+    },
+    {
+      "sample_idx": 347,
+      "predicted": "",
+      "actual": "IN THE MEANTIME",
+      "file_path": "sample_347"
+    },
+    {
+      "sample_idx": 348,
+      "predicted": "",
+      "actual": "WHEN MY HUSBAND AND I ARE NOT AROUND",
+      "file_path": "sample_348"
+    },
+    {
+      "sample_idx": 349,
+      "predicted": "",
+      "actual": "ASKING FOR PERMISSION",
+      "file_path": "sample_349"
+    },
+    {
+      "sample_idx": 350,
+      "predicted": "",
+      "actual": "AND IT WAS TOTALLY NORMAL",
+      "file_path": "sample_350"
+    },
+    {
+      "sample_idx": 351,
+      "predicted": "",
+      "actual": "THAT SOUNDS LIKE A PRETTY CRAZY JOB FOR ANYONE TO BE DOING",
+      "file_path": "sample_351"
+    },
+    {
+      "sample_idx": 352,
+      "predicted": "",
+      "actual": "ALL MY FINGERS WERE HANGING OFF",
+      "file_path": "sample_352"
+    },
+    {
+      "sample_idx": 353,
+      "predicted": "",
+      "actual": "I WENT TO USE MY RIGHT ARM",
+      "file_path": "sample_353"
+    },
+    {
+      "sample_idx": 354,
+      "predicted": "",
+      "actual": "HE WAS SHOT AND KILLED",
+      "file_path": "sample_354"
+    },
+    {
+      "sample_idx": 355,
+      "predicted": "",
+      "actual": "IF I DIDN'T HAVE HER",
+      "file_path": "sample_355"
+    },
+    {
+      "sample_idx": 356,
+      "predicted": "",
+      "actual": "BUT AT THE SAME TIME",
+      "file_path": "sample_356"
+    },
+    {
+      "sample_idx": 357,
+      "predicted": "",
+      "actual": "I'M WITH MARK TWAIN LIES",
+      "file_path": "sample_357"
+    },
+    {
+      "sample_idx": 358,
+      "predicted": "",
+      "actual": "IT'S THE INTERNET",
+      "file_path": "sample_358"
+    },
+    {
+      "sample_idx": 359,
+      "predicted": "",
+      "actual": "AND I'M WARNING YOU",
+      "file_path": "sample_359"
+    },
+    {
+      "sample_idx": 360,
+      "predicted": "",
+      "actual": "IN THE BASEMENT",
+      "file_path": "sample_360"
+    },
+    {
+      "sample_idx": 361,
+      "predicted": "",
+      "actual": "THEY HAVEN'T GONE FAR",
+      "file_path": "sample_361"
+    },
+    {
+      "sample_idx": 362,
+      "predicted": "",
+      "actual": "TIME NOW FOR ONE OF THE GREATEST TV COMEBACKS OF OUR TIME",
+      "file_path": "sample_362"
+    },
+    {
+      "sample_idx": 363,
+      "predicted": "",
+      "actual": "HAROLD IN NEIGHBOURS",
+      "file_path": "sample_363"
+    },
+    {
+      "sample_idx": 364,
+      "predicted": "",
+      "actual": "WE NEED TO START LAYERING",
+      "file_path": "sample_364"
+    },
+    {
+      "sample_idx": 365,
+      "predicted": "",
+      "actual": "ONE WAS A PILOT",
+      "file_path": "sample_365"
+    },
+    {
+      "sample_idx": 366,
+      "predicted": "",
+      "actual": "SURRENDER WAS NOT AN OPTION",
+      "file_path": "sample_366"
+    },
+    {
+      "sample_idx": 367,
+      "predicted": "",
+      "actual": "MANY WERE TEENAGERS ABOUT TO GET THEIR FIRST TASTE OF WAR",
+      "file_path": "sample_367"
+    },
+    {
+      "sample_idx": 368,
+      "predicted": "",
+      "actual": "I'M TERRIBLY SORRY",
+      "file_path": "sample_368"
+    },
+    {
+      "sample_idx": 369,
+      "predicted": "",
+      "actual": "HE DIED THAT VERY FIRST DAY",
+      "file_path": "sample_369"
+    },
+    {
+      "sample_idx": 370,
+      "predicted": "",
+      "actual": "THIS IS ONE OF THE QUESTIONS",
+      "file_path": "sample_370"
+    },
+    {
+      "sample_idx": 371,
+      "predicted": "",
+      "actual": "CELEBRATING 100 YEARS OF WAR FILMS",
+      "file_path": "sample_371"
+    },
+    {
+      "sample_idx": 372,
+      "predicted": "",
+      "actual": "WHERE I'M GOING",
+      "file_path": "sample_372"
+    },
+    {
+      "sample_idx": 373,
+      "predicted": "",
+      "actual": "BUT TEN YEARS AGO",
+      "file_path": "sample_373"
+    },
+    {
+      "sample_idx": 374,
+      "predicted": "",
+      "actual": "IT COULD END TONIGHT",
+      "file_path": "sample_374"
+    },
+    {
+      "sample_idx": 375,
+      "predicted": "",
+      "actual": "BACK IN SIERRA LEONE",
+      "file_path": "sample_375"
+    },
+    {
+      "sample_idx": 376,
+      "predicted": "",
+      "actual": "AND THIS WASN'T UNUSUAL",
+      "file_path": "sample_376"
+    },
+    {
+      "sample_idx": 377,
+      "predicted": "",
+      "actual": "AS WELL AS THE BODY",
+      "file_path": "sample_377"
+    },
+    {
+      "sample_idx": 378,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M",
+      "actual": "GIVING HOPE AND CARE TO OTHERS IS SOMETHING OUR ARMED FORCES DO WITHOUT QUESTION",
+      "file_path": "sample_378"
+    },
+    {
+      "sample_idx": 379,
+      "predicted": "",
+      "actual": "WE HEARD THE STORY OF THE NURSE ANNA CROSS",
+      "file_path": "sample_379"
+    },
+    {
+      "sample_idx": 380,
+      "predicted": "",
+      "actual": "TO HAVE NO CONTACT AT ALL",
+      "file_path": "sample_380"
+    },
+    {
+      "sample_idx": 381,
+      "predicted": "",
+      "actual": "SHE NEEDS TO MAKE SURE THAT",
+      "file_path": "sample_381"
+    },
+    {
+      "sample_idx": 382,
+      "predicted": "",
+      "actual": "THEY DON'T CALL THEM TEAM POCKET ROCKET FOR NOTHING",
+      "file_path": "sample_382"
+    },
+    {
+      "sample_idx": 383,
+      "predicted": "",
+      "actual": "YOU'VE PROBABLY GOT YOURS",
+      "file_path": "sample_383"
+    },
+    {
+      "sample_idx": 384,
+      "predicted": "",
+      "actual": "AND THE WEATHER HAS BEEN PERFECT",
+      "file_path": "sample_384"
+    },
+    {
+      "sample_idx": 385,
+      "predicted": "",
+      "actual": "COURAGE UNDER FIRE",
+      "file_path": "sample_385"
+    },
+    {
+      "sample_idx": 386,
+      "predicted": "",
+      "actual": "MOST OF HIS LIFE",
+      "file_path": "sample_386"
+    },
+    {
+      "sample_idx": 387,
+      "predicted": "",
+      "actual": "THIS IS THE LORD ASHCROFT GALLERY",
+      "file_path": "sample_387"
+    },
+    {
+      "sample_idx": 388,
+      "predicted": "",
+      "actual": "TRAPPED UNDER HEAVY ARTILLERY FIRE",
+      "file_path": "sample_388"
+    },
+    {
+      "sample_idx": 389,
+      "predicted": "",
+      "actual": "TEN DAYS BEFOREHAND",
+      "file_path": "sample_389"
+    },
+    {
+      "sample_idx": 390,
+      "predicted": "",
+      "actual": "THE PRESIDENT ELECT HAS MET WITH PRESIDENT OBAMA",
+      "file_path": "sample_390"
+    },
+    {
+      "sample_idx": 391,
+      "predicted": "",
+      "actual": "MR TRUMP TAKES OFFICE IN JANUARY",
+      "file_path": "sample_391"
+    },
+    {
+      "sample_idx": 392,
+      "predicted": "",
+      "actual": "TODAY THEY TALKED ABOUT THE PROCESS OF TRANSITION",
+      "file_path": "sample_392"
+    },
+    {
+      "sample_idx": 393,
+      "predicted": "",
+      "actual": "WE HAVE ALL THE USUAL SUSPECTS",
+      "file_path": "sample_393"
+    },
+    {
+      "sample_idx": 394,
+      "predicted": "",
+      "actual": "ANYWHERE IN THE WORLD",
+      "file_path": "sample_394"
+    },
+    {
+      "sample_idx": 395,
+      "predicted": "",
+      "actual": "DEMONSTRATES THE VALUE OF GREEN SPACE",
+      "file_path": "sample_395"
+    },
+    {
+      "sample_idx": 396,
+      "predicted": "",
+      "actual": "SO TEN CUBIC METRES",
+      "file_path": "sample_396"
+    },
+    {
+      "sample_idx": 397,
+      "predicted": "",
+      "actual": "I JUST COLLAPSED",
+      "file_path": "sample_397"
+    },
+    {
+      "sample_idx": 398,
+      "predicted": "",
+      "actual": "AS WE APPROACH REMEMBRANCE SUNDAY",
+      "file_path": "sample_398"
+    },
+    {
+      "sample_idx": 399,
+      "predicted": "",
+      "actual": "I'VE BEEN INVOLVED WITH THE MILITARY",
+      "file_path": "sample_399"
+    },
+    {
+      "sample_idx": 400,
+      "predicted": "",
+      "actual": "THE ARMED FORCES",
+      "file_path": "sample_400"
+    },
+    {
+      "sample_idx": 401,
+      "predicted": "",
+      "actual": "THAT KNOCK ON THE DOOR IS A MOMENT THEY WILL NEVER FORGET",
+      "file_path": "sample_401"
+    },
+    {
+      "sample_idx": 402,
+      "predicted": "",
+      "actual": "WHO WAS KILLED IN AFGHANISTAN",
+      "file_path": "sample_402"
+    },
+    {
+      "sample_idx": 403,
+      "predicted": "",
+      "actual": "ON A ROUTINE VISIT TO AN IRAQI POLICE STATION",
+      "file_path": "sample_403"
+    },
+    {
+      "sample_idx": 404,
+      "predicted": "",
+      "actual": "KILLING HIM AND FIVE FRIENDS",
+      "file_path": "sample_404"
+    },
+    {
+      "sample_idx": 405,
+      "predicted": "",
+      "actual": "IT WON'T TAKE A MOMENT",
+      "file_path": "sample_405"
+    },
+    {
+      "sample_idx": 406,
+      "predicted": "",
+      "actual": "SO WHAT IS THE ETIQUETTE",
+      "file_path": "sample_406"
+    },
+    {
+      "sample_idx": 407,
+      "predicted": "",
+      "actual": "WHICH IS A SHAME",
+      "file_path": "sample_407"
+    },
+    {
+      "sample_idx": 408,
+      "predicted": "",
+      "actual": "BETWEEN THEM NOW",
+      "file_path": "sample_408"
+    },
+    {
+      "sample_idx": 409,
+      "predicted": "",
+      "actual": "I HAVE HAD MY FITTING NOW",
+      "file_path": "sample_409"
+    },
+    {
+      "sample_idx": 410,
+      "predicted": "",
+      "actual": "MR KHAN SPEAKING",
+      "file_path": "sample_410"
+    },
+    {
+      "sample_idx": 411,
+      "predicted": "",
+      "actual": "IF WE HAVE LEARNED ONE THING OVER THE PAST YEAR",
+      "file_path": "sample_411"
+    },
+    {
+      "sample_idx": 412,
+      "predicted": "",
+      "actual": "I DON'T REALLY WANT TO GO",
+      "file_path": "sample_412"
+    },
+    {
+      "sample_idx": 413,
+      "predicted": "",
+      "actual": "RISING ABOVE IT",
+      "file_path": "sample_413"
+    },
+    {
+      "sample_idx": 414,
+      "predicted": "",
+      "actual": "THE OLYMPIC SWIMMER",
+      "file_path": "sample_414"
+    },
+    {
+      "sample_idx": 415,
+      "predicted": "",
+      "actual": "I WISH I WAS MORE LIKE YOU",
+      "file_path": "sample_415"
+    },
+    {
+      "sample_idx": 416,
+      "predicted": "",
+      "actual": "WHY DON'T WE ALL JUST GET ALONG",
+      "file_path": "sample_416"
+    },
+    {
+      "sample_idx": 417,
+      "predicted": "",
+      "actual": "A TRIBAL NATION",
+      "file_path": "sample_417"
+    },
+    {
+      "sample_idx": 418,
+      "predicted": "",
+      "actual": "WHICH UPSET SOME OF OUR FEMALE RESIDENTS",
+      "file_path": "sample_418"
+    },
+    {
+      "sample_idx": 419,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_419"
+    },
+    {
+      "sample_idx": 420,
+      "predicted": "",
+      "actual": "PUERTO RICAN STYLE",
+      "file_path": "sample_420"
+    },
+    {
+      "sample_idx": 421,
+      "predicted": "",
+      "actual": "IT WAS REALLY NICE",
+      "file_path": "sample_421"
+    },
+    {
+      "sample_idx": 422,
+      "predicted": "",
+      "actual": "YOU WON'T HAVE LONG",
+      "file_path": "sample_422"
+    },
+    {
+      "sample_idx": 423,
+      "predicted": "",
+      "actual": "ON THIS REMEMBRANCE WEEKEND",
+      "file_path": "sample_423"
+    },
+    {
+      "sample_idx": 424,
+      "predicted": "",
+      "actual": "AN OPPORTUNITY TO PAY TRIBUTE TO ALL MEMBERS OF THE ARMED FORCES",
+      "file_path": "sample_424"
+    },
+    {
+      "sample_idx": 425,
+      "predicted": "",
+      "actual": "IF YOU'VE GOT IT",
+      "file_path": "sample_425"
+    },
+    {
+      "sample_idx": 426,
+      "predicted": "",
+      "actual": "WE WOULD LOVE TO SELL IT",
+      "file_path": "sample_426"
+    },
+    {
+      "sample_idx": 427,
+      "predicted": "",
+      "actual": "WE WOULD LOVE TO SEE YOU",
+      "file_path": "sample_427"
+    },
+    {
+      "sample_idx": 428,
+      "predicted": "",
+      "actual": "ONLY SEVEN PLACES REMAIN",
+      "file_path": "sample_428"
+    },
+    {
+      "sample_idx": 429,
+      "predicted": "",
+      "actual": "LIKE MANY OTHERS",
+      "file_path": "sample_429"
+    },
+    {
+      "sample_idx": 430,
+      "predicted": "",
+      "actual": "GREAT LEONARD COHEN",
+      "file_path": "sample_430"
+    },
+    {
+      "sample_idx": 431,
+      "predicted": "",
+      "actual": "I LOVE WEDDINGS",
+      "file_path": "sample_431"
+    },
+    {
+      "sample_idx": 432,
+      "predicted": "",
+      "actual": "I'VE GOT A BETTER IDEA",
+      "file_path": "sample_432"
+    },
+    {
+      "sample_idx": 433,
+      "predicted": "",
+      "actual": "WHY DON'T WE ALL OBJECT",
+      "file_path": "sample_433"
+    },
+    {
+      "sample_idx": 434,
+      "predicted": "",
+      "actual": "THAT WAS AMAZING",
+      "file_path": "sample_434"
+    },
+    {
+      "sample_idx": 435,
+      "predicted": "",
+      "actual": "IT WAS AN INCREDIBLE PERFORMANCE",
+      "file_path": "sample_435"
+    },
+    {
+      "sample_idx": 436,
+      "predicted": "",
+      "actual": "IT WAS INCREDIBLE ENTERTAINMENT",
+      "file_path": "sample_436"
+    },
+    {
+      "sample_idx": 437,
+      "predicted": "",
+      "actual": "UP UNTIL LAST WEEK",
+      "file_path": "sample_437"
+    },
+    {
+      "sample_idx": 438,
+      "predicted": "",
+      "actual": "THE MAN TAKES THE LEAD",
+      "file_path": "sample_438"
+    },
+    {
+      "sample_idx": 439,
+      "predicted": "",
+      "actual": "IT'S TIME NOW FOR EVERYTHING IN BETWEEN",
+      "file_path": "sample_439"
+    },
+    {
+      "sample_idx": 440,
+      "predicted": "",
+      "actual": "I REALLY APPRECIATE IT",
+      "file_path": "sample_440"
+    },
+    {
+      "sample_idx": 441,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T THINK I DON'T KNOW WHAT I'T THINK I DON'T THINK I'T THINK I'T THINK I'T THINK I'T THINK I DON'T THINK I'T THINK I'T THINK I'T THINK I'T THINK I'T THINK I'T THINK I'T THINK I'T THINK I'T KNOW WHAT I'T THINK",
+      "actual": "IT'S ALL BASED ON THIS 58 PAGE REPORT PREPARED FOR THE EUROPEAN COMMISSION",
+      "file_path": "sample_441"
+    },
+    {
+      "sample_idx": 442,
+      "predicted": "",
+      "actual": "BUT WHEN YOU LOOK INSIDE",
+      "file_path": "sample_442"
+    },
+    {
+      "sample_idx": 443,
+      "predicted": "",
+      "actual": "THEY GET LOST ON THE WAY HOME",
+      "file_path": "sample_443"
+    },
+    {
+      "sample_idx": 444,
+      "predicted": "",
+      "actual": "AND YOU'VE GOT EVERY RIGHT TO BE",
+      "file_path": "sample_444"
+    },
+    {
+      "sample_idx": 445,
+      "predicted": "",
+      "actual": "HAVING SAID THAT",
+      "file_path": "sample_445"
+    },
+    {
+      "sample_idx": 446,
+      "predicted": "",
+      "actual": "THAT WAS FAST AND FURIOUS",
+      "file_path": "sample_446"
+    },
+    {
+      "sample_idx": 447,
+      "predicted": "",
+      "actual": "DONE AND DUSTED",
+      "file_path": "sample_447"
+    },
+    {
+      "sample_idx": 448,
+      "predicted": "",
+      "actual": "THAT'S NOT AN ANCIENT ROMAN MASK",
+      "file_path": "sample_448"
+    },
+    {
+      "sample_idx": 449,
+      "predicted": "",
+      "actual": "HE'S JAPANESE MADE",
+      "file_path": "sample_449"
+    },
+    {
+      "sample_idx": 450,
+      "predicted": "",
+      "actual": "WHICH A LOT OF THEM WERE",
+      "file_path": "sample_450"
+    },
+    {
+      "sample_idx": 451,
+      "predicted": "",
+      "actual": "OUR JOURNEY ISN'T OVER YET",
+      "file_path": "sample_451"
+    },
+    {
+      "sample_idx": 452,
+      "predicted": "",
+      "actual": "AND IT'S NOT JUST ANY OLD TUESDAY",
+      "file_path": "sample_452"
+    },
+    {
+      "sample_idx": 453,
+      "predicted": "",
+      "actual": "WHO KNEW THAT ONE MAN",
+      "file_path": "sample_453"
+    },
+    {
+      "sample_idx": 454,
+      "predicted": "",
+      "actual": "BUT IT MIGHT BE TOO LATE BY THEN",
+      "file_path": "sample_454"
+    },
+    {
+      "sample_idx": 455,
+      "predicted": "",
+      "actual": "I DON'T THINK SO",
+      "file_path": "sample_455"
+    },
+    {
+      "sample_idx": 456,
+      "predicted": "",
+      "actual": "FROM WHAT WE KNOW",
+      "file_path": "sample_456"
+    },
+    {
+      "sample_idx": 457,
+      "predicted": "",
+      "actual": "THANK YOU VERY MUCH",
+      "file_path": "sample_457"
+    },
+    {
+      "sample_idx": 458,
+      "predicted": "",
+      "actual": "GRAHAM BARON ASH",
+      "file_path": "sample_458"
+    },
+    {
+      "sample_idx": 459,
+      "predicted": "",
+      "actual": "AND THEY WERE THE FIRST PEOPLE",
+      "file_path": "sample_459"
+    },
+    {
+      "sample_idx": 460,
+      "predicted": "",
+      "actual": "EARLIER THIS MONTH",
+      "file_path": "sample_460"
+    },
+    {
+      "sample_idx": 461,
+      "predicted": "",
+      "actual": "IT WAS BRILLIANT",
+      "file_path": "sample_461"
+    },
+    {
+      "sample_idx": 462,
+      "predicted": "",
+      "actual": "FURNITURE OR OBJECTS LIKE THAT",
+      "file_path": "sample_462"
+    },
+    {
+      "sample_idx": 463,
+      "predicted": "",
+      "actual": "IT WAS MADE IN GERMANY",
+      "file_path": "sample_463"
+    },
+    {
+      "sample_idx": 464,
+      "predicted": "",
+      "actual": "NO ONE WOULD LOOK TWICE",
+      "file_path": "sample_464"
+    },
+    {
+      "sample_idx": 465,
+      "predicted": "",
+      "actual": "AND I'M PRETTY SURE HIS PUSH BIKE CAME IN VERY HANDY",
+      "file_path": "sample_465"
+    },
+    {
+      "sample_idx": 466,
+      "predicted": "",
+      "actual": "THEY WERE SO INSPIRED BY IT",
+      "file_path": "sample_466"
+    },
+    {
+      "sample_idx": 467,
+      "predicted": "",
+      "actual": "CHECK THE DETAILS ON OUR WEBSITE",
+      "file_path": "sample_467"
+    },
+    {
+      "sample_idx": 468,
+      "predicted": "",
+      "actual": "LEARN AS MUCH AS POSSIBLE",
+      "file_path": "sample_468"
+    },
+    {
+      "sample_idx": 469,
+      "predicted": "",
+      "actual": "KEEP GOING ON ABOUT THIS",
+      "file_path": "sample_469"
+    },
+    {
+      "sample_idx": 470,
+      "predicted": "",
+      "actual": "I DO NOTHING WRONG",
+      "file_path": "sample_470"
+    },
+    {
+      "sample_idx": 471,
+      "predicted": "",
+      "actual": "WHAT DO YOU THINK",
+      "file_path": "sample_471"
+    },
+    {
+      "sample_idx": 472,
+      "predicted": "",
+      "actual": "THIS IS WHERE THE SURPRISES HAPPEN",
+      "file_path": "sample_472"
+    },
+    {
+      "sample_idx": 473,
+      "predicted": "",
+      "actual": "IT'S TIME TO RETURN TO WOLVERHAMPTON",
+      "file_path": "sample_473"
+    },
+    {
+      "sample_idx": 474,
+      "predicted": "",
+      "actual": "THEY DECIDED TO TIE THE KNOT",
+      "file_path": "sample_474"
+    },
+    {
+      "sample_idx": 475,
+      "predicted": "",
+      "actual": "EVERYWHERE YOU GO AROUND HERE",
+      "file_path": "sample_475"
+    },
+    {
+      "sample_idx": 476,
+      "predicted": "",
+      "actual": "WE HAVE SOME UNFINISHED BUSINESS TO DO IN THE AUCTION ROOM",
+      "file_path": "sample_476"
+    },
+    {
+      "sample_idx": 477,
+      "predicted": "",
+      "actual": "WE HAVE GONE DIGITAL",
+      "file_path": "sample_477"
+    },
+    {
+      "sample_idx": 478,
+      "predicted": "",
+      "actual": "AND AFTER REACHING OUT TO HIM ON THE SHOW",
+      "file_path": "sample_478"
+    },
+    {
+      "sample_idx": 479,
+      "predicted": "",
+      "actual": "RUN FOR COVER IF YOU CAN",
+      "file_path": "sample_479"
+    },
+    {
+      "sample_idx": 480,
+      "predicted": "",
+      "actual": "THEY ARE UNDER A LOT OF STRESS",
+      "file_path": "sample_480"
+    },
+    {
+      "sample_idx": 481,
+      "predicted": "",
+      "actual": "WITH THAT IN MIND",
+      "file_path": "sample_481"
+    },
+    {
+      "sample_idx": 482,
+      "predicted": "",
+      "actual": "WELCOME TO THE TOWER",
+      "file_path": "sample_482"
+    },
+    {
+      "sample_idx": 483,
+      "predicted": "",
+      "actual": "WAS IT YOUR CHOICE",
+      "file_path": "sample_483"
+    },
+    {
+      "sample_idx": 484,
+      "predicted": "",
+      "actual": "YOU REALLY FEEL A PART OF IT",
+      "file_path": "sample_484"
+    },
+    {
+      "sample_idx": 485,
+      "predicted": "",
+      "actual": "SO WONDERFUL TO SEE THAT",
+      "file_path": "sample_485"
+    },
+    {
+      "sample_idx": 486,
+      "predicted": "",
+      "actual": "TALKING ABOUT THIS",
+      "file_path": "sample_486"
+    },
+    {
+      "sample_idx": 487,
+      "predicted": "",
+      "actual": "FOR ME IT DOESN'T MAKE SENSE",
+      "file_path": "sample_487"
+    },
+    {
+      "sample_idx": 488,
+      "predicted": "",
+      "actual": "IF WE HAVE A BELIEF IN REINCARNATION",
+      "file_path": "sample_488"
+    },
+    {
+      "sample_idx": 489,
+      "predicted": "",
+      "actual": "EVEN THOUGH HER FATHER AT THAT TIME DISAGREED",
+      "file_path": "sample_489"
+    },
+    {
+      "sample_idx": 490,
+      "predicted": "",
+      "actual": "SO WHEN THE BODY IS BROUGHT BACK",
+      "file_path": "sample_490"
+    },
+    {
+      "sample_idx": 491,
+      "predicted": "",
+      "actual": "MY FIRST GRANDDAUGHTER",
+      "file_path": "sample_491"
+    },
+    {
+      "sample_idx": 492,
+      "predicted": "",
+      "actual": "NON VIOLENT OFFENCES",
+      "file_path": "sample_492"
+    },
+    {
+      "sample_idx": 493,
+      "predicted": "",
+      "actual": "THERE ARE A LOT OF PEOPLE",
+      "file_path": "sample_493"
+    },
+    {
+      "sample_idx": 494,
+      "predicted": "",
+      "actual": "AROUND THE WORLD",
+      "file_path": "sample_494"
+    },
+    {
+      "sample_idx": 495,
+      "predicted": "",
+      "actual": "BUT I COME ACROSS TRAINING PRISONS NOW",
+      "file_path": "sample_495"
+    },
+    {
+      "sample_idx": 496,
+      "predicted": "",
+      "actual": "THE COST OF THIS FAILURE",
+      "file_path": "sample_496"
+    },
+    {
+      "sample_idx": 497,
+      "predicted": "",
+      "actual": "THE AVERAGE COST OF KEEPING A PERSON IN PRISON IS 36",
+      "file_path": "sample_497"
+    },
+    {
+      "sample_idx": 498,
+      "predicted": "",
+      "actual": "THE MOST FAMOUS OF THEM ALL HAVE TO BE THE WORKS OF THE BRONTE SISTERS",
+      "file_path": "sample_498"
+    },
+    {
+      "sample_idx": 499,
+      "predicted": "",
+      "actual": "IN TERMS OF FIRE SERVICE RESOURCES",
+      "file_path": "sample_499"
+    },
+    {
+      "sample_idx": 500,
+      "predicted": "",
+      "actual": "RATHER THAN USING DRUGS",
+      "file_path": "sample_500"
+    },
+    {
+      "sample_idx": 501,
+      "predicted": "",
+      "actual": "THAT'S GOOD NEWS",
+      "file_path": "sample_501"
+    },
+    {
+      "sample_idx": 502,
+      "predicted": "",
+      "actual": "THE BIG QUESTION IS",
+      "file_path": "sample_502"
+    },
+    {
+      "sample_idx": 503,
+      "predicted": "",
+      "actual": "HAVE YOU ORDERED YOURS YET",
+      "file_path": "sample_503"
+    },
+    {
+      "sample_idx": 504,
+      "predicted": "",
+      "actual": "BUT THESE ARE ONE OF THE MOST WARY BIRDS IN THE WORLD",
+      "file_path": "sample_504"
+    },
+    {
+      "sample_idx": 505,
+      "predicted": "",
+      "actual": "THAT'S NOT WHAT I WAS EXPECTING AT ALL",
+      "file_path": "sample_505"
+    },
+    {
+      "sample_idx": 506,
+      "predicted": "",
+      "actual": "I LOVE SYLLABLES",
+      "file_path": "sample_506"
+    },
+    {
+      "sample_idx": 507,
+      "predicted": "",
+      "actual": "AND YOU KNOW WHAT THIS MEANS",
+      "file_path": "sample_507"
+    },
+    {
+      "sample_idx": 508,
+      "predicted": "",
+      "actual": "WE MIGHT FIND SOME MARITIME MEMORABILIA",
+      "file_path": "sample_508"
+    },
+    {
+      "sample_idx": 509,
+      "predicted": "",
+      "actual": "IT'S A WONDERFUL",
+      "file_path": "sample_509"
+    },
+    {
+      "sample_idx": 510,
+      "predicted": "",
+      "actual": "STOCKS AND SHARES",
+      "file_path": "sample_510"
+    },
+    {
+      "sample_idx": 511,
+      "predicted": "",
+      "actual": "AND IN THE PROCESS OF ME NOT OFFENDING GOD",
+      "file_path": "sample_511"
+    },
+    {
+      "sample_idx": 512,
+      "predicted": "",
+      "actual": "I DON'T CARE WHAT THE COST IS",
+      "file_path": "sample_512"
+    },
+    {
+      "sample_idx": 513,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU",
+      "actual": "BECAUSE THE WHOLE POINT OF 9 11 IS THAT IT'S THE JUSTIFICATION FOR THE POLICE STATE",
+      "file_path": "sample_513"
+    },
+    {
+      "sample_idx": 514,
+      "predicted": "",
+      "actual": "AND I GUESS THAT'S WHAT'S HAPPENING HERE",
+      "file_path": "sample_514"
+    },
+    {
+      "sample_idx": 515,
+      "predicted": "",
+      "actual": "AND FROM WHAT I'VE HEARD",
+      "file_path": "sample_515"
+    },
+    {
+      "sample_idx": 516,
+      "predicted": "",
+      "actual": "AND IT'S ALL ABOUT THE CONTEXT",
+      "file_path": "sample_516"
+    },
+    {
+      "sample_idx": 517,
+      "predicted": "",
+      "actual": "CHILD OF THE MILLENNIUM",
+      "file_path": "sample_517"
+    },
+    {
+      "sample_idx": 518,
+      "predicted": "",
+      "actual": "TWO APPOINTMENTS LATER",
+      "file_path": "sample_518"
+    },
+    {
+      "sample_idx": 519,
+      "predicted": "",
+      "actual": "THE MAN WHO CARES ABOUT ANIMALS",
+      "file_path": "sample_519"
+    },
+    {
+      "sample_idx": 520,
+      "predicted": "",
+      "actual": "GUESS WHAT I'M TALKING ABOUT RIGHT NOW",
+      "file_path": "sample_520"
+    },
+    {
+      "sample_idx": 521,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M",
+      "actual": "HERE TO GIVE US A RUNDOWN OF THE GREATEST FACIAL CHOREOGRAPHY EVER SEEN ON THE BOX",
+      "file_path": "sample_521"
+    },
+    {
+      "sample_idx": 522,
+      "predicted": "",
+      "actual": "FACE TO REALLY TELL THE STORY",
+      "file_path": "sample_522"
+    },
+    {
+      "sample_idx": 523,
+      "predicted": "",
+      "actual": "GET YOURSELF OVER HERE BECAUSE FIRST UP TONIGHT",
+      "file_path": "sample_523"
+    },
+    {
+      "sample_idx": 524,
+      "predicted": "",
+      "actual": "IF YOU WANT TO KNOW WHAT THE KIDS ARE LISTENING TO THESE DAYS",
+      "file_path": "sample_524"
+    },
+    {
+      "sample_idx": 525,
+      "predicted": "",
+      "actual": "LOUISE AND KEVIN",
+      "file_path": "sample_525"
+    },
+    {
+      "sample_idx": 526,
+      "predicted": "",
+      "actual": "AND IT'S THE ONE THAT",
+      "file_path": "sample_526"
+    },
+    {
+      "sample_idx": 527,
+      "predicted": "",
+      "actual": "THAT WAS BEAUTIFUL",
+      "file_path": "sample_527"
+    },
+    {
+      "sample_idx": 528,
+      "predicted": "",
+      "actual": "ON INTERNATIONAL WOMEN'S DAY",
+      "file_path": "sample_528"
+    },
+    {
+      "sample_idx": 529,
+      "predicted": "",
+      "actual": "AND WENT ON THE ORDINARY WING",
+      "file_path": "sample_529"
+    },
+    {
+      "sample_idx": 530,
+      "predicted": "",
+      "actual": "THE DUKE OF GLOUCESTER",
+      "file_path": "sample_530"
+    },
+    {
+      "sample_idx": 531,
+      "predicted": "",
+      "actual": "AND YOU KNOW THAT",
+      "file_path": "sample_531"
+    },
+    {
+      "sample_idx": 532,
+      "predicted": "",
+      "actual": "WE HAVE THE DELECTABLE NEIL JONES",
+      "file_path": "sample_532"
+    },
+    {
+      "sample_idx": 533,
+      "predicted": "",
+      "actual": "BUT DON'T WORRY",
+      "file_path": "sample_533"
+    },
+    {
+      "sample_idx": 534,
+      "predicted": "",
+      "actual": "THAT WAS SOME TIME AGO",
+      "file_path": "sample_534"
+    },
+    {
+      "sample_idx": 535,
+      "predicted": "",
+      "actual": "REAL FRIENDS THAT CARE ABOUT ME",
+      "file_path": "sample_535"
+    },
+    {
+      "sample_idx": 536,
+      "predicted": "",
+      "actual": "CLEARLY THEY DO",
+      "file_path": "sample_536"
+    },
+    {
+      "sample_idx": 537,
+      "predicted": "",
+      "actual": "YOU DON'T NEED IT",
+      "file_path": "sample_537"
+    },
+    {
+      "sample_idx": 538,
+      "predicted": "",
+      "actual": "THE REASON BEING",
+      "file_path": "sample_538"
+    },
+    {
+      "sample_idx": 539,
+      "predicted": "",
+      "actual": "THE PRESIDENT'S CHAIR",
+      "file_path": "sample_539"
+    },
+    {
+      "sample_idx": 540,
+      "predicted": "",
+      "actual": "NOT TO THINK FOR THEMSELVES",
+      "file_path": "sample_540"
+    },
+    {
+      "sample_idx": 541,
+      "predicted": "",
+      "actual": "THAT IS A FIRST",
+      "file_path": "sample_541"
+    },
+    {
+      "sample_idx": 542,
+      "predicted": "",
+      "actual": "WITH MY BLESSING",
+      "file_path": "sample_542"
+    },
+    {
+      "sample_idx": 543,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T THINK I DON'T THINK I'T KNOW WHAT I DON'T THINK I'T THINK I'T THINK I'T THINK",
+      "actual": "THAT'S THE MESSAGE FROM INDEPENDENT ECONOMISTS AFTER THE CHANCELLOR'S AUTUMN STATEMENT",
+      "file_path": "sample_543"
+    },
+    {
+      "sample_idx": 544,
+      "predicted": "",
+      "actual": "AND WITH THAT IN MIND",
+      "file_path": "sample_544"
+    },
+    {
+      "sample_idx": 545,
+      "predicted": "",
+      "actual": "HIS FATHER DIED",
+      "file_path": "sample_545"
+    },
+    {
+      "sample_idx": 546,
+      "predicted": "",
+      "actual": "NOT JUST HERE IN NOTTINGHAMSHIRE",
+      "file_path": "sample_546"
+    },
+    {
+      "sample_idx": 547,
+      "predicted": "",
+      "actual": "BUT IT SEEMS THE PENDANT IS TO EVERYONE'S PERSONAL TASTE",
+      "file_path": "sample_547"
+    },
+    {
+      "sample_idx": 548,
+      "predicted": "",
+      "actual": "IT'S TIME TO FIND OUT IF NIGEL",
+      "file_path": "sample_548"
+    },
+    {
+      "sample_idx": 549,
+      "predicted": "",
+      "actual": "REMEMBER THAT MAN WITH THE CAMERA",
+      "file_path": "sample_549"
+    },
+    {
+      "sample_idx": 550,
+      "predicted": "",
+      "actual": "AND YOU CAN FOLLOW US",
+      "file_path": "sample_550"
+    },
+    {
+      "sample_idx": 551,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_551"
+    },
+    {
+      "sample_idx": 552,
+      "predicted": "",
+      "actual": "BUT IT'S NOT ALL BAD NEWS",
+      "file_path": "sample_552"
+    },
+    {
+      "sample_idx": 553,
+      "predicted": "",
+      "actual": "I DO KNOW WHAT IT MEANS",
+      "file_path": "sample_553"
+    },
+    {
+      "sample_idx": 554,
+      "predicted": "",
+      "actual": "WHEN I FOUND OUT",
+      "file_path": "sample_554"
+    },
+    {
+      "sample_idx": 555,
+      "predicted": "",
+      "actual": "AFTER ALL I'VE BEEN THROUGH",
+      "file_path": "sample_555"
+    },
+    {
+      "sample_idx": 556,
+      "predicted": "",
+      "actual": "I WANT TO TALK ABOUT DADDY TOO",
+      "file_path": "sample_556"
+    },
+    {
+      "sample_idx": 557,
+      "predicted": "",
+      "actual": "EVERYONE WAS BLOWN AWAY",
+      "file_path": "sample_557"
+    },
+    {
+      "sample_idx": 558,
+      "predicted": "",
+      "actual": "WE STILL HAVE ALL OF THIS TO COME",
+      "file_path": "sample_558"
+    },
+    {
+      "sample_idx": 559,
+      "predicted": "",
+      "actual": "I WANT TO TAKE A SELFIE",
+      "file_path": "sample_559"
+    },
+    {
+      "sample_idx": 560,
+      "predicted": "",
+      "actual": "RESCUING A DAMSEL IN DISTRESS",
+      "file_path": "sample_560"
+    },
+    {
+      "sample_idx": 561,
+      "predicted": "",
+      "actual": "ALL OF THAT COULD CHANGE",
+      "file_path": "sample_561"
+    },
+    {
+      "sample_idx": 562,
+      "predicted": "",
+      "actual": "BUT WHAT EXACTLY IS IT",
+      "file_path": "sample_562"
+    },
+    {
+      "sample_idx": 563,
+      "predicted": "",
+      "actual": "HOW DOES IT WORK",
+      "file_path": "sample_563"
+    },
+    {
+      "sample_idx": 564,
+      "predicted": "",
+      "actual": "THERE'S ALWAYS HISTORICAL TREASURES TO LOOK AT",
+      "file_path": "sample_564"
+    },
+    {
+      "sample_idx": 565,
+      "predicted": "",
+      "actual": "FAST AND FURIOUS",
+      "file_path": "sample_565"
+    },
+    {
+      "sample_idx": 566,
+      "predicted": "",
+      "actual": "AND LATER IN TURN",
+      "file_path": "sample_566"
+    },
+    {
+      "sample_idx": 567,
+      "predicted": "",
+      "actual": "LATER ON IN LIFE",
+      "file_path": "sample_567"
+    },
+    {
+      "sample_idx": 568,
+      "predicted": "",
+      "actual": "HE MOVED AROUND A LOT",
+      "file_path": "sample_568"
+    },
+    {
+      "sample_idx": 569,
+      "predicted": "",
+      "actual": "AS IS THE TITLE OF THIS POEM",
+      "file_path": "sample_569"
+    },
+    {
+      "sample_idx": 570,
+      "predicted": "",
+      "actual": "FOUR KILOMETRES WITHOUT EVEN REALLY THINKING ABOUT IT",
+      "file_path": "sample_570"
+    },
+    {
+      "sample_idx": 571,
+      "predicted": "",
+      "actual": "IN THE HIGHWAY CODE ITSELF",
+      "file_path": "sample_571"
+    },
+    {
+      "sample_idx": 572,
+      "predicted": "",
+      "actual": "SO IN THE MEANTIME",
+      "file_path": "sample_572"
+    },
+    {
+      "sample_idx": 573,
+      "predicted": "",
+      "actual": "THROUGH ANTIBODY DIRECTED THERAPY",
+      "file_path": "sample_573"
+    },
+    {
+      "sample_idx": 574,
+      "predicted": "",
+      "actual": "AND I FEEL VERY",
+      "file_path": "sample_574"
+    },
+    {
+      "sample_idx": 575,
+      "predicted": "",
+      "actual": "I'M YOUR SIMON COWELL",
+      "file_path": "sample_575"
+    },
+    {
+      "sample_idx": 576,
+      "predicted": "",
+      "actual": "FOR SOME REASON",
+      "file_path": "sample_576"
+    },
+    {
+      "sample_idx": 577,
+      "predicted": "",
+      "actual": "I JUST CAN'T SEEM TO WIN",
+      "file_path": "sample_577"
+    },
+    {
+      "sample_idx": 578,
+      "predicted": "",
+      "actual": "IT'LL BE A BRILLIANT SUCCESS",
+      "file_path": "sample_578"
+    },
+    {
+      "sample_idx": 579,
+      "predicted": "",
+      "actual": "HE RETRIEVED THE FLAG",
+      "file_path": "sample_579"
+    },
+    {
+      "sample_idx": 580,
+      "predicted": "",
+      "actual": "I'M STRUGGLING WITH THAT ONE",
+      "file_path": "sample_580"
+    },
+    {
+      "sample_idx": 581,
+      "predicted": "",
+      "actual": "HE'S A LATIN SENSATION",
+      "file_path": "sample_581"
+    },
+    {
+      "sample_idx": 582,
+      "predicted": "",
+      "actual": "BORN INTO A FAMILY OF DANCERS",
+      "file_path": "sample_582"
+    },
+    {
+      "sample_idx": 583,
+      "predicted": "",
+      "actual": "I MADE A FEW CALLS",
+      "file_path": "sample_583"
+    },
+    {
+      "sample_idx": 584,
+      "predicted": "",
+      "actual": "AS WELL AS THE GREEN MAN",
+      "file_path": "sample_584"
+    },
+    {
+      "sample_idx": 585,
+      "predicted": "",
+      "actual": "THIS IS EXTREMELY RARE AND VALUABLE",
+      "file_path": "sample_585"
+    },
+    {
+      "sample_idx": 586,
+      "predicted": "",
+      "actual": "NOT FOR SUBJECT MATTER",
+      "file_path": "sample_586"
+    },
+    {
+      "sample_idx": 587,
+      "predicted": "",
+      "actual": "I HASTEN TO ADD",
+      "file_path": "sample_587"
+    },
+    {
+      "sample_idx": 588,
+      "predicted": "",
+      "actual": "HERE ON THE DAY",
+      "file_path": "sample_588"
+    },
+    {
+      "sample_idx": 589,
+      "predicted": "",
+      "actual": "BUT I FELT HE WAS EXPOSED",
+      "file_path": "sample_589"
+    },
+    {
+      "sample_idx": 590,
+      "predicted": "",
+      "actual": "AND YOU AND HIM",
+      "file_path": "sample_590"
+    },
+    {
+      "sample_idx": 591,
+      "predicted": "",
+      "actual": "WILL APPEAR IN COURT NEXT MONTH",
+      "file_path": "sample_591"
+    },
+    {
+      "sample_idx": 592,
+      "predicted": "",
+      "actual": "AND THE CHAMPAGNE",
+      "file_path": "sample_592"
+    },
+    {
+      "sample_idx": 593,
+      "predicted": "",
+      "actual": "BEFORE WE BRING ON OUR NEXT CONTENDER",
+      "file_path": "sample_593"
+    },
+    {
+      "sample_idx": 594,
+      "predicted": "",
+      "actual": "IF YOU'VE GOT A QUESTION FOR EITHER OF THEM",
+      "file_path": "sample_594"
+    },
+    {
+      "sample_idx": 595,
+      "predicted": "",
+      "actual": "SO TO DO BALLROOM",
+      "file_path": "sample_595"
+    },
+    {
+      "sample_idx": 596,
+      "predicted": "",
+      "actual": "I AM THE ULTIMATE POWER",
+      "file_path": "sample_596"
+    },
+    {
+      "sample_idx": 597,
+      "predicted": "",
+      "actual": "IT IS THE QUARTER FINALS",
+      "file_path": "sample_597"
+    },
+    {
+      "sample_idx": 598,
+      "predicted": "",
+      "actual": "WE HAD A BLAZING ROW",
+      "file_path": "sample_598"
+    },
+    {
+      "sample_idx": 599,
+      "predicted": "",
+      "actual": "WHEN HE RETIRED",
+      "file_path": "sample_599"
+    },
+    {
+      "sample_idx": 600,
+      "predicted": "",
+      "actual": "THE FAMILY SEAT",
+      "file_path": "sample_600"
+    },
+    {
+      "sample_idx": 601,
+      "predicted": "",
+      "actual": "PLEASE WELCOME JENNY ECLAIR",
+      "file_path": "sample_601"
+    },
+    {
+      "sample_idx": 602,
+      "predicted": "",
+      "actual": "IT'S A MOVIE THEME",
+      "file_path": "sample_602"
+    },
+    {
+      "sample_idx": 603,
+      "predicted": "",
+      "actual": "THEY HAVE NO IDEA WHAT TO EXPECT",
+      "file_path": "sample_603"
+    },
+    {
+      "sample_idx": 604,
+      "predicted": "",
+      "actual": "TWO AND A HALF MINUTES FOR THAT ROUND",
+      "file_path": "sample_604"
+    },
+    {
+      "sample_idx": 605,
+      "predicted": "",
+      "actual": "SO LET'S GET ON WITH IT",
+      "file_path": "sample_605"
+    },
+    {
+      "sample_idx": 606,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_606"
+    },
+    {
+      "sample_idx": 607,
+      "predicted": "",
+      "actual": "I'M NOT SATISFIED",
+      "file_path": "sample_607"
+    },
+    {
+      "sample_idx": 608,
+      "predicted": "",
+      "actual": "IT'S ON OUR CABLE PACKAGE",
+      "file_path": "sample_608"
+    },
+    {
+      "sample_idx": 609,
+      "predicted": "",
+      "actual": "WHEN WE SEE HIM",
+      "file_path": "sample_609"
+    },
+    {
+      "sample_idx": 610,
+      "predicted": "",
+      "actual": "YOU WANT ME TO BE HAPPY",
+      "file_path": "sample_610"
+    },
+    {
+      "sample_idx": 611,
+      "predicted": "",
+      "actual": "WHAT SEASON WAS THAT",
+      "file_path": "sample_611"
+    },
+    {
+      "sample_idx": 612,
+      "predicted": "",
+      "actual": "NO FOOD LEFT OUT",
+      "file_path": "sample_612"
+    },
+    {
+      "sample_idx": 613,
+      "predicted": "",
+      "actual": "I'LL MEET YOU AT THE PARTY",
+      "file_path": "sample_613"
+    },
+    {
+      "sample_idx": 614,
+      "predicted": "",
+      "actual": "PROBABLY IN THE WORLD",
+      "file_path": "sample_614"
+    },
+    {
+      "sample_idx": 615,
+      "predicted": "",
+      "actual": "I'M REALLY LOOKING FORWARD TO THIS",
+      "file_path": "sample_615"
+    },
+    {
+      "sample_idx": 616,
+      "predicted": "",
+      "actual": "AND IT'S EVEN RARER TO FIND ONE THAT HASN'T BEEN DUG INTO BY ANTIQUARIANS",
+      "file_path": "sample_616"
+    },
+    {
+      "sample_idx": 617,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M GOING TO SAY I'M",
+      "actual": "WHAT WE'VE GOT HERE IS AN OPPORTUNITY TO UNDERSTAND ONE OF THESE MONUMENTS IN A MODERN",
+      "file_path": "sample_617"
+    },
+    {
+      "sample_idx": 618,
+      "predicted": "",
+      "actual": "AND PEOPLE LIVING",
+      "file_path": "sample_618"
+    },
+    {
+      "sample_idx": 619,
+      "predicted": "",
+      "actual": "IT'S ABOUT THE DEAD",
+      "file_path": "sample_619"
+    },
+    {
+      "sample_idx": 620,
+      "predicted": "",
+      "actual": "A PURIFICATION CEREMONY",
+      "file_path": "sample_620"
+    },
+    {
+      "sample_idx": 621,
+      "predicted": "",
+      "actual": "IT'S ALMOST AN OLD PERSON",
+      "file_path": "sample_621"
+    },
+    {
+      "sample_idx": 622,
+      "predicted": "",
+      "actual": "AND THIS MIGHT BE",
+      "file_path": "sample_622"
+    },
+    {
+      "sample_idx": 623,
+      "predicted": "",
+      "actual": "EVERY SINGLE PERSON",
+      "file_path": "sample_623"
+    },
+    {
+      "sample_idx": 624,
+      "predicted": "",
+      "actual": "THAT'S THE BEST KIND OF TEACHING",
+      "file_path": "sample_624"
+    },
+    {
+      "sample_idx": 625,
+      "predicted": "",
+      "actual": "I HAD A GREAT TIME",
+      "file_path": "sample_625"
+    },
+    {
+      "sample_idx": 626,
+      "predicted": "",
+      "actual": "THAT'S WHAT CHILD SUPPORT SERVICES DOES",
+      "file_path": "sample_626"
+    },
+    {
+      "sample_idx": 627,
+      "predicted": "",
+      "actual": "NICOLA IS DEFINITELY THE LOVE OF MY LIFE",
+      "file_path": "sample_627"
+    },
+    {
+      "sample_idx": 628,
+      "predicted": "",
+      "actual": "SHE'S MY JULIET",
+      "file_path": "sample_628"
+    },
+    {
+      "sample_idx": 629,
+      "predicted": "",
+      "actual": "THE ROCHELLE TO MY MARVIN",
+      "file_path": "sample_629"
+    },
+    {
+      "sample_idx": 630,
+      "predicted": "",
+      "actual": "I GUESS I'M AFRAID",
+      "file_path": "sample_630"
+    },
+    {
+      "sample_idx": 631,
+      "predicted": "",
+      "actual": "I LIKE SPENDING TIME WITH HIM",
+      "file_path": "sample_631"
+    },
+    {
+      "sample_idx": 632,
+      "predicted": "",
+      "actual": "AND IT IS A SERVICE",
+      "file_path": "sample_632"
+    },
+    {
+      "sample_idx": 633,
+      "predicted": "",
+      "actual": "SHE'S GOT THE BEST TOP LINE IN THE BUSINESS",
+      "file_path": "sample_633"
+    },
+    {
+      "sample_idx": 634,
+      "predicted": "",
+      "actual": "SO I DON'T KNOW",
+      "file_path": "sample_634"
+    },
+    {
+      "sample_idx": 635,
+      "predicted": "",
+      "actual": "THAT'S WHAT YOU SAID",
+      "file_path": "sample_635"
+    },
+    {
+      "sample_idx": 636,
+      "predicted": "",
+      "actual": "IT'S JUST A NAME",
+      "file_path": "sample_636"
+    },
+    {
+      "sample_idx": 637,
+      "predicted": "",
+      "actual": "I'VE BEEN WAXED",
+      "file_path": "sample_637"
+    },
+    {
+      "sample_idx": 638,
+      "predicted": "",
+      "actual": "TALK ABOUT SMART",
+      "file_path": "sample_638"
+    },
+    {
+      "sample_idx": 639,
+      "predicted": "",
+      "actual": "MY LITTLE BOY IS",
+      "file_path": "sample_639"
+    },
+    {
+      "sample_idx": 640,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU",
+      "actual": "THAT SEEMS TO ME LIKE A PRETTY IMPRESSIVE PERK OF THE JOB BY ANYBODY'S STANDARDS",
+      "file_path": "sample_640"
+    },
+    {
+      "sample_idx": 641,
+      "predicted": "",
+      "actual": "WE BOUGHT THE FIRM BACK",
+      "file_path": "sample_641"
+    },
+    {
+      "sample_idx": 642,
+      "predicted": "",
+      "actual": "ENJOY THE MONEY",
+      "file_path": "sample_642"
+    },
+    {
+      "sample_idx": 643,
+      "predicted": "",
+      "actual": "EMBOSSED LEATHER WALLPAPER",
+      "file_path": "sample_643"
+    },
+    {
+      "sample_idx": 644,
+      "predicted": "",
+      "actual": "I'M GETTING OLDER",
+      "file_path": "sample_644"
+    },
+    {
+      "sample_idx": 645,
+      "predicted": "",
+      "actual": "I'LL BE POPPING IN EACH EVENING",
+      "file_path": "sample_645"
+    },
+    {
+      "sample_idx": 646,
+      "predicted": "",
+      "actual": "JOIN ME TOMORROW",
+      "file_path": "sample_646"
+    },
+    {
+      "sample_idx": 647,
+      "predicted": "",
+      "actual": "BUT SHE'S NOT CONFUSED",
+      "file_path": "sample_647"
+    },
+    {
+      "sample_idx": 648,
+      "predicted": "",
+      "actual": "YOU NEED TO BE STRONG UP HERE",
+      "file_path": "sample_648"
+    },
+    {
+      "sample_idx": 649,
+      "predicted": "",
+      "actual": "MAKE SURE YOU NEVER GET DEPRESSED AGAIN",
+      "file_path": "sample_649"
+    },
+    {
+      "sample_idx": 650,
+      "predicted": "",
+      "actual": "WITH BILLY NOT BEING YOURS",
+      "file_path": "sample_650"
+    },
+    {
+      "sample_idx": 651,
+      "predicted": "",
+      "actual": "WHEN IT COMES TO DESIGNING FABULOUS COSTUMES",
+      "file_path": "sample_651"
+    },
+    {
+      "sample_idx": 652,
+      "predicted": "",
+      "actual": "THEY ARE BATTLING TO BE CROWNED PRO CHALLENGE CHAMPION",
+      "file_path": "sample_652"
+    },
+    {
+      "sample_idx": 653,
+      "predicted": "",
+      "actual": "THE PRIME MINISTER SLAPS HIM DOWN",
+      "file_path": "sample_653"
+    },
+    {
+      "sample_idx": 654,
+      "predicted": "",
+      "actual": "HOW BIG IS THAT",
+      "file_path": "sample_654"
+    },
+    {
+      "sample_idx": 655,
+      "predicted": "",
+      "actual": "SEPARATED FROM THAT",
+      "file_path": "sample_655"
+    },
+    {
+      "sample_idx": 656,
+      "predicted": "",
+      "actual": "COMING IN ON THE OTHER SIDE",
+      "file_path": "sample_656"
+    },
+    {
+      "sample_idx": 657,
+      "predicted": "",
+      "actual": "WHAT DID YOU PUT IN THE MULLED WINE",
+      "file_path": "sample_657"
+    },
+    {
+      "sample_idx": 658,
+      "predicted": "",
+      "actual": "IT'S A TERRIBLE IDEA",
+      "file_path": "sample_658"
+    },
+    {
+      "sample_idx": 659,
+      "predicted": "",
+      "actual": "AND THEY DON'T MAKE BIG MONEY",
+      "file_path": "sample_659"
+    },
+    {
+      "sample_idx": 660,
+      "predicted": "",
+      "actual": "EVERYWHERE YOU LOOK",
+      "file_path": "sample_660"
+    },
+    {
+      "sample_idx": 661,
+      "predicted": "",
+      "actual": "YOU'VE REALLY MADE MY DAY",
+      "file_path": "sample_661"
+    },
+    {
+      "sample_idx": 662,
+      "predicted": "",
+      "actual": "AND WE HAVE TODAY",
+      "file_path": "sample_662"
+    },
+    {
+      "sample_idx": 663,
+      "predicted": "",
+      "actual": "MEN WANT TO BE HIM",
+      "file_path": "sample_663"
+    },
+    {
+      "sample_idx": 664,
+      "predicted": "",
+      "actual": "HE ABSOLUTELY INSISTED ON WRITING HIS OWN INTRO",
+      "file_path": "sample_664"
+    },
+    {
+      "sample_idx": 665,
+      "predicted": "",
+      "actual": "WITH FAMILY AND FRIENDS",
+      "file_path": "sample_665"
+    },
+    {
+      "sample_idx": 666,
+      "predicted": "",
+      "actual": "IT'S ALL ABOUT THE STRICTLY PRO CHALLENGE",
+      "file_path": "sample_666"
+    },
+    {
+      "sample_idx": 667,
+      "predicted": "",
+      "actual": "BEFORE WE GO ANY FURTHER",
+      "file_path": "sample_667"
+    },
+    {
+      "sample_idx": 668,
+      "predicted": "",
+      "actual": "THE SIX HIGHEST SCORING RUNNERS UP WILL QUALIFY",
+      "file_path": "sample_668"
+    },
+    {
+      "sample_idx": 669,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_669"
+    },
+    {
+      "sample_idx": 670,
+      "predicted": "",
+      "actual": "JUST BEFORE CHRISTMAS",
+      "file_path": "sample_670"
+    },
+    {
+      "sample_idx": 671,
+      "predicted": "",
+      "actual": "THAT'S IT FOR THE REDS",
+      "file_path": "sample_671"
+    },
+    {
+      "sample_idx": 672,
+      "predicted": "",
+      "actual": "I THINK SHE'S COMPLETELY BONKERS",
+      "file_path": "sample_672"
+    },
+    {
+      "sample_idx": 673,
+      "predicted": "",
+      "actual": "YOU ARE DYNAMIC",
+      "file_path": "sample_673"
+    },
+    {
+      "sample_idx": 674,
+      "predicted": "",
+      "actual": "IT WAS FULL OF CONTENT",
+      "file_path": "sample_674"
+    },
+    {
+      "sample_idx": 675,
+      "predicted": "",
+      "actual": "AS I WAS SAYING",
+      "file_path": "sample_675"
+    },
+    {
+      "sample_idx": 676,
+      "predicted": "",
+      "actual": "IT'S ACTUALLY A SALSA",
+      "file_path": "sample_676"
+    },
+    {
+      "sample_idx": 677,
+      "predicted": "",
+      "actual": "THE GARDEN OF ENGLAND",
+      "file_path": "sample_677"
+    },
+    {
+      "sample_idx": 678,
+      "predicted": "",
+      "actual": "YOU CAN GET A BETTER STRUCTURE",
+      "file_path": "sample_678"
+    },
+    {
+      "sample_idx": 679,
+      "predicted": "",
+      "actual": "EVERY YEAR SINCE CHRISTMAS BEGAN",
+      "file_path": "sample_679"
+    },
+    {
+      "sample_idx": 680,
+      "predicted": "",
+      "actual": "WAY BACK IN THE EARLY",
+      "file_path": "sample_680"
+    },
+    {
+      "sample_idx": 681,
+      "predicted": "",
+      "actual": "I ACTUALLY WANTED TO BE A HORSE",
+      "file_path": "sample_681"
+    },
+    {
+      "sample_idx": 682,
+      "predicted": "",
+      "actual": "USUALLY A BICYCLE",
+      "file_path": "sample_682"
+    },
+    {
+      "sample_idx": 683,
+      "predicted": "",
+      "actual": "THROUGH THE ACCESSIBILITY TO THOSE CHILDREN",
+      "file_path": "sample_683"
+    },
+    {
+      "sample_idx": 684,
+      "predicted": "",
+      "actual": "LIKE MOST OTHER FORMS OF MODERN WARFARE",
+      "file_path": "sample_684"
+    },
+    {
+      "sample_idx": 685,
+      "predicted": "",
+      "actual": "YOU DO LOVE YOUR DOLL",
+      "file_path": "sample_685"
+    },
+    {
+      "sample_idx": 686,
+      "predicted": "",
+      "actual": "THEY WERE INNOCENT AND CHARMING",
+      "file_path": "sample_686"
+    },
+    {
+      "sample_idx": 687,
+      "predicted": "",
+      "actual": "YOU WANT TO LOOK",
+      "file_path": "sample_687"
+    },
+    {
+      "sample_idx": 688,
+      "predicted": "",
+      "actual": "OR IS IT THAT YOU ENJOY THOSE TOYS AND IT MAKES YOU INTO A DIFFERENT PERSON",
+      "file_path": "sample_688"
+    },
+    {
+      "sample_idx": 689,
+      "predicted": "",
+      "actual": "SPACE WAS STILL THE FINAL FRONTIER",
+      "file_path": "sample_689"
+    },
+    {
+      "sample_idx": 690,
+      "predicted": "",
+      "actual": "IT LOOKS REALLY LIKE IT IS",
+      "file_path": "sample_690"
+    },
+    {
+      "sample_idx": 691,
+      "predicted": "",
+      "actual": "WHEN I GET HOME",
+      "file_path": "sample_691"
+    },
+    {
+      "sample_idx": 692,
+      "predicted": "",
+      "actual": "THE BALL SHAPED ONE",
+      "file_path": "sample_692"
+    },
+    {
+      "sample_idx": 693,
+      "predicted": "",
+      "actual": "YOU SEE THAT PRESENT",
+      "file_path": "sample_693"
+    },
+    {
+      "sample_idx": 694,
+      "predicted": "",
+      "actual": "SO WHAT HE DID TO GET ROUND THAT",
+      "file_path": "sample_694"
+    },
+    {
+      "sample_idx": 695,
+      "predicted": "",
+      "actual": "BUT IN THOSE DAYS",
+      "file_path": "sample_695"
+    },
+    {
+      "sample_idx": 696,
+      "predicted": "",
+      "actual": "IT BECOMES A FIRE ENGINE",
+      "file_path": "sample_696"
+    },
+    {
+      "sample_idx": 697,
+      "predicted": "",
+      "actual": "FOUR LITTLE TURTLES NAMED AFTER ITALIAN RENAISSANCE ARTISTS",
+      "file_path": "sample_697"
+    },
+    {
+      "sample_idx": 698,
+      "predicted": "",
+      "actual": "SOME BURN BRIGHTLY FOR A YEAR OR TWO",
+      "file_path": "sample_698"
+    },
+    {
+      "sample_idx": 699,
+      "predicted": "",
+      "actual": "IF YOU DIDN'T HAVE ONE",
+      "file_path": "sample_699"
+    },
+    {
+      "sample_idx": 700,
+      "predicted": "",
+      "actual": "WHAT WAS ALL THAT ABOUT",
+      "file_path": "sample_700"
+    },
+    {
+      "sample_idx": 701,
+      "predicted": "",
+      "actual": "ALREADY IN THE STATES",
+      "file_path": "sample_701"
+    },
+    {
+      "sample_idx": 702,
+      "predicted": "",
+      "actual": "THE RIGHT PLACE",
+      "file_path": "sample_702"
+    },
+    {
+      "sample_idx": 703,
+      "predicted": "",
+      "actual": "NOTHING WRONG WITH THAT IDEA IN PRINCIPLE",
+      "file_path": "sample_703"
+    },
+    {
+      "sample_idx": 704,
+      "predicted": "",
+      "actual": "SAUSAGES IN BACON",
+      "file_path": "sample_704"
+    },
+    {
+      "sample_idx": 705,
+      "predicted": "",
+      "actual": "CHRISTMAS PUDDING THAT NOBODY REALLY LIKES",
+      "file_path": "sample_705"
+    },
+    {
+      "sample_idx": 706,
+      "predicted": "",
+      "actual": "STICK SOME JAMES BOND ON",
+      "file_path": "sample_706"
+    },
+    {
+      "sample_idx": 707,
+      "predicted": "",
+      "actual": "THAT SOMEONE WAS GOING TO GET",
+      "file_path": "sample_707"
+    },
+    {
+      "sample_idx": 708,
+      "predicted": "",
+      "actual": "YOU CAN'T REALLY SAY",
+      "file_path": "sample_708"
+    },
+    {
+      "sample_idx": 709,
+      "predicted": "",
+      "actual": "NOT IN FRONT OF THE WHOLE FAMILY",
+      "file_path": "sample_709"
+    },
+    {
+      "sample_idx": 710,
+      "predicted": "",
+      "actual": "YOU UNFOLD THE BOARD",
+      "file_path": "sample_710"
+    },
+    {
+      "sample_idx": 711,
+      "predicted": "",
+      "actual": "AT THE SAME TIME",
+      "file_path": "sample_711"
+    },
+    {
+      "sample_idx": 712,
+      "predicted": "",
+      "actual": "IN VICTORIAN BRITAIN",
+      "file_path": "sample_712"
+    },
+    {
+      "sample_idx": 713,
+      "predicted": "",
+      "actual": "ON THE ORDERS OF QUEEN VICTORIA",
+      "file_path": "sample_713"
+    },
+    {
+      "sample_idx": 714,
+      "predicted": "",
+      "actual": "I THINK HE'S PERFECT",
+      "file_path": "sample_714"
+    },
+    {
+      "sample_idx": 715,
+      "predicted": "",
+      "actual": "WHEN IT COMES TO TOYS",
+      "file_path": "sample_715"
+    },
+    {
+      "sample_idx": 716,
+      "predicted": "",
+      "actual": "MAYBE NOT URANIUM",
+      "file_path": "sample_716"
+    },
+    {
+      "sample_idx": 717,
+      "predicted": "",
+      "actual": "BUT I LIKE TO SEE IT",
+      "file_path": "sample_717"
+    },
+    {
+      "sample_idx": 718,
+      "predicted": "",
+      "actual": "WE LIKE TO REMINISCE",
+      "file_path": "sample_718"
+    },
+    {
+      "sample_idx": 719,
+      "predicted": "",
+      "actual": "FOR THAT REASON",
+      "file_path": "sample_719"
+    },
+    {
+      "sample_idx": 720,
+      "predicted": "",
+      "actual": "THIS REALLY MAKES US THINK",
+      "file_path": "sample_720"
+    },
+    {
+      "sample_idx": 721,
+      "predicted": "",
+      "actual": "MAYBE THERE'S AN EXTENSIVE PATTERN",
+      "file_path": "sample_721"
+    },
+    {
+      "sample_idx": 722,
+      "predicted": "",
+      "actual": "WHEN THE ARCHAEOLOGISTS GOT TO WORK",
+      "file_path": "sample_722"
+    },
+    {
+      "sample_idx": 723,
+      "predicted": "",
+      "actual": "I'M TRYING NOT TO GET CARRIED AWAY",
+      "file_path": "sample_723"
+    },
+    {
+      "sample_idx": 724,
+      "predicted": "",
+      "actual": "IT REALLY WAS THAT BAD",
+      "file_path": "sample_724"
+    },
+    {
+      "sample_idx": 725,
+      "predicted": "",
+      "actual": "THEY WILL NOT DO",
+      "file_path": "sample_725"
+    },
+    {
+      "sample_idx": 726,
+      "predicted": "",
+      "actual": "LET'S TAKE A LOOK BEHIND THE SCENES AT HOW IT ALL CAME",
+      "file_path": "sample_726"
+    },
+    {
+      "sample_idx": 727,
+      "predicted": "",
+      "actual": "TIME NOW FOR OUR NEXT GUEST",
+      "file_path": "sample_727"
+    },
+    {
+      "sample_idx": 728,
+      "predicted": "",
+      "actual": "OVER THE LAST 12 YEARS",
+      "file_path": "sample_728"
+    },
+    {
+      "sample_idx": 729,
+      "predicted": "",
+      "actual": "WHY SHOW ME THIS",
+      "file_path": "sample_729"
+    },
+    {
+      "sample_idx": 730,
+      "predicted": "",
+      "actual": "I'M ON THE CASE",
+      "file_path": "sample_730"
+    },
+    {
+      "sample_idx": 731,
+      "predicted": "",
+      "actual": "EVEN CHRISTMAS DAY",
+      "file_path": "sample_731"
+    },
+    {
+      "sample_idx": 732,
+      "predicted": "",
+      "actual": "BUT TOWARDS THE END",
+      "file_path": "sample_732"
+    },
+    {
+      "sample_idx": 733,
+      "predicted": "",
+      "actual": "HE HAS NOT HELD BACK ANYTHING",
+      "file_path": "sample_733"
+    },
+    {
+      "sample_idx": 734,
+      "predicted": "",
+      "actual": "BUT IT WAS SO DISCONCERTINGLY CALM IN THE STUDIO",
+      "file_path": "sample_734"
+    },
+    {
+      "sample_idx": 735,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T THINK I DON'T THINK I'T KNOW WHAT I DON'T THINK I'T THINK I'T THINK I'T THINK",
+      "actual": "HERE TO REVEAL THE SECRET TO GETTING YOUR HANDS ON THE TROPHY",
+      "file_path": "sample_735"
+    },
+    {
+      "sample_idx": 736,
+      "predicted": "",
+      "actual": "I SHOULDN'T SAY THOSE THINGS",
+      "file_path": "sample_736"
+    },
+    {
+      "sample_idx": 737,
+      "predicted": "",
+      "actual": "WHAT ELSE CAN I BE",
+      "file_path": "sample_737"
+    },
+    {
+      "sample_idx": 738,
+      "predicted": "",
+      "actual": "NOT WELL DRESSED",
+      "file_path": "sample_738"
+    },
+    {
+      "sample_idx": 739,
+      "predicted": "",
+      "actual": "SHE IS MARRIED NOW",
+      "file_path": "sample_739"
+    },
+    {
+      "sample_idx": 740,
+      "predicted": "",
+      "actual": "BEST AND HAPPIEST OF ALL",
+      "file_path": "sample_740"
+    },
+    {
+      "sample_idx": 741,
+      "predicted": "",
+      "actual": "THE TIME BEFORE HIM WAS HIS OWN",
+      "file_path": "sample_741"
+    },
+    {
+      "sample_idx": 742,
+      "predicted": "",
+      "actual": "THAT'S WHAT I AM",
+      "file_path": "sample_742"
+    },
+    {
+      "sample_idx": 743,
+      "predicted": "",
+      "actual": "IT SOUNDS VERY GOOD",
+      "file_path": "sample_743"
+    },
+    {
+      "sample_idx": 744,
+      "predicted": "",
+      "actual": "SHE'S DEPRESSED ABOUT DADDY",
+      "file_path": "sample_744"
+    },
+    {
+      "sample_idx": 745,
+      "predicted": "",
+      "actual": "NOW YOU LISTEN TO ME",
+      "file_path": "sample_745"
+    },
+    {
+      "sample_idx": 746,
+      "predicted": "",
+      "actual": "I'M STILL SURROUNDED BY HUNDREDS OF PEOPLE",
+      "file_path": "sample_746"
+    },
+    {
+      "sample_idx": 747,
+      "predicted": "",
+      "actual": "ALL THE INFORMATION WILL BE THERE",
+      "file_path": "sample_747"
+    },
+    {
+      "sample_idx": 748,
+      "predicted": "",
+      "actual": "EVERY WEEK HE COMES OUT",
+      "file_path": "sample_748"
+    },
+    {
+      "sample_idx": 749,
+      "predicted": "",
+      "actual": "THE RIVALRY AND ALL THAT",
+      "file_path": "sample_749"
+    },
+    {
+      "sample_idx": 750,
+      "predicted": "",
+      "actual": "LEAVE THAT TO ME",
+      "file_path": "sample_750"
+    },
+    {
+      "sample_idx": 751,
+      "predicted": "",
+      "actual": "BUT FOR ALL THAT",
+      "file_path": "sample_751"
+    },
+    {
+      "sample_idx": 752,
+      "predicted": "",
+      "actual": "I'D LIKE TO HELP YOU",
+      "file_path": "sample_752"
+    },
+    {
+      "sample_idx": 753,
+      "predicted": "",
+      "actual": "I DON'T WANT TO RESIGN",
+      "file_path": "sample_753"
+    },
+    {
+      "sample_idx": 754,
+      "predicted": "",
+      "actual": "WHICH IS INCREDIBLE",
+      "file_path": "sample_754"
+    },
+    {
+      "sample_idx": 755,
+      "predicted": "",
+      "actual": "I HAD NO IDEA HOW MUCH",
+      "file_path": "sample_755"
+    },
+    {
+      "sample_idx": 756,
+      "predicted": "",
+      "actual": "AT THE SAME TIME",
+      "file_path": "sample_756"
+    },
+    {
+      "sample_idx": 757,
+      "predicted": "",
+      "actual": "SO LET'S FIND OUT WHO THAT WILL BE",
+      "file_path": "sample_757"
+    },
+    {
+      "sample_idx": 758,
+      "predicted": "",
+      "actual": "SOME DECENT SCORES",
+      "file_path": "sample_758"
+    },
+    {
+      "sample_idx": 759,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_759"
+    },
+    {
+      "sample_idx": 760,
+      "predicted": "",
+      "actual": "THE PERFECT HOUSE",
+      "file_path": "sample_760"
+    },
+    {
+      "sample_idx": 761,
+      "predicted": "",
+      "actual": "THE PERFECT FAMILY",
+      "file_path": "sample_761"
+    },
+    {
+      "sample_idx": 762,
+      "predicted": "",
+      "actual": "AND AS A RESULT",
+      "file_path": "sample_762"
+    },
+    {
+      "sample_idx": 763,
+      "predicted": "",
+      "actual": "THE FIRST MUSLIM WOMAN TO SERVE AS A CABINET MINISTER",
+      "file_path": "sample_763"
+    },
+    {
+      "sample_idx": 764,
+      "predicted": "",
+      "actual": "IT'S NOT THE MIDDLE AGES",
+      "file_path": "sample_764"
+    },
+    {
+      "sample_idx": 765,
+      "predicted": "",
+      "actual": "HE DOESN'T OWN ME",
+      "file_path": "sample_765"
+    },
+    {
+      "sample_idx": 766,
+      "predicted": "",
+      "actual": "SO PLEASE WELCOME",
+      "file_path": "sample_766"
+    },
+    {
+      "sample_idx": 767,
+      "predicted": "",
+      "actual": "IT WAS ACTUALLY EXTREMELY WELL PLACED",
+      "file_path": "sample_767"
+    },
+    {
+      "sample_idx": 768,
+      "predicted": "",
+      "actual": "PLEASE DON'T TRY TO VOTE IF YOU'RE WATCHING ON DEMAND",
+      "file_path": "sample_768"
+    },
+    {
+      "sample_idx": 769,
+      "predicted": "",
+      "actual": "TENSION AND EMOTION",
+      "file_path": "sample_769"
+    },
+    {
+      "sample_idx": 770,
+      "predicted": "",
+      "actual": "AND IT'S PERFECT FOR TONIGHT",
+      "file_path": "sample_770"
+    },
+    {
+      "sample_idx": 771,
+      "predicted": "",
+      "actual": "CAN THEY IMPROVE ON THAT SCORE AND POSSIBLY RUN AWAY WITH THE TROPHY",
+      "file_path": "sample_771"
+    },
+    {
+      "sample_idx": 772,
+      "predicted": "",
+      "actual": "THAT WAS WITHIN BUDGET",
+      "file_path": "sample_772"
+    },
+    {
+      "sample_idx": 773,
+      "predicted": "",
+      "actual": "FOR THE AUDIENCE AT HOME",
+      "file_path": "sample_773"
+    },
+    {
+      "sample_idx": 774,
+      "predicted": "",
+      "actual": "THE RISE OF MAY",
+      "file_path": "sample_774"
+    },
+    {
+      "sample_idx": 775,
+      "predicted": "",
+      "actual": "PROPER STREET FOOD IS GREAT",
+      "file_path": "sample_775"
+    },
+    {
+      "sample_idx": 776,
+      "predicted": "",
+      "actual": "YOU DON'T HAVE TO BE A CELEBRITY",
+      "file_path": "sample_776"
+    },
+    {
+      "sample_idx": 777,
+      "predicted": "",
+      "actual": "AND YOU CAN FOLLOW US ON TWITTER",
+      "file_path": "sample_777"
+    },
+    {
+      "sample_idx": 778,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_778"
+    },
+    {
+      "sample_idx": 779,
+      "predicted": "",
+      "actual": "IF YOU CAN HAVE SEX",
+      "file_path": "sample_779"
+    },
+    {
+      "sample_idx": 780,
+      "predicted": "",
+      "actual": "TICKETS FOR THE MATCH",
+      "file_path": "sample_780"
+    },
+    {
+      "sample_idx": 781,
+      "predicted": "",
+      "actual": "IT'S NOT A CAREER",
+      "file_path": "sample_781"
+    },
+    {
+      "sample_idx": 782,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_782"
+    },
+    {
+      "sample_idx": 783,
+      "predicted": "",
+      "actual": "FAME AND FORTUNE",
+      "file_path": "sample_783"
+    },
+    {
+      "sample_idx": 784,
+      "predicted": "",
+      "actual": "I'M NOT AFRAID OF BEING CHALLENGED",
+      "file_path": "sample_784"
+    },
+    {
+      "sample_idx": 785,
+      "predicted": "",
+      "actual": "THERE'S NO WRONG WAY",
+      "file_path": "sample_785"
+    },
+    {
+      "sample_idx": 786,
+      "predicted": "",
+      "actual": "AND YOU CAN FOLLOW US ON TWITTER",
+      "file_path": "sample_786"
+    },
+    {
+      "sample_idx": 787,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_787"
+    },
+    {
+      "sample_idx": 788,
+      "predicted": "",
+      "actual": "IN THIS CASE A FLOWER",
+      "file_path": "sample_788"
+    },
+    {
+      "sample_idx": 789,
+      "predicted": "",
+      "actual": "AS ANIMALS ARE PREPARING FOR THE WINTER",
+      "file_path": "sample_789"
+    },
+    {
+      "sample_idx": 790,
+      "predicted": "",
+      "actual": "BUT THERE'S A PROBLEM",
+      "file_path": "sample_790"
+    },
+    {
+      "sample_idx": 791,
+      "predicted": "",
+      "actual": "CHEAT AND STEAL FROM ONE ANOTHER TO GET THEMSELVES A DECENT MEAL",
+      "file_path": "sample_791"
+    },
+    {
+      "sample_idx": 792,
+      "predicted": "",
+      "actual": "IT SEEMED TO BE",
+      "file_path": "sample_792"
+    },
+    {
+      "sample_idx": 793,
+      "predicted": "",
+      "actual": "I DO MISS IT A LITTLE BIT",
+      "file_path": "sample_793"
+    },
+    {
+      "sample_idx": 794,
+      "predicted": "",
+      "actual": "THIS IS ALL YOU",
+      "file_path": "sample_794"
+    },
+    {
+      "sample_idx": 795,
+      "predicted": "",
+      "actual": "BEFORE YOU KNOW IT",
+      "file_path": "sample_795"
+    },
+    {
+      "sample_idx": 796,
+      "predicted": "",
+      "actual": "YOU GO TO BED WITH IT",
+      "file_path": "sample_796"
+    },
+    {
+      "sample_idx": 797,
+      "predicted": "",
+      "actual": "AND YOUR FAMILY AND YOUR KIDS AND YOUR OTHER JOBS",
+      "file_path": "sample_797"
+    },
+    {
+      "sample_idx": 798,
+      "predicted": "",
+      "actual": "THAT WAS AMAZING",
+      "file_path": "sample_798"
+    },
+    {
+      "sample_idx": 799,
+      "predicted": "",
+      "actual": "THE LONGER YOU STAY IN",
+      "file_path": "sample_799"
+    },
+    {
+      "sample_idx": 800,
+      "predicted": "",
+      "actual": "BECAUSE YOU WORK SO HARD",
+      "file_path": "sample_800"
+    },
+    {
+      "sample_idx": 801,
+      "predicted": "",
+      "actual": "IF YOU GO WRONG",
+      "file_path": "sample_801"
+    },
+    {
+      "sample_idx": 802,
+      "predicted": "",
+      "actual": "GO ABOUT TELLING HIM THAT",
+      "file_path": "sample_802"
+    },
+    {
+      "sample_idx": 803,
+      "predicted": "",
+      "actual": "FOR GOOD REASONS AND BAD REASONS",
+      "file_path": "sample_803"
+    },
+    {
+      "sample_idx": 804,
+      "predicted": "",
+      "actual": "IF THEY START FROM HERE",
+      "file_path": "sample_804"
+    },
+    {
+      "sample_idx": 805,
+      "predicted": "",
+      "actual": "OBSESSED WITH THIS SHOW",
+      "file_path": "sample_805"
+    },
+    {
+      "sample_idx": 806,
+      "predicted": "",
+      "actual": "IF I HAD MY WAY",
+      "file_path": "sample_806"
+    },
+    {
+      "sample_idx": 807,
+      "predicted": "",
+      "actual": "IF WE HAVE A LITTLE ARGUMENT",
+      "file_path": "sample_807"
+    },
+    {
+      "sample_idx": 808,
+      "predicted": "",
+      "actual": "SO WHEN HE GETS GRUMPY IT'S LIKE",
+      "file_path": "sample_808"
+    },
+    {
+      "sample_idx": 809,
+      "predicted": "",
+      "actual": "LET'S SAY FOR EXAMPLE",
+      "file_path": "sample_809"
+    },
+    {
+      "sample_idx": 810,
+      "predicted": "",
+      "actual": "I'M SURE YOU CAN IMAGINE",
+      "file_path": "sample_810"
+    },
+    {
+      "sample_idx": 811,
+      "predicted": "",
+      "actual": "SHE IS HYSTERICAL",
+      "file_path": "sample_811"
+    },
+    {
+      "sample_idx": 812,
+      "predicted": "",
+      "actual": "WHEN I WAS A KID",
+      "file_path": "sample_812"
+    },
+    {
+      "sample_idx": 813,
+      "predicted": "",
+      "actual": "VERY HIGH LEVEL",
+      "file_path": "sample_813"
+    },
+    {
+      "sample_idx": 814,
+      "predicted": "",
+      "actual": "GOING ALL OVER THE WORLD",
+      "file_path": "sample_814"
+    },
+    {
+      "sample_idx": 815,
+      "predicted": "",
+      "actual": "PEOPLE ARE HAPPY TO BE THERE AND IT'S A GOOD VIBE",
+      "file_path": "sample_815"
+    },
+    {
+      "sample_idx": 816,
+      "predicted": "",
+      "actual": "EVERYWHERE YOU TURN",
+      "file_path": "sample_816"
+    },
+    {
+      "sample_idx": 817,
+      "predicted": "",
+      "actual": "BECAUSE THEY'VE GOT TO",
+      "file_path": "sample_817"
+    },
+    {
+      "sample_idx": 818,
+      "predicted": "",
+      "actual": "JUST WORKING WITH HIM EVERY WEEK IS SUCH A TREAT",
+      "file_path": "sample_818"
+    },
+    {
+      "sample_idx": 819,
+      "predicted": "",
+      "actual": "WHICH WAS QUITE AMUSING",
+      "file_path": "sample_819"
+    },
+    {
+      "sample_idx": 820,
+      "predicted": "",
+      "actual": "THAT'S A PICKLED WALNUT",
+      "file_path": "sample_820"
+    },
+    {
+      "sample_idx": 821,
+      "predicted": "",
+      "actual": "YOU HAVE TO GO AND BUY BISCUITS",
+      "file_path": "sample_821"
+    },
+    {
+      "sample_idx": 822,
+      "predicted": "",
+      "actual": "YOU'RE WASTING YOUR TIME",
+      "file_path": "sample_822"
+    },
+    {
+      "sample_idx": 823,
+      "predicted": "",
+      "actual": "THEY ALL CAME AND WENT",
+      "file_path": "sample_823"
+    },
+    {
+      "sample_idx": 824,
+      "predicted": "",
+      "actual": "IT DIDN'T SURVIVE",
+      "file_path": "sample_824"
+    },
+    {
+      "sample_idx": 825,
+      "predicted": "",
+      "actual": "SO YOU SHOULD BE",
+      "file_path": "sample_825"
+    },
+    {
+      "sample_idx": 826,
+      "predicted": "",
+      "actual": "RIGHT ON THE FRONT",
+      "file_path": "sample_826"
+    },
+    {
+      "sample_idx": 827,
+      "predicted": "",
+      "actual": "IN THIS COUNTRY",
+      "file_path": "sample_827"
+    },
+    {
+      "sample_idx": 828,
+      "predicted": "",
+      "actual": "TWICE DURING THE FIRST WORLD WAR",
+      "file_path": "sample_828"
+    },
+    {
+      "sample_idx": 829,
+      "predicted": "",
+      "actual": "SHE NEVER LET ON",
+      "file_path": "sample_829"
+    },
+    {
+      "sample_idx": 830,
+      "predicted": "",
+      "actual": "SO YOU KNOW WHO HE REALLY IS",
+      "file_path": "sample_830"
+    },
+    {
+      "sample_idx": 831,
+      "predicted": "",
+      "actual": "SO PLEASE WELCOME",
+      "file_path": "sample_831"
+    },
+    {
+      "sample_idx": 832,
+      "predicted": "",
+      "actual": "THIS COULD BE A FIRST CLASS ROUTINE",
+      "file_path": "sample_832"
+    },
+    {
+      "sample_idx": 833,
+      "predicted": "",
+      "actual": "EVERYONE ON THE SHOW REALLY",
+      "file_path": "sample_833"
+    },
+    {
+      "sample_idx": 834,
+      "predicted": "",
+      "actual": "WITH WHITE CHRISTMAS",
+      "file_path": "sample_834"
+    },
+    {
+      "sample_idx": 835,
+      "predicted": "",
+      "actual": "BEING ON MY OWN",
+      "file_path": "sample_835"
+    },
+    {
+      "sample_idx": 836,
+      "predicted": "",
+      "actual": "ALTHOUGH I CAN'T IMAGINE WHY",
+      "file_path": "sample_836"
+    },
+    {
+      "sample_idx": 837,
+      "predicted": "",
+      "actual": "BECAUSE I JUST WANT TO HELP",
+      "file_path": "sample_837"
+    },
+    {
+      "sample_idx": 838,
+      "predicted": "",
+      "actual": "AND LET'S FACE IT",
+      "file_path": "sample_838"
+    },
+    {
+      "sample_idx": 839,
+      "predicted": "",
+      "actual": "PROJECT MANAGEMENT IS REALLY MY SPECIALIST AREA",
+      "file_path": "sample_839"
+    },
+    {
+      "sample_idx": 840,
+      "predicted": "",
+      "actual": "TO BE COMPLETELY HONEST",
+      "file_path": "sample_840"
+    },
+    {
+      "sample_idx": 841,
+      "predicted": "",
+      "actual": "THE SHEER SIZE AND POWER CAN BE INTIMIDATING",
+      "file_path": "sample_841"
+    },
+    {
+      "sample_idx": 842,
+      "predicted": "",
+      "actual": "BUT THERE WAS EVEN BETTER NEWS",
+      "file_path": "sample_842"
+    },
+    {
+      "sample_idx": 843,
+      "predicted": "",
+      "actual": "REPRESENTED BY THIS BUNCH OF BANANAS",
+      "file_path": "sample_843"
+    },
+    {
+      "sample_idx": 844,
+      "predicted": "",
+      "actual": "IT'S DOWN TO OUR BRAIN GETTING THINGS WRONG",
+      "file_path": "sample_844"
+    },
+    {
+      "sample_idx": 845,
+      "predicted": "",
+      "actual": "HE WAS ABOUT TO FIND OUT",
+      "file_path": "sample_845"
+    },
+    {
+      "sample_idx": 846,
+      "predicted": "",
+      "actual": "THE FORCES OF NATURE SEPARATE OUT",
+      "file_path": "sample_846"
+    },
+    {
+      "sample_idx": 847,
+      "predicted": "",
+      "actual": "NEUTRONS AND ELECTRONS",
+      "file_path": "sample_847"
+    },
+    {
+      "sample_idx": 848,
+      "predicted": "",
+      "actual": "BUT WHEN YOU OPEN THE BOX",
+      "file_path": "sample_848"
+    },
+    {
+      "sample_idx": 849,
+      "predicted": "",
+      "actual": "THAT'S NOT RIGHT",
+      "file_path": "sample_849"
+    },
+    {
+      "sample_idx": 850,
+      "predicted": "",
+      "actual": "IN THIS UNIVERSE",
+      "file_path": "sample_850"
+    },
+    {
+      "sample_idx": 851,
+      "predicted": "",
+      "actual": "AND IT MIGHT SEEM RIDICULOUS",
+      "file_path": "sample_851"
+    },
+    {
+      "sample_idx": 852,
+      "predicted": "",
+      "actual": "12 MILES IN DIAMETER",
+      "file_path": "sample_852"
+    },
+    {
+      "sample_idx": 853,
+      "predicted": "",
+      "actual": "STRETCHING BACK 3",
+      "file_path": "sample_853"
+    },
+    {
+      "sample_idx": 854,
+      "predicted": "",
+      "actual": "STAGGERING ON THE EDGE OF SPACE",
+      "file_path": "sample_854"
+    },
+    {
+      "sample_idx": 855,
+      "predicted": "",
+      "actual": "PONDERING THE IMMENSITY",
+      "file_path": "sample_855"
+    },
+    {
+      "sample_idx": 856,
+      "predicted": "",
+      "actual": "WE LIVE IN A TINY",
+      "file_path": "sample_856"
+    },
+    {
+      "sample_idx": 857,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_857"
+    },
+    {
+      "sample_idx": 858,
+      "predicted": "",
+      "actual": "YOU THINK I DID THIS",
+      "file_path": "sample_858"
+    },
+    {
+      "sample_idx": 859,
+      "predicted": "",
+      "actual": "IT'S ALL ABOUT RARITY",
+      "file_path": "sample_859"
+    },
+    {
+      "sample_idx": 860,
+      "predicted": "",
+      "actual": "AS OPPOSED TO CHINESE",
+      "file_path": "sample_860"
+    },
+    {
+      "sample_idx": 861,
+      "predicted": "",
+      "actual": "BUT I COULDN'T BELIEVE IT WOULD BE TRUE",
+      "file_path": "sample_861"
+    },
+    {
+      "sample_idx": 862,
+      "predicted": "",
+      "actual": "IF YOU'VE GOT A GOOD STORY",
+      "file_path": "sample_862"
+    },
+    {
+      "sample_idx": 863,
+      "predicted": "",
+      "actual": "AND THE MAN WHO MADE THE DISCOVERY",
+      "file_path": "sample_863"
+    },
+    {
+      "sample_idx": 864,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO SAY",
+      "actual": "BUT EVERYONE GOING INTO THE DEN GETS A FRESH CHANCE TO TURN THINGS ROUND",
+      "file_path": "sample_864"
+    },
+    {
+      "sample_idx": 865,
+      "predicted": "",
+      "actual": "YOU JUST HAVE TO GRAB AN OPPORTUNITY WHEN IT PRESENTS ITSELF",
+      "file_path": "sample_865"
+    },
+    {
+      "sample_idx": 866,
+      "predicted": "",
+      "actual": "BUT SLIGHTLY REBELLIOUS SOCKS",
+      "file_path": "sample_866"
+    },
+    {
+      "sample_idx": 867,
+      "predicted": "",
+      "actual": "DON'T FORGET THAT SCARECROW",
+      "file_path": "sample_867"
+    },
+    {
+      "sample_idx": 868,
+      "predicted": "",
+      "actual": "MAYBE TO SOMEWHERE NICE AND SAFE",
+      "file_path": "sample_868"
+    },
+    {
+      "sample_idx": 869,
+      "predicted": "",
+      "actual": "I'M NOT SURE WHAT'S THE MOST DIFFICULT THING TO GET RIGHT",
+      "file_path": "sample_869"
+    },
+    {
+      "sample_idx": 870,
+      "predicted": "",
+      "actual": "GARDENS NEVER FINISH",
+      "file_path": "sample_870"
+    },
+    {
+      "sample_idx": 871,
+      "predicted": "",
+      "actual": "YOU SHOULD NEVER BE PUT OFF",
+      "file_path": "sample_871"
+    },
+    {
+      "sample_idx": 872,
+      "predicted": "",
+      "actual": "PEOPLE GETTING IN TOUCH AND WANTING TO RECTIFY WRONGS",
+      "file_path": "sample_872"
+    },
+    {
+      "sample_idx": 873,
+      "predicted": "",
+      "actual": "THERE ARE TIMES I LIKE TO LISTEN TO BANANARAMA",
+      "file_path": "sample_873"
+    },
+    {
+      "sample_idx": 874,
+      "predicted": "",
+      "actual": "AND YET THAT AND FISH AND CHIPS",
+      "file_path": "sample_874"
+    },
+    {
+      "sample_idx": 875,
+      "predicted": "",
+      "actual": "LET'S JUST CALM DOWN",
+      "file_path": "sample_875"
+    },
+    {
+      "sample_idx": 876,
+      "predicted": "",
+      "actual": "THE DAY JUST GOT WEIRDER AND WEIRDER",
+      "file_path": "sample_876"
+    },
+    {
+      "sample_idx": 877,
+      "predicted": "",
+      "actual": "BACK TO THE HISTORY BOOKS",
+      "file_path": "sample_877"
+    },
+    {
+      "sample_idx": 878,
+      "predicted": "",
+      "actual": "IT'S PRACTICALLY A VEGETARIAN",
+      "file_path": "sample_878"
+    },
+    {
+      "sample_idx": 879,
+      "predicted": "",
+      "actual": "HOW DOES THE PLANT ATTRACT THE BAT",
+      "file_path": "sample_879"
+    },
+    {
+      "sample_idx": 880,
+      "predicted": "",
+      "actual": "THE BAT BENEFITS",
+      "file_path": "sample_880"
+    },
+    {
+      "sample_idx": 881,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M",
+      "actual": "IT'S ALSO COME UP WITH A STRUCTURE THAT ACTS AS AN ADVERTISEMENT WHICH SAYS",
+      "file_path": "sample_881"
+    },
+    {
+      "sample_idx": 882,
+      "predicted": "",
+      "actual": "THIS IS THE BEST BAT HOTEL IN TOWN",
+      "file_path": "sample_882"
+    },
+    {
+      "sample_idx": 883,
+      "predicted": "",
+      "actual": "THAT'S WHY I GET UP IN THE MORNING",
+      "file_path": "sample_883"
+    },
+    {
+      "sample_idx": 884,
+      "predicted": "",
+      "actual": "TWO MINUTES ON GENERAL KNOWLEDGE",
+      "file_path": "sample_884"
+    },
+    {
+      "sample_idx": 885,
+      "predicted": "",
+      "actual": "ALL IN THE GLARE OF THE SPOTLIGHT",
+      "file_path": "sample_885"
+    },
+    {
+      "sample_idx": 886,
+      "predicted": "",
+      "actual": "SO WHAT DID YOU DO BEFORE",
+      "file_path": "sample_886"
+    },
+    {
+      "sample_idx": 887,
+      "predicted": "",
+      "actual": "BUT YOU HAVE TO GO",
+      "file_path": "sample_887"
+    },
+    {
+      "sample_idx": 888,
+      "predicted": "",
+      "actual": "AND SHE WAS BEING INTERVIEWED BY THE AMERICAN JOURNALISTS",
+      "file_path": "sample_888"
+    },
+    {
+      "sample_idx": 889,
+      "predicted": "",
+      "actual": "IN ALL SERIOUSNESS",
+      "file_path": "sample_889"
+    },
+    {
+      "sample_idx": 890,
+      "predicted": "",
+      "actual": "WE DID A DIFFERENT VERSION OF THINGS AND THEN",
+      "file_path": "sample_890"
+    },
+    {
+      "sample_idx": 891,
+      "predicted": "",
+      "actual": "AND THEN TURNED TO ME AND SAID",
+      "file_path": "sample_891"
+    },
+    {
+      "sample_idx": 892,
+      "predicted": "",
+      "actual": "I HADN'T THOUGHT THAT",
+      "file_path": "sample_892"
+    },
+    {
+      "sample_idx": 893,
+      "predicted": "",
+      "actual": "THAT WOULD BE FANTASTIC",
+      "file_path": "sample_893"
+    },
+    {
+      "sample_idx": 894,
+      "predicted": "",
+      "actual": "PLAYED BY JIM BROADBENT",
+      "file_path": "sample_894"
+    },
+    {
+      "sample_idx": 895,
+      "predicted": "",
+      "actual": "EVERY TWO WEEKS",
+      "file_path": "sample_895"
+    },
+    {
+      "sample_idx": 896,
+      "predicted": "",
+      "actual": "THAT'S WHAT THEY DO",
+      "file_path": "sample_896"
+    },
+    {
+      "sample_idx": 897,
+      "predicted": "",
+      "actual": "BEFORE WE BEGIN",
+      "file_path": "sample_897"
+    },
+    {
+      "sample_idx": 898,
+      "predicted": "",
+      "actual": "AND ON THIS FATEFUL EVENING",
+      "file_path": "sample_898"
+    },
+    {
+      "sample_idx": 899,
+      "predicted": "",
+      "actual": "WHAT'S YOUR NAME",
+      "file_path": "sample_899"
+    },
+    {
+      "sample_idx": 900,
+      "predicted": "",
+      "actual": "I DON'T BELIEVE IN FAIRIES",
+      "file_path": "sample_900"
+    },
+    {
+      "sample_idx": 901,
+      "predicted": "",
+      "actual": "THEN WE MUST RESCUE HER",
+      "file_path": "sample_901"
+    },
+    {
+      "sample_idx": 902,
+      "predicted": "",
+      "actual": "AND WITH STEALTH",
+      "file_path": "sample_902"
+    },
+    {
+      "sample_idx": 903,
+      "predicted": "",
+      "actual": "HE MADE A MOVE ON ME",
+      "file_path": "sample_903"
+    },
+    {
+      "sample_idx": 904,
+      "predicted": "",
+      "actual": "WE'VE NOT DISCUSSED IT",
+      "file_path": "sample_904"
+    },
+    {
+      "sample_idx": 905,
+      "predicted": "",
+      "actual": "AND WE RUN LOVE",
+      "file_path": "sample_905"
+    },
+    {
+      "sample_idx": 906,
+      "predicted": "",
+      "actual": "HOW DO I CHOOSE THIS",
+      "file_path": "sample_906"
+    },
+    {
+      "sample_idx": 907,
+      "predicted": "",
+      "actual": "WE'VE GOT 24 CHARACTERS",
+      "file_path": "sample_907"
+    },
+    {
+      "sample_idx": 908,
+      "predicted": "",
+      "actual": "FOLLOWING THOSE WORDS",
+      "file_path": "sample_908"
+    },
+    {
+      "sample_idx": 909,
+      "predicted": "",
+      "actual": "I THINK YOU DESERVE",
+      "file_path": "sample_909"
+    },
+    {
+      "sample_idx": 910,
+      "predicted": "",
+      "actual": "A STRIKING CONTRAST",
+      "file_path": "sample_910"
+    },
+    {
+      "sample_idx": 911,
+      "predicted": "",
+      "actual": "VERY SIMILAR TO FISHING",
+      "file_path": "sample_911"
+    },
+    {
+      "sample_idx": 912,
+      "predicted": "",
+      "actual": "IT'S LIKE LOOKING AT ART",
+      "file_path": "sample_912"
+    },
+    {
+      "sample_idx": 913,
+      "predicted": "",
+      "actual": "IT MIGHT BE CONCEPTUAL",
+      "file_path": "sample_913"
+    },
+    {
+      "sample_idx": 914,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_914"
+    },
+    {
+      "sample_idx": 915,
+      "predicted": "",
+      "actual": "HERE'S SOME IDEAS",
+      "file_path": "sample_915"
+    },
+    {
+      "sample_idx": 916,
+      "predicted": "",
+      "actual": "A PLACE WHICH IS HARD TO LIVE",
+      "file_path": "sample_916"
+    },
+    {
+      "sample_idx": 917,
+      "predicted": "",
+      "actual": "AND THE FARMERS OPENING IT UP",
+      "file_path": "sample_917"
+    },
+    {
+      "sample_idx": 918,
+      "predicted": "",
+      "actual": "SO WHEN THE FARMERS COME",
+      "file_path": "sample_918"
+    },
+    {
+      "sample_idx": 919,
+      "predicted": "",
+      "actual": "THERE'S MORE WOODLAND",
+      "file_path": "sample_919"
+    },
+    {
+      "sample_idx": 920,
+      "predicted": "",
+      "actual": "DON'T TELL ANYONE",
+      "file_path": "sample_920"
+    },
+    {
+      "sample_idx": 921,
+      "predicted": "",
+      "actual": "WE HAVE NO MORE MONEY",
+      "file_path": "sample_921"
+    },
+    {
+      "sample_idx": 922,
+      "predicted": "",
+      "actual": "WE ARE THE CRIMINALS",
+      "file_path": "sample_922"
+    },
+    {
+      "sample_idx": 923,
+      "predicted": "",
+      "actual": "NO MORE SUICIDE BOMBERS",
+      "file_path": "sample_923"
+    },
+    {
+      "sample_idx": 924,
+      "predicted": "",
+      "actual": "THAT'S ACCORDING TO THE POLICE WATCHDOG",
+      "file_path": "sample_924"
+    },
+    {
+      "sample_idx": 925,
+      "predicted": "",
+      "actual": "THE QUEEN MARY AND THE QUEEN ELIZABETH",
+      "file_path": "sample_925"
+    },
+    {
+      "sample_idx": 926,
+      "predicted": "",
+      "actual": "ITS DESIGN VALUES",
+      "file_path": "sample_926"
+    },
+    {
+      "sample_idx": 927,
+      "predicted": "",
+      "actual": "THEY WERE IN THE MINORITY",
+      "file_path": "sample_927"
+    },
+    {
+      "sample_idx": 928,
+      "predicted": "",
+      "actual": "500 TONS OF OCEAN LINER",
+      "file_path": "sample_928"
+    },
+    {
+      "sample_idx": 929,
+      "predicted": "",
+      "actual": "ONE OF THE ARTICLES HERE IS ABOUT THE QUEEN ELIZABETH",
+      "file_path": "sample_929"
+    },
+    {
+      "sample_idx": 930,
+      "predicted": "",
+      "actual": "THE JOB WAS DONE",
+      "file_path": "sample_930"
+    },
+    {
+      "sample_idx": 931,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_931"
+    },
+    {
+      "sample_idx": 932,
+      "predicted": "",
+      "actual": "FLOWERS AND EVEN VEGETABLES",
+      "file_path": "sample_932"
+    },
+    {
+      "sample_idx": 933,
+      "predicted": "",
+      "actual": "FOR SOMETHING COMPLETELY DIFFERENT",
+      "file_path": "sample_933"
+    },
+    {
+      "sample_idx": 934,
+      "predicted": "",
+      "actual": "WHEN IT COMES TO PUBLICITY",
+      "file_path": "sample_934"
+    },
+    {
+      "sample_idx": 935,
+      "predicted": "",
+      "actual": "HOW GREAT IS THIS",
+      "file_path": "sample_935"
+    },
+    {
+      "sample_idx": 936,
+      "predicted": "",
+      "actual": "I JUST LOVE THAT",
+      "file_path": "sample_936"
+    },
+    {
+      "sample_idx": 937,
+      "predicted": "",
+      "actual": "THEY WERE FRIENDS",
+      "file_path": "sample_937"
+    },
+    {
+      "sample_idx": 938,
+      "predicted": "",
+      "actual": "TELL ME ABOUT IT",
+      "file_path": "sample_938"
+    },
+    {
+      "sample_idx": 939,
+      "predicted": "",
+      "actual": "UNTIL NEXT TIME",
+      "file_path": "sample_939"
+    },
+    {
+      "sample_idx": 940,
+      "predicted": "",
+      "actual": "TO BE A SUCCESSFUL ENTREPRENEUR",
+      "file_path": "sample_940"
+    },
+    {
+      "sample_idx": 941,
+      "predicted": "",
+      "actual": "I JUST DON'T GET IT",
+      "file_path": "sample_941"
+    },
+    {
+      "sample_idx": 942,
+      "predicted": "",
+      "actual": "AND I THINK THIS IS ONE",
+      "file_path": "sample_942"
+    },
+    {
+      "sample_idx": 943,
+      "predicted": "",
+      "actual": "SOMETHING LIKE THAT",
+      "file_path": "sample_943"
+    },
+    {
+      "sample_idx": 944,
+      "predicted": "",
+      "actual": "WITH CORRUPT GOVERNMENTS",
+      "file_path": "sample_944"
+    },
+    {
+      "sample_idx": 945,
+      "predicted": "",
+      "actual": "BECAUSE OF THE SMALL SIZE",
+      "file_path": "sample_945"
+    },
+    {
+      "sample_idx": 946,
+      "predicted": "",
+      "actual": "IT'LL MEAN MORE MATCHES",
+      "file_path": "sample_946"
+    },
+    {
+      "sample_idx": 947,
+      "predicted": "",
+      "actual": "AND MORE MONEY FOR FIFA",
+      "file_path": "sample_947"
+    },
+    {
+      "sample_idx": 948,
+      "predicted": "",
+      "actual": "PLEASED WITH HIMSELF",
+      "file_path": "sample_948"
+    },
+    {
+      "sample_idx": 949,
+      "predicted": "",
+      "actual": "SERBIA IS PANDEMONIUM LET LOOSE",
+      "file_path": "sample_949"
+    },
+    {
+      "sample_idx": 950,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T THINK I DON'T THINK I'T KNOW WHAT I DON'T THINK I'T THINK I'T THINK",
+      "actual": "THERE ARE NO RECORDINGS OF LLOYD GEORGE AT THE PEAK OF HIS POWERS",
+      "file_path": "sample_950"
+    },
+    {
+      "sample_idx": 951,
+      "predicted": "",
+      "actual": "WHICH WAS THE MASS NEWSPAPER",
+      "file_path": "sample_951"
+    },
+    {
+      "sample_idx": 952,
+      "predicted": "",
+      "actual": "AND HE WAS VERY DEVOTED TO HIS CHILDREN",
+      "file_path": "sample_952"
+    },
+    {
+      "sample_idx": 953,
+      "predicted": "",
+      "actual": "AND WOULD EVENTUALLY MARRY HER AFTER HIS WIFE",
+      "file_path": "sample_953"
+    },
+    {
+      "sample_idx": 954,
+      "predicted": "",
+      "actual": "WITH THAT FLOURISH",
+      "file_path": "sample_954"
+    },
+    {
+      "sample_idx": 955,
+      "predicted": "",
+      "actual": "WHAT YOU NEED TO DO IS GET THE VERY BEST BRAINS",
+      "file_path": "sample_955"
+    },
+    {
+      "sample_idx": 956,
+      "predicted": "",
+      "actual": "THE VERY BEST TALENTS",
+      "file_path": "sample_956"
+    },
+    {
+      "sample_idx": 957,
+      "predicted": "",
+      "actual": "THE MOST ENERGETIC PEOPLE IN",
+      "file_path": "sample_957"
+    },
+    {
+      "sample_idx": 958,
+      "predicted": "",
+      "actual": "BECAUSE THE EMPIRE",
+      "file_path": "sample_958"
+    },
+    {
+      "sample_idx": 959,
+      "predicted": "",
+      "actual": "IT'S OFTEN FORGOTTEN",
+      "file_path": "sample_959"
+    },
+    {
+      "sample_idx": 960,
+      "predicted": "",
+      "actual": "WHICH IS ABSOLUTELY UNDERSTANDABLE",
+      "file_path": "sample_960"
+    },
+    {
+      "sample_idx": 961,
+      "predicted": "",
+      "actual": "HE HOPED TO RETURN TO POWER",
+      "file_path": "sample_961"
+    },
+    {
+      "sample_idx": 962,
+      "predicted": "",
+      "actual": "WOULD NOT BE A HAPPY PLACE",
+      "file_path": "sample_962"
+    },
+    {
+      "sample_idx": 963,
+      "predicted": "",
+      "actual": "DEPENDED ON TRADE",
+      "file_path": "sample_963"
+    },
+    {
+      "sample_idx": 964,
+      "predicted": "",
+      "actual": "MY GREAT GREAT GRANDFATHER",
+      "file_path": "sample_964"
+    },
+    {
+      "sample_idx": 965,
+      "predicted": "",
+      "actual": "MUCH MORE DRIVEN",
+      "file_path": "sample_965"
+    },
+    {
+      "sample_idx": 966,
+      "predicted": "",
+      "actual": "IF IT GIVES ME SOME SORT OF CONTROL BACK",
+      "file_path": "sample_966"
+    },
+    {
+      "sample_idx": 967,
+      "predicted": "",
+      "actual": "WITH STRONG WINDS",
+      "file_path": "sample_967"
+    },
+    {
+      "sample_idx": 968,
+      "predicted": "",
+      "actual": "I DON'T REMEMBER THAT HAPPENING BEFORE",
+      "file_path": "sample_968"
+    },
+    {
+      "sample_idx": 969,
+      "predicted": "",
+      "actual": "BY SOME MIRACLE",
+      "file_path": "sample_969"
+    },
+    {
+      "sample_idx": 970,
+      "predicted": "",
+      "actual": "THAT'S VERY GOOD",
+      "file_path": "sample_970"
+    },
+    {
+      "sample_idx": 971,
+      "predicted": "",
+      "actual": "COMES FROM ONE OF THE MOST BEAUTIFUL PARTS OF THE WORLD",
+      "file_path": "sample_971"
+    },
+    {
+      "sample_idx": 972,
+      "predicted": "",
+      "actual": "IT'S NOT A MASSIVE SUM OF MONEY",
+      "file_path": "sample_972"
+    },
+    {
+      "sample_idx": 973,
+      "predicted": "",
+      "actual": "THEY LOVE ARCHITECTURE",
+      "file_path": "sample_973"
+    },
+    {
+      "sample_idx": 974,
+      "predicted": "",
+      "actual": "RIGHTLY OR WRONGLY",
+      "file_path": "sample_974"
+    },
+    {
+      "sample_idx": 975,
+      "predicted": "",
+      "actual": "I WOULDN'T SAY I'M A STAR",
+      "file_path": "sample_975"
+    },
+    {
+      "sample_idx": 976,
+      "predicted": "",
+      "actual": "MANCHESTER UNITED FANS",
+      "file_path": "sample_976"
+    },
+    {
+      "sample_idx": 977,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_977"
+    },
+    {
+      "sample_idx": 978,
+      "predicted": "",
+      "actual": "SET UP BY THE GOVERNMENT",
+      "file_path": "sample_978"
+    },
+    {
+      "sample_idx": 979,
+      "predicted": "",
+      "actual": "IT WAS A BRUTAL EXPERIENCE",
+      "file_path": "sample_979"
+    },
+    {
+      "sample_idx": 980,
+      "predicted": "",
+      "actual": "MANY PEOPLE DID SLIP AND FALL AND BREAK A LEG",
+      "file_path": "sample_980"
+    },
+    {
+      "sample_idx": 981,
+      "predicted": "",
+      "actual": "THEY KEPT LIVING",
+      "file_path": "sample_981"
+    },
+    {
+      "sample_idx": 982,
+      "predicted": "",
+      "actual": "AND IN THE MORNING",
+      "file_path": "sample_982"
+    },
+    {
+      "sample_idx": 983,
+      "predicted": "",
+      "actual": "IN EXACT DETAIL",
+      "file_path": "sample_983"
+    },
+    {
+      "sample_idx": 984,
+      "predicted": "",
+      "actual": "AND THE SECOND GENERATION",
+      "file_path": "sample_984"
+    },
+    {
+      "sample_idx": 985,
+      "predicted": "",
+      "actual": "BEEN INTENSELY SAD",
+      "file_path": "sample_985"
+    },
+    {
+      "sample_idx": 986,
+      "predicted": "",
+      "actual": "AND ALL THE SURVIVORS OF THE HOLOCAUST",
+      "file_path": "sample_986"
+    },
+    {
+      "sample_idx": 987,
+      "predicted": "",
+      "actual": "WITH THEIR DATABASE",
+      "file_path": "sample_987"
+    },
+    {
+      "sample_idx": 988,
+      "predicted": "",
+      "actual": "GET A NEW LOYAL CUSTOMER AND DEBENHAMS",
+      "file_path": "sample_988"
+    },
+    {
+      "sample_idx": 989,
+      "predicted": "",
+      "actual": "AS LONG AS THEY SEE THE SPARK OF SUCCESS",
+      "file_path": "sample_989"
+    },
+    {
+      "sample_idx": 990,
+      "predicted": "",
+      "actual": "THERE WAS A STONE CIRCLE HERE",
+      "file_path": "sample_990"
+    },
+    {
+      "sample_idx": 991,
+      "predicted": "",
+      "actual": "DURING THE SUMMER MONTHS",
+      "file_path": "sample_991"
+    },
+    {
+      "sample_idx": 992,
+      "predicted": "",
+      "actual": "THAT IS A SOLD SOUND",
+      "file_path": "sample_992"
+    },
+    {
+      "sample_idx": 993,
+      "predicted": "",
+      "actual": "THERE'S PLENTY TO INDULGE IN",
+      "file_path": "sample_993"
+    },
+    {
+      "sample_idx": 994,
+      "predicted": "",
+      "actual": "SHE WAS STRUGGLING",
+      "file_path": "sample_994"
+    },
+    {
+      "sample_idx": 995,
+      "predicted": "",
+      "actual": "WHEN HE WENT TO LOOK FOR HER",
+      "file_path": "sample_995"
+    },
+    {
+      "sample_idx": 996,
+      "predicted": "",
+      "actual": "WHATEVER IT WAS",
+      "file_path": "sample_996"
+    },
+    {
+      "sample_idx": 997,
+      "predicted": "",
+      "actual": "25 YEARS TO COMPLETE",
+      "file_path": "sample_997"
+    },
+    {
+      "sample_idx": 998,
+      "predicted": "",
+      "actual": "SHE WILL BE VERY PLEASED",
+      "file_path": "sample_998"
+    },
+    {
+      "sample_idx": 999,
+      "predicted": "",
+      "actual": "BECAUSE THERE WAS NO ROLE MODEL",
+      "file_path": "sample_999"
+    },
+    {
+      "sample_idx": 1000,
+      "predicted": "",
+      "actual": "ONE MALE OFFICIAL COMMENTED",
+      "file_path": "sample_1000"
+    },
+    {
+      "sample_idx": 1001,
+      "predicted": "",
+      "actual": "BUT DESPITE ALL THIS",
+      "file_path": "sample_1001"
+    },
+    {
+      "sample_idx": 1002,
+      "predicted": "",
+      "actual": "THEY CARRIED ON COMPETING",
+      "file_path": "sample_1002"
+    },
+    {
+      "sample_idx": 1003,
+      "predicted": "",
+      "actual": "BUT DESPITE ALL THIS",
+      "file_path": "sample_1003"
+    },
+    {
+      "sample_idx": 1004,
+      "predicted": "",
+      "actual": "IF YOU WANT TO EXPERIENCE SOME OF THAT",
+      "file_path": "sample_1004"
+    },
+    {
+      "sample_idx": 1005,
+      "predicted": "",
+      "actual": "YOU'RE WASTING YOUR TIME",
+      "file_path": "sample_1005"
+    },
+    {
+      "sample_idx": 1006,
+      "predicted": "",
+      "actual": "INCLUDING A BABY",
+      "file_path": "sample_1006"
+    },
+    {
+      "sample_idx": 1007,
+      "predicted": "",
+      "actual": "THIS IS A SEMIFINAL",
+      "file_path": "sample_1007"
+    },
+    {
+      "sample_idx": 1008,
+      "predicted": "",
+      "actual": "I'M SORRY THAT DOESN'T MEET WITH YOUR APPROVAL",
+      "file_path": "sample_1008"
+    },
+    {
+      "sample_idx": 1009,
+      "predicted": "",
+      "actual": "I'M NOT HAVING A GO AT YOU",
+      "file_path": "sample_1009"
+    },
+    {
+      "sample_idx": 1010,
+      "predicted": "",
+      "actual": "I'M JUST SAYING THAT DENISE BROUGHT ME UP",
+      "file_path": "sample_1010"
+    },
+    {
+      "sample_idx": 1011,
+      "predicted": "",
+      "actual": "WE HAD NO MONEY",
+      "file_path": "sample_1011"
+    },
+    {
+      "sample_idx": 1012,
+      "predicted": "",
+      "actual": "WHEN YOU CAME BACK",
+      "file_path": "sample_1012"
+    },
+    {
+      "sample_idx": 1013,
+      "predicted": "",
+      "actual": "THAT'S WHY I'M LOSING MY VOICE",
+      "file_path": "sample_1013"
+    },
+    {
+      "sample_idx": 1014,
+      "predicted": "",
+      "actual": "IS IN THE DRYING",
+      "file_path": "sample_1014"
+    },
+    {
+      "sample_idx": 1015,
+      "predicted": "",
+      "actual": "RIGHT IN FRONT OF ME",
+      "file_path": "sample_1015"
+    },
+    {
+      "sample_idx": 1016,
+      "predicted": "",
+      "actual": "WE TALKED ABOUT IT",
+      "file_path": "sample_1016"
+    },
+    {
+      "sample_idx": 1017,
+      "predicted": "",
+      "actual": "I HONESTLY DON'T KNOW WHAT TO DO",
+      "file_path": "sample_1017"
+    },
+    {
+      "sample_idx": 1018,
+      "predicted": "",
+      "actual": "AND I DO MEAN HUNDREDS",
+      "file_path": "sample_1018"
+    },
+    {
+      "sample_idx": 1019,
+      "predicted": "",
+      "actual": "I DON'T MIND THIS ONE",
+      "file_path": "sample_1019"
+    },
+    {
+      "sample_idx": 1020,
+      "predicted": "",
+      "actual": "JUST BETWEEN YOU AND ME",
+      "file_path": "sample_1020"
+    },
+    {
+      "sample_idx": 1021,
+      "predicted": "",
+      "actual": "JUDGING BY WHAT I SAW TODAY",
+      "file_path": "sample_1021"
+    },
+    {
+      "sample_idx": 1022,
+      "predicted": "",
+      "actual": "SOME GOT WHAT THEY WANT",
+      "file_path": "sample_1022"
+    },
+    {
+      "sample_idx": 1023,
+      "predicted": "",
+      "actual": "GET DOWN TO YOUR LOCAL ONE",
+      "file_path": "sample_1023"
+    },
+    {
+      "sample_idx": 1024,
+      "predicted": "",
+      "actual": "HAVE YOU GOT IT",
+      "file_path": "sample_1024"
+    },
+    {
+      "sample_idx": 1025,
+      "predicted": "",
+      "actual": "BUT I PROMISE YOU",
+      "file_path": "sample_1025"
+    },
+    {
+      "sample_idx": 1026,
+      "predicted": "",
+      "actual": "YOU BETTER STAY WELL AWAY FROM ME",
+      "file_path": "sample_1026"
+    },
+    {
+      "sample_idx": 1027,
+      "predicted": "",
+      "actual": "THAT I'LL BE OK",
+      "file_path": "sample_1027"
+    },
+    {
+      "sample_idx": 1028,
+      "predicted": "",
+      "actual": "THOUSANDS OF POUNDS",
+      "file_path": "sample_1028"
+    },
+    {
+      "sample_idx": 1029,
+      "predicted": "",
+      "actual": "WE NEED TO DO SOMETHING BIGGER",
+      "file_path": "sample_1029"
+    },
+    {
+      "sample_idx": 1030,
+      "predicted": "",
+      "actual": "TRYING TO BRING THEM DOWN OVER THE CENTURIES",
+      "file_path": "sample_1030"
+    },
+    {
+      "sample_idx": 1031,
+      "predicted": "",
+      "actual": "BUT YOU DON'T NEED TO WORRY",
+      "file_path": "sample_1031"
+    },
+    {
+      "sample_idx": 1032,
+      "predicted": "",
+      "actual": "THE EXPERTS DON'T KNOW WHAT CAUSED IT",
+      "file_path": "sample_1032"
+    },
+    {
+      "sample_idx": 1033,
+      "predicted": "",
+      "actual": "THE FATHER DIED FIVE YEARS AGO",
+      "file_path": "sample_1033"
+    },
+    {
+      "sample_idx": 1034,
+      "predicted": "",
+      "actual": "AND THINGS LIKE THAT",
+      "file_path": "sample_1034"
+    },
+    {
+      "sample_idx": 1035,
+      "predicted": "",
+      "actual": "IT'S ALL ABOUT MYTH MAKING",
+      "file_path": "sample_1035"
+    },
+    {
+      "sample_idx": 1036,
+      "predicted": "",
+      "actual": "COME TO MY ROOM",
+      "file_path": "sample_1036"
+    },
+    {
+      "sample_idx": 1037,
+      "predicted": "",
+      "actual": "AS THE MORNING SPREAD UPON THE MOUNTAINS",
+      "file_path": "sample_1037"
+    },
+    {
+      "sample_idx": 1038,
+      "predicted": "",
+      "actual": "WITH PEOPLE WITHOUT CREATING",
+      "file_path": "sample_1038"
+    },
+    {
+      "sample_idx": 1039,
+      "predicted": "",
+      "actual": "WITH OTHER PEOPLE",
+      "file_path": "sample_1039"
+    },
+    {
+      "sample_idx": 1040,
+      "predicted": "",
+      "actual": "AND THE INITIALS STAND FOR THE INTERNATIONAL MARXIST GROUP",
+      "file_path": "sample_1040"
+    },
+    {
+      "sample_idx": 1041,
+      "predicted": "",
+      "actual": "AS YOU MAY KNOW",
+      "file_path": "sample_1041"
+    },
+    {
+      "sample_idx": 1042,
+      "predicted": "",
+      "actual": "THIS CAME FROM THE BIG",
+      "file_path": "sample_1042"
+    },
+    {
+      "sample_idx": 1043,
+      "predicted": "",
+      "actual": "I PROBABLY WOULD",
+      "file_path": "sample_1043"
+    },
+    {
+      "sample_idx": 1044,
+      "predicted": "",
+      "actual": "THAT'S REALLY SAD",
+      "file_path": "sample_1044"
+    },
+    {
+      "sample_idx": 1045,
+      "predicted": "",
+      "actual": "I NEED TO GET TO WORK",
+      "file_path": "sample_1045"
+    },
+    {
+      "sample_idx": 1046,
+      "predicted": "",
+      "actual": "BEFORE I ANNOUNCE THE WINNER",
+      "file_path": "sample_1046"
+    },
+    {
+      "sample_idx": 1047,
+      "predicted": "",
+      "actual": "WE NEED TO FIND OUT IS THERE A PROBLEM",
+      "file_path": "sample_1047"
+    },
+    {
+      "sample_idx": 1048,
+      "predicted": "",
+      "actual": "WE DON'T HAVE BROWN BEAR",
+      "file_path": "sample_1048"
+    },
+    {
+      "sample_idx": 1049,
+      "predicted": "",
+      "actual": "IF THE ANSWER IS NO",
+      "file_path": "sample_1049"
+    },
+    {
+      "sample_idx": 1050,
+      "predicted": "",
+      "actual": "WE MAY ENJOY THE THRILL OF MORE REGULAR SIGHTINGS",
+      "file_path": "sample_1050"
+    },
+    {
+      "sample_idx": 1051,
+      "predicted": "",
+      "actual": "WHAT THEIR ASPIRATIONS ARE",
+      "file_path": "sample_1051"
+    },
+    {
+      "sample_idx": 1052,
+      "predicted": "",
+      "actual": "WITHOUT THE DIALOGUE",
+      "file_path": "sample_1052"
+    },
+    {
+      "sample_idx": 1053,
+      "predicted": "",
+      "actual": "VERY HEAVILY TAXED",
+      "file_path": "sample_1053"
+    },
+    {
+      "sample_idx": 1054,
+      "predicted": "",
+      "actual": "AND THE SCOTTISH CUSTOMERS TO BUY",
+      "file_path": "sample_1054"
+    },
+    {
+      "sample_idx": 1055,
+      "predicted": "",
+      "actual": "AND IT WAS BUILT TOTALLY BY PUBLIC SUBSCRIPTION",
+      "file_path": "sample_1055"
+    },
+    {
+      "sample_idx": 1056,
+      "predicted": "",
+      "actual": "TODAY ALMOST 50",
+      "file_path": "sample_1056"
+    },
+    {
+      "sample_idx": 1057,
+      "predicted": "",
+      "actual": "THE GOVERNMENT LOOKS SET TO WIN",
+      "file_path": "sample_1057"
+    },
+    {
+      "sample_idx": 1058,
+      "predicted": "",
+      "actual": "WHICH THE NORWEGIAN GOVERNMENT WAS SUPPORTING",
+      "file_path": "sample_1058"
+    },
+    {
+      "sample_idx": 1059,
+      "predicted": "",
+      "actual": "A RATHER SPECIAL",
+      "file_path": "sample_1059"
+    },
+    {
+      "sample_idx": 1060,
+      "predicted": "",
+      "actual": "YOU SHOULD THINK ABOUT IT",
+      "file_path": "sample_1060"
+    },
+    {
+      "sample_idx": 1061,
+      "predicted": "",
+      "actual": "GOOD LUCK WITH THAT",
+      "file_path": "sample_1061"
+    },
+    {
+      "sample_idx": 1062,
+      "predicted": "",
+      "actual": "WE FOUND OUT ABOUT THE SUFFOLK PUNCH HORSES",
+      "file_path": "sample_1062"
+    },
+    {
+      "sample_idx": 1063,
+      "predicted": "",
+      "actual": "BUT IT'S A DIFFERENT TYPE OF ANIMAL I WANT TO SHOW YOU RIGHT NOW",
+      "file_path": "sample_1063"
+    },
+    {
+      "sample_idx": 1064,
+      "predicted": "",
+      "actual": "THINGS LIKE THIS BECAME VERY",
+      "file_path": "sample_1064"
+    },
+    {
+      "sample_idx": 1065,
+      "predicted": "",
+      "actual": "THE QUALITY OF THAT SLIDING ACROSS",
+      "file_path": "sample_1065"
+    },
+    {
+      "sample_idx": 1066,
+      "predicted": "",
+      "actual": "AND THAT'S WHAT IT'S ALL ABOUT",
+      "file_path": "sample_1066"
+    },
+    {
+      "sample_idx": 1067,
+      "predicted": "",
+      "actual": "JOIN US NEXT TIME FOR MANY MORE SURPRISES",
+      "file_path": "sample_1067"
+    },
+    {
+      "sample_idx": 1068,
+      "predicted": "",
+      "actual": "GOES OUT THE OTHER",
+      "file_path": "sample_1068"
+    },
+    {
+      "sample_idx": 1069,
+      "predicted": "",
+      "actual": "WE DON'T CLIP IT FOR THE MONEY",
+      "file_path": "sample_1069"
+    },
+    {
+      "sample_idx": 1070,
+      "predicted": "",
+      "actual": "I DON'T REALLY MIND",
+      "file_path": "sample_1070"
+    },
+    {
+      "sample_idx": 1071,
+      "predicted": "",
+      "actual": "A NEW CHANCE AT LIFE",
+      "file_path": "sample_1071"
+    },
+    {
+      "sample_idx": 1072,
+      "predicted": "",
+      "actual": "BUT I'M NOT SURE WHERE",
+      "file_path": "sample_1072"
+    },
+    {
+      "sample_idx": 1073,
+      "predicted": "",
+      "actual": "IT'S HIGHER THAN BEFORE",
+      "file_path": "sample_1073"
+    },
+    {
+      "sample_idx": 1074,
+      "predicted": "",
+      "actual": "BUT ANOTHER STRIKING UNION",
+      "file_path": "sample_1074"
+    },
+    {
+      "sample_idx": 1075,
+      "predicted": "",
+      "actual": "THERE WAS A GLIMMER OF HOPE",
+      "file_path": "sample_1075"
+    },
+    {
+      "sample_idx": 1076,
+      "predicted": "",
+      "actual": "MORE OPEN MINDED PERHAPS",
+      "file_path": "sample_1076"
+    },
+    {
+      "sample_idx": 1077,
+      "predicted": "",
+      "actual": "AND MORE OPEN TO THE PARLIAMENT",
+      "file_path": "sample_1077"
+    },
+    {
+      "sample_idx": 1078,
+      "predicted": "",
+      "actual": "TO DIVIDE THE ROOM INTO TWO PARTS",
+      "file_path": "sample_1078"
+    },
+    {
+      "sample_idx": 1079,
+      "predicted": "",
+      "actual": "THEN THE INVITATION",
+      "file_path": "sample_1079"
+    },
+    {
+      "sample_idx": 1080,
+      "predicted": "",
+      "actual": "HE WAS HALFWAY THERE",
+      "file_path": "sample_1080"
+    },
+    {
+      "sample_idx": 1081,
+      "predicted": "",
+      "actual": "PART TWO IS THE DECLARATION OF RIGHTS",
+      "file_path": "sample_1081"
+    },
+    {
+      "sample_idx": 1082,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I DON'T THINK I'T KNOW WHAT I'M GOING TO SAY I'M GOING TO SAY I'M GOING TO TELL YOU",
+      "actual": "THEY SAY THAT THE KING MAY NOT RAISE TAXATION WITHOUT THE CONSENT OF PARLIAMENT",
+      "file_path": "sample_1082"
+    },
+    {
+      "sample_idx": 1083,
+      "predicted": "",
+      "actual": "IT WAS THE BATTLE OF THE BOYNE",
+      "file_path": "sample_1083"
+    },
+    {
+      "sample_idx": 1084,
+      "predicted": "",
+      "actual": "I LOVE THIS NAME",
+      "file_path": "sample_1084"
+    },
+    {
+      "sample_idx": 1085,
+      "predicted": "",
+      "actual": "IT MAKES THEM SOUND LIKE AN ACTION FILM",
+      "file_path": "sample_1085"
+    },
+    {
+      "sample_idx": 1086,
+      "predicted": "",
+      "actual": "WHICH OF COURSE",
+      "file_path": "sample_1086"
+    },
+    {
+      "sample_idx": 1087,
+      "predicted": "",
+      "actual": "THE SHOT OF MUSKET",
+      "file_path": "sample_1087"
+    },
+    {
+      "sample_idx": 1088,
+      "predicted": "",
+      "actual": "IT'S HERE TO STAY",
+      "file_path": "sample_1088"
+    },
+    {
+      "sample_idx": 1089,
+      "predicted": "",
+      "actual": "YOU'VE HAD A TOUGH DAY",
+      "file_path": "sample_1089"
+    },
+    {
+      "sample_idx": 1090,
+      "predicted": "",
+      "actual": "I THINK IT WILL",
+      "file_path": "sample_1090"
+    },
+    {
+      "sample_idx": 1091,
+      "predicted": "",
+      "actual": "VERY HAPPY INDEED",
+      "file_path": "sample_1091"
+    },
+    {
+      "sample_idx": 1092,
+      "predicted": "",
+      "actual": "SO AT ONE POINT",
+      "file_path": "sample_1092"
+    },
+    {
+      "sample_idx": 1093,
+      "predicted": "",
+      "actual": "WE KNEW NOTHING ABOUT MAKING CHEESE",
+      "file_path": "sample_1093"
+    },
+    {
+      "sample_idx": 1094,
+      "predicted": "",
+      "actual": "AND I SUPPOSE THE BOTTOM LINE IS IF YOU WANT A THRIVING",
+      "file_path": "sample_1094"
+    },
+    {
+      "sample_idx": 1095,
+      "predicted": "",
+      "actual": "PUT IT THAT WAY",
+      "file_path": "sample_1095"
+    },
+    {
+      "sample_idx": 1096,
+      "predicted": "",
+      "actual": "COSTING NEARLY 1 MILLION",
+      "file_path": "sample_1096"
+    },
+    {
+      "sample_idx": 1097,
+      "predicted": "",
+      "actual": "AND GETTING RID OF IT",
+      "file_path": "sample_1097"
+    },
+    {
+      "sample_idx": 1098,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_1098"
+    },
+    {
+      "sample_idx": 1099,
+      "predicted": "",
+      "actual": "AND THE TOP END OF 15 TO 18",
+      "file_path": "sample_1099"
+    },
+    {
+      "sample_idx": 1100,
+      "predicted": "",
+      "actual": "ONCE THOSE LIFT DOORS OPEN",
+      "file_path": "sample_1100"
+    },
+    {
+      "sample_idx": 1101,
+      "predicted": "",
+      "actual": "TO THE POTENTIAL INVESTOR",
+      "file_path": "sample_1101"
+    },
+    {
+      "sample_idx": 1102,
+      "predicted": "",
+      "actual": "JUST LIKE MY PERSONALITY",
+      "file_path": "sample_1102"
+    },
+    {
+      "sample_idx": 1103,
+      "predicted": "",
+      "actual": "I KNOW IT QUITE WELL",
+      "file_path": "sample_1103"
+    },
+    {
+      "sample_idx": 1104,
+      "predicted": "",
+      "actual": "AND FOR THAT REASON",
+      "file_path": "sample_1104"
+    },
+    {
+      "sample_idx": 1105,
+      "predicted": "",
+      "actual": "I WANT TO BE IN THE HOLDING COMPANY",
+      "file_path": "sample_1105"
+    },
+    {
+      "sample_idx": 1106,
+      "predicted": "",
+      "actual": "I'M REALLY SORRY",
+      "file_path": "sample_1106"
+    },
+    {
+      "sample_idx": 1107,
+      "predicted": "I DON'T KNOW WHAT I DON'T KNOW WHAT I'M GOING TO SAY I'M GOING TO TELL YOU WHAT I'M GOING",
+      "actual": "GOOD LUCK TO HIM AND THE ELUSIVE MICHAEL BECKETT IN THEIR NEW DRAGON PARTNERSHIP",
+      "file_path": "sample_1107"
+    },
+    {
+      "sample_idx": 1108,
+      "predicted": "",
+      "actual": "WHATEVER THEY DECIDE TO CALL THE COMPANY",
+      "file_path": "sample_1108"
+    },
+    {
+      "sample_idx": 1109,
+      "predicted": "",
+      "actual": "THAT'S THE HOLY GRAIL",
+      "file_path": "sample_1109"
+    },
+    {
+      "sample_idx": 1110,
+      "predicted": "",
+      "actual": "IF YOU BUILD IT",
+      "file_path": "sample_1110"
+    },
+    {
+      "sample_idx": 1111,
+      "predicted": "",
+      "actual": "VERY FINE INDEED",
+      "file_path": "sample_1111"
+    },
+    {
+      "sample_idx": 1112,
+      "predicted": "",
+      "actual": "IT SEPARATES YORKSHIRE FROM LINCOLNSHIRE",
+      "file_path": "sample_1112"
+    },
+    {
+      "sample_idx": 1113,
+      "predicted": "",
+      "actual": "HOPING TO MAKE A FORTUNE AT AUCTION",
+      "file_path": "sample_1113"
+    },
+    {
+      "sample_idx": 1114,
+      "predicted": "",
+      "actual": "AFTER HAVING SPENT TEN YEARS HIMSELF IN EXILE",
+      "file_path": "sample_1114"
+    },
+    {
+      "sample_idx": 1115,
+      "predicted": "",
+      "actual": "IN THE EYES OF SOME",
+      "file_path": "sample_1115"
+    },
+    {
+      "sample_idx": 1116,
+      "predicted": "",
+      "actual": "AWAITING COURT MARTIAL",
+      "file_path": "sample_1116"
+    },
+    {
+      "sample_idx": 1117,
+      "predicted": "",
+      "actual": "ROMMEL WAS FALLING BACK",
+      "file_path": "sample_1117"
+    },
+    {
+      "sample_idx": 1118,
+      "predicted": "",
+      "actual": "SHE INFORMED ME",
+      "file_path": "sample_1118"
+    },
+    {
+      "sample_idx": 1119,
+      "predicted": "",
+      "actual": "YOU'RE AN IDIOT",
+      "file_path": "sample_1119"
+    },
+    {
+      "sample_idx": 1120,
+      "predicted": "",
+      "actual": "IT'S JUST A WEE VILLAGE",
+      "file_path": "sample_1120"
+    },
+    {
+      "sample_idx": 1121,
+      "predicted": "",
+      "actual": "THE FISHING VILLAGES ON THE NORTHEAST COAST",
+      "file_path": "sample_1121"
+    },
+    {
+      "sample_idx": 1122,
+      "predicted": "",
+      "actual": "SOME YOU HAVE TO BOOK",
+      "file_path": "sample_1122"
+    },
+    {
+      "sample_idx": 1123,
+      "predicted": "",
+      "actual": "I WOULD SAY PROBABLY ABOUT 25",
+      "file_path": "sample_1123"
+    },
+    {
+      "sample_idx": 1124,
+      "predicted": "",
+      "actual": "IT'S STILL GOING UP",
+      "file_path": "sample_1124"
+    },
+    {
+      "sample_idx": 1125,
+      "predicted": "",
+      "actual": "WITH THE PRICE OF GOLD",
+      "file_path": "sample_1125"
+    },
+    {
+      "sample_idx": 1126,
+      "predicted": "",
+      "actual": "AND IT'S A BEAUTIFUL PLACE AS WELL",
+      "file_path": "sample_1126"
+    },
+    {
+      "sample_idx": 1127,
+      "predicted": "",
+      "actual": "DOESN'T MEAN TO SAY THAT WE GET ON WITH EVERYBODY",
+      "file_path": "sample_1127"
+    },
+    {
+      "sample_idx": 1128,
+      "predicted": "",
+      "actual": "FROM TIME TO TIME",
+      "file_path": "sample_1128"
+    },
+    {
+      "sample_idx": 1129,
+      "predicted": "",
+      "actual": "HE STILL WANTED",
+      "file_path": "sample_1129"
+    },
+    {
+      "sample_idx": 1130,
+      "predicted": "",
+      "actual": "WE BOTH WANT TO BE HERE",
+      "file_path": "sample_1130"
+    },
+    {
+      "sample_idx": 1131,
+      "predicted": "",
+      "actual": "I REALLY MISS THE ISLAND",
+      "file_path": "sample_1131"
+    },
+    {
+      "sample_idx": 1132,
+      "predicted": "",
+      "actual": "REGARDLESS OF WHAT HAPPENS",
+      "file_path": "sample_1132"
+    },
+    {
+      "sample_idx": 1133,
+      "predicted": "",
+      "actual": "I JUST GOT BACK",
+      "file_path": "sample_1133"
+    },
+    {
+      "sample_idx": 1134,
+      "predicted": "",
+      "actual": "FINDING THE RIGHT PATH IS NOT ALWAYS EASY",
+      "file_path": "sample_1134"
+    },
+    {
+      "sample_idx": 1135,
+      "predicted": "",
+      "actual": "THERE IS SO MUCH ON OVER THE WEEKEND",
+      "file_path": "sample_1135"
+    },
+    {
+      "sample_idx": 1136,
+      "predicted": "",
+      "actual": "AND ON SUNDAY AT 12",
+      "file_path": "sample_1136"
+    },
+    {
+      "sample_idx": 1137,
+      "predicted": "",
+      "actual": "WHAT'S THE BEST THING ABOUT THE ROYAL HIGHLAND SHOW",
+      "file_path": "sample_1137"
+    },
+    {
+      "sample_idx": 1138,
+      "predicted": "",
+      "actual": "WE WANT TO KNOW WHAT YOU THINK",
+      "file_path": "sample_1138"
+    },
+    {
+      "sample_idx": 1139,
+      "predicted": "",
+      "actual": "I CAN'T BELIEVE",
+      "file_path": "sample_1139"
+    },
+    {
+      "sample_idx": 1140,
+      "predicted": "",
+      "actual": "GEORGE SKINNER IS WITH ME",
+      "file_path": "sample_1140"
+    },
+    {
+      "sample_idx": 1141,
+      "predicted": "",
+      "actual": "WHERE'S THE HORNS",
+      "file_path": "sample_1141"
+    },
+    {
+      "sample_idx": 1142,
+      "predicted": "",
+      "actual": "WE NEED SOME ANTIQUES",
+      "file_path": "sample_1142"
+    },
+    {
+      "sample_idx": 1143,
+      "predicted": "",
+      "actual": "DON'T YOU THINK",
+      "file_path": "sample_1143"
+    },
+    {
+      "sample_idx": 1144,
+      "predicted": "",
+      "actual": "THE WONDERFUL DISCOVERY OF WITCHES",
+      "file_path": "sample_1144"
+    },
+    {
+      "sample_idx": 1145,
+      "predicted": "",
+      "actual": "AND OUR EXPERTS",
+      "file_path": "sample_1145"
+    },
+    {
+      "sample_idx": 1146,
+      "predicted": "",
+      "actual": "WHILE WE MAKE OUR WAY DOWN THE COASTLINE",
+      "file_path": "sample_1146"
+    },
+    {
+      "sample_idx": 1147,
+      "predicted": "",
+      "actual": "THE MAIN CONCERN",
+      "file_path": "sample_1147"
+    },
+    {
+      "sample_idx": 1148,
+      "predicted": "",
+      "actual": "THERE WAS A BOY",
+      "file_path": "sample_1148"
+    },
+    {
+      "sample_idx": 1149,
+      "predicted": "",
+      "actual": "HUMAN REPRESENTATIONS CAN BE OFFENSIVE TO MUSLIMS",
+      "file_path": "sample_1149"
+    },
+    {
+      "sample_idx": 1150,
+      "predicted": "",
+      "actual": "I WOULD LIKE TO HELP",
+      "file_path": "sample_1150"
+    },
+    {
+      "sample_idx": 1151,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_1151"
+    },
+    {
+      "sample_idx": 1152,
+      "predicted": "",
+      "actual": "IN THE LONG TERM",
+      "file_path": "sample_1152"
+    },
+    {
+      "sample_idx": 1153,
+      "predicted": "",
+      "actual": "THE GUILT WOULD GO",
+      "file_path": "sample_1153"
+    },
+    {
+      "sample_idx": 1154,
+      "predicted": "",
+      "actual": "BUT HE WOULDN'T LISTEN",
+      "file_path": "sample_1154"
+    },
+    {
+      "sample_idx": 1155,
+      "predicted": "",
+      "actual": "I DON'T THINK SO",
+      "file_path": "sample_1155"
+    },
+    {
+      "sample_idx": 1156,
+      "predicted": "",
+      "actual": "THE WORK WAS HARD",
+      "file_path": "sample_1156"
+    },
+    {
+      "sample_idx": 1157,
+      "predicted": "",
+      "actual": "NOT PART OF OUR GLORY",
+      "file_path": "sample_1157"
+    },
+    {
+      "sample_idx": 1158,
+      "predicted": "",
+      "actual": "THE OPERATION WOULD GO AHEAD",
+      "file_path": "sample_1158"
+    },
+    {
+      "sample_idx": 1159,
+      "predicted": "",
+      "actual": "OR WHATEVER IT WAS",
+      "file_path": "sample_1159"
+    },
+    {
+      "sample_idx": 1160,
+      "predicted": "",
+      "actual": "I KNOW HOW HARD YOU WORK",
+      "file_path": "sample_1160"
+    },
+    {
+      "sample_idx": 1161,
+      "predicted": "",
+      "actual": "I CAN'T TAKE MUCH MORE OF THIS",
+      "file_path": "sample_1161"
+    },
+    {
+      "sample_idx": 1162,
+      "predicted": "",
+      "actual": "AND THIS IS VERY IMPORTANT",
+      "file_path": "sample_1162"
+    },
+    {
+      "sample_idx": 1163,
+      "predicted": "",
+      "actual": "WE NEED TO BE A TEAM",
+      "file_path": "sample_1163"
+    },
+    {
+      "sample_idx": 1164,
+      "predicted": "",
+      "actual": "TO SEE THESE ANIMALS",
+      "file_path": "sample_1164"
+    },
+    {
+      "sample_idx": 1165,
+      "predicted": "",
+      "actual": "TO SPEED THINGS UP",
+      "file_path": "sample_1165"
+    },
+    {
+      "sample_idx": 1166,
+      "predicted": "",
+      "actual": "YOU'RE ALL THE SAME",
+      "file_path": "sample_1166"
+    },
+    {
+      "sample_idx": 1167,
+      "predicted": "",
+      "actual": "WHILE WE'VE BEEN AWAY",
+      "file_path": "sample_1167"
+    },
+    {
+      "sample_idx": 1168,
+      "predicted": "",
+      "actual": "CAME UP WITH THE PERFECT NAME",
+      "file_path": "sample_1168"
+    },
+    {
+      "sample_idx": 1169,
+      "predicted": "",
+      "actual": "IT'S AN AMAZING PLACE",
+      "file_path": "sample_1169"
+    },
+    {
+      "sample_idx": 1170,
+      "predicted": "",
+      "actual": "BUT THAT'S ALL CHANGING",
+      "file_path": "sample_1170"
+    },
+    {
+      "sample_idx": 1171,
+      "predicted": "",
+      "actual": "GOING UNDER THE HAMMER RIGHT NOW",
+      "file_path": "sample_1171"
+    },
+    {
+      "sample_idx": 1172,
+      "predicted": "",
+      "actual": "I FEEL RATHER EMBARRASSED",
+      "file_path": "sample_1172"
+    },
+    {
+      "sample_idx": 1173,
+      "predicted": "",
+      "actual": "IF WE DON'T LIKE IT",
+      "file_path": "sample_1173"
+    },
+    {
+      "sample_idx": 1174,
+      "predicted": "",
+      "actual": "HESTON IS HERE TO HELP YOU",
+      "file_path": "sample_1174"
+    },
+    {
+      "sample_idx": 1175,
+      "predicted": "",
+      "actual": "SOMETHING IS GOING TO WORK OUT FOR ME",
+      "file_path": "sample_1175"
+    },
+    {
+      "sample_idx": 1176,
+      "predicted": "",
+      "actual": "WITH CLIMATE CHANGE",
+      "file_path": "sample_1176"
+    },
+    {
+      "sample_idx": 1177,
+      "predicted": "",
+      "actual": "THAT'S A BIG ATTRACTION",
+      "file_path": "sample_1177"
+    },
+    {
+      "sample_idx": 1178,
+      "predicted": "",
+      "actual": "VERY SOON AFTER TAKING OFF",
+      "file_path": "sample_1178"
+    },
+    {
+      "sample_idx": 1179,
+      "predicted": "",
+      "actual": "ANYTHING CAN HAPPEN",
+      "file_path": "sample_1179"
+    },
+    {
+      "sample_idx": 1180,
+      "predicted": "",
+      "actual": "LET'S GO INSIDE",
+      "file_path": "sample_1180"
+    },
+    {
+      "sample_idx": 1181,
+      "predicted": "",
+      "actual": "THAT WAS EXCITING",
+      "file_path": "sample_1181"
+    },
+    {
+      "sample_idx": 1182,
+      "predicted": "",
+      "actual": "MOST OF THE RECOVERED PIECES WERE LOST",
+      "file_path": "sample_1182"
+    },
+    {
+      "sample_idx": 1183,
+      "predicted": "",
+      "actual": "I'M ABSOLUTELY IN LOVE WITH THIS",
+      "file_path": "sample_1183"
+    },
+    {
+      "sample_idx": 1184,
+      "predicted": "",
+      "actual": "I DON'T THINK SO",
+      "file_path": "sample_1184"
+    },
+    {
+      "sample_idx": 1185,
+      "predicted": "",
+      "actual": "THAT WAS GOING TO BE MY NEXT ASSUMPTION",
+      "file_path": "sample_1185"
+    },
+    {
+      "sample_idx": 1186,
+      "predicted": "",
+      "actual": "AND IT'S A STRANGE",
+      "file_path": "sample_1186"
+    },
+    {
+      "sample_idx": 1187,
+      "predicted": "",
+      "actual": "SO IT'S AN INSPIRATION",
+      "file_path": "sample_1187"
+    },
+    {
+      "sample_idx": 1188,
+      "predicted": "",
+      "actual": "WHERE ARE THE MALDIVES",
+      "file_path": "sample_1188"
+    },
+    {
+      "sample_idx": 1189,
+      "predicted": "",
+      "actual": "ON THE SAME PROPORTION",
+      "file_path": "sample_1189"
+    },
+    {
+      "sample_idx": 1190,
+      "predicted": "",
+      "actual": "IT'S BECOME SO FRAGMENTED",
+      "file_path": "sample_1190"
+    },
+    {
+      "sample_idx": 1191,
+      "predicted": "",
+      "actual": "LET'S PUT THOSE VALUATIONS TO THE TEST",
+      "file_path": "sample_1191"
+    },
+    {
+      "sample_idx": 1192,
+      "predicted": "",
+      "actual": "HE MADE THE SUPERSTRUCTURE",
+      "file_path": "sample_1192"
+    },
+    {
+      "sample_idx": 1193,
+      "predicted": "",
+      "actual": "WE WOULD LOVE TO SEE YOU",
+      "file_path": "sample_1193"
+    },
+    {
+      "sample_idx": 1194,
+      "predicted": "",
+      "actual": "WE STILL HAVE HUNDREDS OF PEOPLE WAITING TO SEE OUR EXPERTS",
+      "file_path": "sample_1194"
+    },
+    {
+      "sample_idx": 1195,
+      "predicted": "",
+      "actual": "BUT I THOUGHT IT WAS A BIT DEPRESSING",
+      "file_path": "sample_1195"
+    },
+    {
+      "sample_idx": 1196,
+      "predicted": "",
+      "actual": "WOULD YOU BE HAPPY",
+      "file_path": "sample_1196"
+    },
+    {
+      "sample_idx": 1197,
+      "predicted": "",
+      "actual": "AND I WENT TO THE MUSEUM IN ISLINGTON",
+      "file_path": "sample_1197"
+    },
+    {
+      "sample_idx": 1198,
+      "predicted": "",
+      "actual": "I NEED TO CLOSE THE RESTAURANT",
+      "file_path": "sample_1198"
+    },
+    {
+      "sample_idx": 1199,
+      "predicted": "",
+      "actual": "THE PRICE OF PROPERTY",
+      "file_path": "sample_1199"
+    },
+    {
+      "sample_idx": 1200,
+      "predicted": "",
+      "actual": "I CAN'T PUT IT ANY PLAINER THAN THAT",
+      "file_path": "sample_1200"
+    },
+    {
+      "sample_idx": 1201,
+      "predicted": "",
+      "actual": "FOR THE MOST PART",
+      "file_path": "sample_1201"
+    },
+    {
+      "sample_idx": 1202,
+      "predicted": "",
+      "actual": "ON THE OTHER HAND",
+      "file_path": "sample_1202"
+    },
+    {
+      "sample_idx": 1203,
+      "predicted": "",
+      "actual": "WHICH IS RELATIVELY SMALL BY SCOTTISH STANDARDS",
+      "file_path": "sample_1203"
+    },
+    {
+      "sample_idx": 1204,
+      "predicted": "",
+      "actual": "AND I REALLY HOPE",
+      "file_path": "sample_1204"
+    },
+    {
+      "sample_idx": 1205,
+      "predicted": "",
+      "actual": "YOU ARE OUT OF IT",
+      "file_path": "sample_1205"
+    },
+    {
+      "sample_idx": 1206,
+      "predicted": "",
+      "actual": "OVER THE NEXT FEW WEEKS",
+      "file_path": "sample_1206"
+    },
+    {
+      "sample_idx": 1207,
+      "predicted": "",
+      "actual": "FOR WHATEVER REASON",
+      "file_path": "sample_1207"
+    },
+    {
+      "sample_idx": 1208,
+      "predicted": "",
+      "actual": "IT CAN BE QUITE DAUNTING",
+      "file_path": "sample_1208"
+    },
+    {
+      "sample_idx": 1209,
+      "predicted": "",
+      "actual": "A REVOLUTION IS TAKING PLACE",
+      "file_path": "sample_1209"
+    },
+    {
+      "sample_idx": 1210,
+      "predicted": "",
+      "actual": "WE WORKED TOGETHER WHEN WE WERE STARTING OUT",
+      "file_path": "sample_1210"
+    },
+    {
+      "sample_idx": 1211,
+      "predicted": "",
+      "actual": "I DON'T WANT TO",
+      "file_path": "sample_1211"
+    },
+    {
+      "sample_idx": 1212,
+      "predicted": "",
+      "actual": "IT IS A BATTLE THAT NEEDS TO BE FOUGHT",
+      "file_path": "sample_1212"
+    },
+    {
+      "sample_idx": 1213,
+      "predicted": "",
+      "actual": "WE WERE FLABBERGASTED",
+      "file_path": "sample_1213"
+    },
+    {
+      "sample_idx": 1214,
+      "predicted": "",
+      "actual": "THE DAY TO DAY LIVES OF TENANTS",
+      "file_path": "sample_1214"
+    },
+    {
+      "sample_idx": 1215,
+      "predicted": "",
+      "actual": "IT'S A TREMENDOUS RESPONSIBILITY",
+      "file_path": "sample_1215"
+    },
+    {
+      "sample_idx": 1216,
+      "predicted": "",
+      "actual": "WHEN YOU'RE AWAY FROM IT",
+      "file_path": "sample_1216"
+    },
+    {
+      "sample_idx": 1217,
+      "predicted": "",
+      "actual": "THE JOB DESCRIPTION OF A FARMER'S WIFE",
+      "file_path": "sample_1217"
+    },
+    {
+      "sample_idx": 1218,
+      "predicted": "",
+      "actual": "THANKS FOR WATCHING",
+      "file_path": "sample_1218"
+    },
+    {
+      "sample_idx": 1219,
+      "predicted": "",
+      "actual": "A VERY POPULAR TOURIST DESTINATION",
+      "file_path": "sample_1219"
+    },
+    {
+      "sample_idx": 1220,
+      "predicted": "",
+      "actual": "ALSO VERY GOOD FOR ANY STRAINS",
+      "file_path": "sample_1220"
+    },
+    {
+      "sample_idx": 1221,
+      "predicted": "",
+      "actual": "READY TO GO RACING",
+      "file_path": "sample_1221"
+    },
+    {
+      "sample_idx": 1222,
+      "predicted": "",
+      "actual": "WHAT DO YOU THINK",
+      "file_path": "sample_1222"
+    },
+    {
+      "sample_idx": 1223,
+      "predicted": "",
+      "actual": "WHICH EXPLAINS IT",
+      "file_path": "sample_1223"
+    },
+    {
+      "sample_idx": 1224,
+      "predicted": "",
+      "actual": "SOME 200 YEARS LATER",
+      "file_path": "sample_1224"
+    },
+    {
+      "sample_idx": 1225,
+      "predicted": "",
+      "actual": "THIS WHOLE AREA WILL STILL BE IN SAFE HANDS",
+      "file_path": "sample_1225"
+    },
+    {
+      "sample_idx": 1226,
+      "predicted": "",
+      "actual": "EVERYONE HAS GONE HOME HAPPY AND THAT'S WHAT IT'S ALL ABOUT",
+      "file_path": "sample_1226"
+    },
+    {
+      "sample_idx": 1227,
+      "predicted": "",
+      "actual": "AND HE'D BE LIKE",
+      "file_path": "sample_1227"
+    },
+    {
+      "sample_idx": 1228,
+      "predicted": "",
+      "actual": "THIS IS MY REVENGE",
+      "file_path": "sample_1228"
+    },
+    {
+      "sample_idx": 1229,
+      "predicted": "",
+      "actual": "AND IT MAY WELL BE",
+      "file_path": "sample_1229"
+    },
+    {
+      "sample_idx": 1230,
+      "predicted": "",
+      "actual": "THERE AREN'T ANY BISCUITS IN THAT BARREL",
+      "file_path": "sample_1230"
+    },
+    {
+      "sample_idx": 1231,
+      "predicted": "",
+      "actual": "I DIDN'T MEAN YOU",
+      "file_path": "sample_1231"
+    },
+    {
+      "sample_idx": 1232,
+      "predicted": "",
+      "actual": "THAT WOULD JUST MAKE THINGS WORSE",
+      "file_path": "sample_1232"
+    },
+    {
+      "sample_idx": 1233,
+      "predicted": "",
+      "actual": "WHEN MY FATHER DIED",
+      "file_path": "sample_1233"
+    },
+    {
+      "sample_idx": 1234,
+      "predicted": "",
+      "actual": "FOR THE NEXT TWO MINUTES",
+      "file_path": "sample_1234"
+    },
+    {
+      "sample_idx": 1235,
+      "predicted": "",
+      "actual": "THE WAY THE MARKET IS",
+      "file_path": "sample_1235"
+    },
+    {
+      "sample_idx": 1236,
+      "predicted": "",
+      "actual": "THE RINGLEADER OF THE GUNPOWDER PLOT",
+      "file_path": "sample_1236"
+    },
+    {
+      "sample_idx": 1237,
+      "predicted": "",
+      "actual": "ALL HOPING THE KING WOULD FALL",
+      "file_path": "sample_1237"
+    },
+    {
+      "sample_idx": 1238,
+      "predicted": "",
+      "actual": "THESE LAWS WOULD REMAIN IN PLACE FOR OVER 200 YEARS",
+      "file_path": "sample_1238"
+    },
+    {
+      "sample_idx": 1239,
+      "predicted": "",
+      "actual": "AS A RESULT OF THE GUNPOWDER PLOT",
+      "file_path": "sample_1239"
+    },
+    {
+      "sample_idx": 1240,
+      "predicted": "",
+      "actual": "IT MAY TAKE SOME TIME",
+      "file_path": "sample_1240"
+    },
+    {
+      "sample_idx": 1241,
+      "predicted": "",
+      "actual": "YOU KNOW MOST OF IT",
+      "file_path": "sample_1241"
+    },
+    {
+      "sample_idx": 1242,
+      "predicted": "",
+      "actual": "SO I'LL ASK YOU AGAIN",
+      "file_path": "sample_1242"
+    }
+  ]
+}

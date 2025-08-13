@@ -33,14 +33,14 @@ def get_trainer(args):
         strategy=DDPStrategy(find_unused_parameters=False),
         callbacks=callbacks,
         reload_dataloaders_every_n_epochs=1,
-        logger=WandbLogger(name=args.exp_name, project="auto_avsr_lipreader_vit", group=args.group_name),
+        logger=WandbLogger(name=args.exp_name, project="auto_avsr_lipreader_hf_vit", group=args.group_name),
         gradient_clip_val=10.0,
     )
 
 
 def get_lightning_module(args):
-    from lightning_vit import ModelModule_ViT
-    modelmodule = ModelModule_ViT(args)
+    from lightning_hf_vit import ModelModule_HF_ViT
+    modelmodule = ModelModule_HF_ViT(args)
     return modelmodule
 
 
@@ -67,7 +67,7 @@ def parse_args():
     parser.add_argument(
         "--modality",
         type=str,
-        help="Type of input modality (only video supported for ViT)",
+        help="Type of input modality (only video supported for HF ViT)",
         default="video",
         choices=["video"],
     )
@@ -112,6 +112,29 @@ def parse_args():
         "--pretrained-model-path",
         type=str,
         help="Path to the pre-trained model",
+    )
+    parser.add_argument(
+        "--vit-model-name",
+        type=str,
+        default="google/vit-base-patch16-224",
+        help="Hugging Face ViT model name (Default: google/vit-base-patch16-224)",
+    )
+    parser.add_argument(
+        "--freeze-vit",
+        action="store_true",
+        help="Freeze the pretrained ViT backbone",
+    )
+    parser.add_argument(
+        "--frontend-output-dim",
+        type=int,
+        default=512,
+        help="Output dimension of the ViT frontend (Default: 512)",
+    )
+    parser.add_argument(
+        "--encoder-dim",
+        type=int,
+        default=768,
+        help="Encoder dimension (Default: 768)",
     )
     parser.add_argument(
         "--warmup-epochs",

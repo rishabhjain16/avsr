@@ -136,14 +136,14 @@ def parse_args():
     )
     parser.add_argument(
         "--max-epochs",
-        default=10,
+        default=100,
         type=int,
         help="Number of epochs. (Default: 75)",
     )
     parser.add_argument(
         "--max-frames",
         type=int,
-        default=1600,
+        default=2000,
         help="Maximal number of frames in a batch. (Default: 1600)",
     )
     parser.add_argument(
