@@ -1,4 +1,7 @@
 # Auto-AVSR: Lip-reading Sentences Project
+[] Forked from Auto-AVSR
+[] Made changs to work with VIT as encoder from HF
+[] Need to try training on bigger GPUs
 
 ## Update
 
